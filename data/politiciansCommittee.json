@@ -58,22 +58,33 @@
   ],
   [
     {
-      "ctct_recno": 200769,
-      "ct_recno": 200024,
+      "ctct_recno": 200674,
+      "ct_recno": 200120,
       "ct_domain": 1,
       "ct_active": -1,
-      "ct_searchname": "Venstre",
+      "ct_searchname": "Arbeiderpartiet",
       "to_no": null,
       "ccr_sortid": 10,
       "ccr_roleto": "Parti",
       "ccr_desc": "Partimedlem"
     },
     {
-      "ctct_recno": 201140,
+      "ctct_recno": 201073,
       "ct_recno": 200145,
       "ct_domain": 16,
       "ct_active": -1,
       "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
+    },
+    {
+      "ctct_recno": 201110,
+      "ct_recno": 200148,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
       "to_no": null,
       "ccr_sortid": 40,
       "ccr_roleto": "Varamedlem i",
@@ -106,6 +117,102 @@
   ],
   [
     {
+      "ctct_recno": 200898,
+      "ct_recno": 200119,
+      "ct_domain": 1,
+      "ct_active": -1,
+      "ct_searchname": "Sosialistisk Venstreparti",
+      "to_no": null,
+      "ccr_sortid": 10,
+      "ccr_roleto": "Parti",
+      "ccr_desc": "Partimedlem"
+    },
+    {
+      "ctct_recno": 200899,
+      "ct_recno": 200149,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Hovudutval for samferdsel (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
+    }
+  ],
+  [
+    {
+      "ctct_recno": 200769,
+      "ct_recno": 200024,
+      "ct_domain": 1,
+      "ct_active": -1,
+      "ct_searchname": "Venstre",
+      "to_no": null,
+      "ccr_sortid": 10,
+      "ccr_roleto": "Parti",
+      "ccr_desc": "Partimedlem"
+    },
+    {
+      "ctct_recno": 201140,
+      "ct_recno": 200145,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
+    }
+  ],
+  [
+    {
+      "ctct_recno": 200815,
+      "ct_recno": 200125,
+      "ct_domain": 1,
+      "ct_active": -1,
+      "ct_searchname": "Senterpartiet",
+      "to_no": null,
+      "ccr_sortid": 10,
+      "ccr_roleto": "Parti",
+      "ccr_desc": "Partimedlem"
+    },
+    {
+      "ctct_recno": 200816,
+      "ct_recno": 200144,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Hovudutval for næringsutvikling (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
+    }
+  ],
+  [
+    {
+      "ctct_recno": 200794,
+      "ct_recno": 200120,
+      "ct_domain": 1,
+      "ct_active": -1,
+      "ct_searchname": "Arbeiderpartiet",
+      "to_no": null,
+      "ccr_sortid": 10,
+      "ccr_roleto": "Parti",
+      "ccr_desc": "Partimedlem"
+    },
+    {
+      "ctct_recno": 200795,
+      "ct_recno": 200144,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Hovudutval for næringsutvikling (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
+    }
+  ],
+  [
+    {
       "ctct_recno": 200673,
       "ct_recno": 200120,
       "ct_domain": 1,
@@ -129,65 +236,6 @@
     },
     {
       "ctct_recno": 201109,
-      "ct_recno": 200148,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
-      "ctct_recno": 200722,
-      "ct_recno": 200125,
-      "ct_domain": 1,
-      "ct_active": -1,
-      "ct_searchname": "Senterpartiet",
-      "to_no": null,
-      "ccr_sortid": 10,
-      "ccr_roleto": "Parti",
-      "ccr_desc": "Partimedlem"
-    },
-    {
-      "ctct_recno": 201070,
-      "ct_recno": 200145,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
-      "ctct_recno": 200674,
-      "ct_recno": 200120,
-      "ct_domain": 1,
-      "ct_active": -1,
-      "ct_searchname": "Arbeiderpartiet",
-      "to_no": null,
-      "ccr_sortid": 10,
-      "ccr_roleto": "Parti",
-      "ccr_desc": "Partimedlem"
-    },
-    {
-      "ctct_recno": 201073,
-      "ct_recno": 200145,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
-    },
-    {
-      "ctct_recno": 201110,
       "ct_recno": 200148,
       "ct_domain": 16,
       "ct_active": -1,
@@ -257,155 +305,6 @@
   ],
   [
     {
-      "ctct_recno": 200815,
-      "ct_recno": 200125,
-      "ct_domain": 1,
-      "ct_active": -1,
-      "ct_searchname": "Senterpartiet",
-      "to_no": null,
-      "ccr_sortid": 10,
-      "ccr_roleto": "Parti",
-      "ccr_desc": "Partimedlem"
-    },
-    {
-      "ctct_recno": 200816,
-      "ct_recno": 200144,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Hovudutval for næringsutvikling (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
-      "ctct_recno": 200653,
-      "ct_recno": 200124,
-      "ct_domain": 1,
-      "ct_active": -1,
-      "ct_searchname": "Kristelig Folkeparti",
-      "to_no": null,
-      "ccr_sortid": 10,
-      "ccr_roleto": "Parti",
-      "ccr_desc": "Partimedlem"
-    },
-    {
-      "ctct_recno": 200832,
-      "ct_recno": 200144,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Hovudutval for næringsutvikling (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
-    },
-    {
-      "ctct_recno": 201062,
-      "ct_recno": 200145,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 30,
-      "ccr_roleto": "Medlem i",
-      "ccr_desc": "Utvalgsmedlem"
-    },
-    {
-      "ctct_recno": 200921,
-      "ct_recno": 200147,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Fylkesutvalet (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
-    },
-    {
-      "ctct_recno": 201044,
-      "ct_recno": 200148,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 30,
-      "ccr_roleto": "Medlem i",
-      "ccr_desc": "Utvalgsmedlem"
-    },
-    {
-      "ctct_recno": 201751,
-      "ct_recno": 209066,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Fylkesvalstyret (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
-      "ctct_recno": 200566,
-      "ct_recno": 200123,
-      "ct_domain": 1,
-      "ct_active": -1,
-      "ct_searchname": "Høyre",
-      "to_no": null,
-      "ccr_sortid": 10,
-      "ccr_roleto": "Parti",
-      "ccr_desc": "Partimedlem"
-    },
-    {
-      "ctct_recno": 201052,
-      "ct_recno": 200145,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 30,
-      "ccr_roleto": "Medlem i",
-      "ccr_desc": "Utvalgsmedlem"
-    },
-    {
-      "ctct_recno": 200776,
-      "ct_recno": 200147,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Fylkesutvalet (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 30,
-      "ccr_roleto": "Medlem i",
-      "ccr_desc": "Utvalgsmedlem"
-    },
-    {
-      "ctct_recno": 200853,
-      "ct_recno": 200149,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Hovudutval for samferdsel (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 30,
-      "ccr_roleto": "Medlem i",
-      "ccr_desc": "Utvalgsmedlem"
-    },
-    {
-      "ctct_recno": 201733,
-      "ct_recno": 209066,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Fylkesvalstyret (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 30,
-      "ccr_roleto": "Medlem i",
-      "ccr_desc": "Utvalgsmedlem"
-    }
-  ],
-  [
-    {
       "ctct_recno": 200961,
       "ct_recno": 200123,
       "ct_domain": 1,
@@ -430,278 +329,22 @@
   ],
   [
     {
-      "ctct_recno": 200687,
-      "ct_recno": 200120,
+      "ctct_recno": 200722,
+      "ct_recno": 200125,
       "ct_domain": 1,
       "ct_active": -1,
-      "ct_searchname": "Arbeiderpartiet",
+      "ct_searchname": "Senterpartiet",
       "to_no": null,
       "ccr_sortid": 10,
       "ccr_roleto": "Parti",
       "ccr_desc": "Partimedlem"
     },
     {
-      "ctct_recno": 201085,
+      "ctct_recno": 201070,
       "ct_recno": 200145,
       "ct_domain": 16,
       "ct_active": -1,
       "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
-    },
-    {
-      "ctct_recno": 201111,
-      "ct_recno": 200148,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
-      "ctct_recno": 200898,
-      "ct_recno": 200119,
-      "ct_domain": 1,
-      "ct_active": -1,
-      "ct_searchname": "Sosialistisk Venstreparti",
-      "to_no": null,
-      "ccr_sortid": 10,
-      "ccr_roleto": "Parti",
-      "ccr_desc": "Partimedlem"
-    },
-    {
-      "ctct_recno": 200899,
-      "ct_recno": 200149,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Hovudutval for samferdsel (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
-      "ctct_recno": 200235,
-      "ct_recno": 200120,
-      "ct_domain": 1,
-      "ct_active": -1,
-      "ct_searchname": "Arbeiderpartiet",
-      "to_no": null,
-      "ccr_sortid": 10,
-      "ccr_roleto": "Parti",
-      "ccr_desc": "Partimedlem"
-    },
-    {
-      "ctct_recno": 200998,
-      "ct_recno": 200145,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 30,
-      "ccr_roleto": "Medlem i",
-      "ccr_desc": "Utvalgsmedlem"
-    },
-    {
-      "ctct_recno": 200774,
-      "ct_recno": 200147,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Fylkesutvalet (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 30,
-      "ccr_roleto": "Medlem i",
-      "ccr_desc": "Utvalgsmedlem"
-    },
-    {
-      "ctct_recno": 200981,
-      "ct_recno": 200148,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 10,
-      "ccr_roleto": "Leder i",
-      "ccr_desc": "Leder i utvalg"
-    },
-    {
-      "ctct_recno": 200244,
-      "ct_recno": 200151,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Administrasjonsutvalet (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 10,
-      "ccr_roleto": "Leder i",
-      "ccr_desc": "Leder i utvalg"
-    },
-    {
-      "ctct_recno": 201182,
-      "ct_recno": 200173,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Forhandlingsutvalet (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 10,
-      "ccr_roleto": "Leder i",
-      "ccr_desc": "Leder i utvalg"
-    },
-    {
-      "ctct_recno": 201729,
-      "ct_recno": 209066,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Fylkesvalstyret (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 30,
-      "ccr_roleto": "Medlem i",
-      "ccr_desc": "Utvalgsmedlem"
-    }
-  ],
-  [
-    {
-      "ctct_recno": 200688,
-      "ct_recno": 200120,
-      "ct_domain": 1,
-      "ct_active": -1,
-      "ct_searchname": "Arbeiderpartiet",
-      "to_no": null,
-      "ccr_sortid": 10,
-      "ccr_roleto": "Parti",
-      "ccr_desc": "Partimedlem"
-    },
-    {
-      "ctct_recno": 201086,
-      "ct_recno": 200145,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
-    },
-    {
-      "ctct_recno": 201112,
-      "ct_recno": 200148,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
-      "ctct_recno": 200794,
-      "ct_recno": 200120,
-      "ct_domain": 1,
-      "ct_active": -1,
-      "ct_searchname": "Arbeiderpartiet",
-      "to_no": null,
-      "ccr_sortid": 10,
-      "ccr_roleto": "Parti",
-      "ccr_desc": "Partimedlem"
-    },
-    {
-      "ctct_recno": 200795,
-      "ct_recno": 200144,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Hovudutval for næringsutvikling (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
-      "ctct_recno": 200684,
-      "ct_recno": 200120,
-      "ct_domain": 1,
-      "ct_active": -1,
-      "ct_searchname": "Arbeiderpartiet",
-      "to_no": null,
-      "ccr_sortid": 10,
-      "ccr_roleto": "Parti",
-      "ccr_desc": "Partimedlem"
-    },
-    {
-      "ctct_recno": 200789,
-      "ct_recno": 200144,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Hovudutval for næringsutvikling (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
-    },
-    {
-      "ctct_recno": 201082,
-      "ct_recno": 200145,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
-      "ctct_recno": 200957,
-      "ct_recno": 200120,
-      "ct_domain": 1,
-      "ct_active": -1,
-      "ct_searchname": "Arbeiderpartiet",
-      "to_no": null,
-      "ccr_sortid": 10,
-      "ccr_roleto": "Parti",
-      "ccr_desc": "Partimedlem"
-    },
-    {
-      "ctct_recno": 200958,
-      "ct_recno": 200175,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Telemark fylkeskommunale klagenemnd (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 10,
-      "ccr_roleto": "Leder i",
-      "ccr_desc": "Leder i utvalg"
-    }
-  ],
-  [
-    {
-      "ctct_recno": 200792,
-      "ct_recno": 200120,
-      "ct_domain": 1,
-      "ct_active": -1,
-      "ct_searchname": "Arbeiderpartiet",
-      "to_no": null,
-      "ccr_sortid": 10,
-      "ccr_roleto": "Parti",
-      "ccr_desc": "Partimedlem"
-    },
-    {
-      "ctct_recno": 200793,
-      "ct_recno": 200144,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Hovudutval for næringsutvikling (01.10.2011 - 30.09.2015)",
       "to_no": null,
       "ccr_sortid": 40,
       "ccr_roleto": "Varamedlem i",
@@ -800,7 +443,7 @@
   ],
   [
     {
-      "ctct_recno": 200999,
+      "ctct_recno": 200687,
       "ct_recno": 200120,
       "ct_domain": 1,
       "ct_active": -1,
@@ -811,7 +454,112 @@
       "ccr_desc": "Partimedlem"
     },
     {
-      "ctct_recno": 201016,
+      "ctct_recno": 201085,
+      "ct_recno": 200145,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
+    },
+    {
+      "ctct_recno": 201111,
+      "ct_recno": 200148,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
+    }
+  ],
+  [
+    {
+      "ctct_recno": 200957,
+      "ct_recno": 200120,
+      "ct_domain": 1,
+      "ct_active": -1,
+      "ct_searchname": "Arbeiderpartiet",
+      "to_no": null,
+      "ccr_sortid": 10,
+      "ccr_roleto": "Parti",
+      "ccr_desc": "Partimedlem"
+    },
+    {
+      "ctct_recno": 200958,
+      "ct_recno": 200175,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Telemark fylkeskommunale klagenemnd (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 10,
+      "ccr_roleto": "Leder i",
+      "ccr_desc": "Leder i utvalg"
+    }
+  ],
+  [
+    {
+      "ctct_recno": 200688,
+      "ct_recno": 200120,
+      "ct_domain": 1,
+      "ct_active": -1,
+      "ct_searchname": "Arbeiderpartiet",
+      "to_no": null,
+      "ccr_sortid": 10,
+      "ccr_roleto": "Parti",
+      "ccr_desc": "Partimedlem"
+    },
+    {
+      "ctct_recno": 201086,
+      "ct_recno": 200145,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
+    },
+    {
+      "ctct_recno": 201112,
+      "ct_recno": 200148,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
+    }
+  ],
+  [
+    {
+      "ctct_recno": 200653,
+      "ct_recno": 200124,
+      "ct_domain": 1,
+      "ct_active": -1,
+      "ct_searchname": "Kristelig Folkeparti",
+      "to_no": null,
+      "ccr_sortid": 10,
+      "ccr_roleto": "Parti",
+      "ccr_desc": "Partimedlem"
+    },
+    {
+      "ctct_recno": 200832,
+      "ct_recno": 200144,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Hovudutval for næringsutvikling (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
+    },
+    {
+      "ctct_recno": 201062,
       "ct_recno": 200145,
       "ct_domain": 16,
       "ct_active": -1,
@@ -822,7 +570,7 @@
       "ccr_desc": "Utvalgsmedlem"
     },
     {
-      "ctct_recno": 200905,
+      "ctct_recno": 200921,
       "ct_recno": 200147,
       "ct_domain": 16,
       "ct_active": -1,
@@ -833,18 +581,18 @@
       "ccr_desc": "Varamedlem i utvalg"
     },
     {
-      "ctct_recno": 201005,
+      "ctct_recno": 201044,
       "ct_recno": 200148,
       "ct_domain": 16,
       "ct_active": -1,
       "ct_searchname": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
       "to_no": null,
-      "ccr_sortid": 20,
-      "ccr_roleto": "Nestleder i",
-      "ccr_desc": "Nestleder i utvalg"
+      "ccr_sortid": 30,
+      "ccr_roleto": "Medlem i",
+      "ccr_desc": "Utvalgsmedlem"
     },
     {
-      "ctct_recno": 201740,
+      "ctct_recno": 201751,
       "ct_recno": 209066,
       "ct_domain": 16,
       "ct_active": -1,
@@ -877,6 +625,350 @@
       "ccr_sortid": 30,
       "ccr_roleto": "Medlem i",
       "ccr_desc": "Utvalgsmedlem"
+    }
+  ],
+  [
+    {
+      "ctct_recno": 200708,
+      "ct_recno": 200123,
+      "ct_domain": 1,
+      "ct_active": -1,
+      "ct_searchname": "Høyre",
+      "to_no": null,
+      "ccr_sortid": 10,
+      "ccr_roleto": "Parti",
+      "ccr_desc": "Partimedlem"
+    },
+    {
+      "ctct_recno": 201106,
+      "ct_recno": 200145,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
+    },
+    {
+      "ctct_recno": 201147,
+      "ct_recno": 200148,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
+    },
+    {
+      "ctct_recno": 200950,
+      "ct_recno": 200149,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Hovudutval for samferdsel (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
+    },
+    {
+      "ctct_recno": 201176,
+      "ct_recno": 200150,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Klagenemnda for skolesaker (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 30,
+      "ccr_roleto": "Medlem i",
+      "ccr_desc": "Utvalgsmedlem"
+    }
+  ],
+  [
+    {
+      "ctct_recno": 200566,
+      "ct_recno": 200123,
+      "ct_domain": 1,
+      "ct_active": -1,
+      "ct_searchname": "Høyre",
+      "to_no": null,
+      "ccr_sortid": 10,
+      "ccr_roleto": "Parti",
+      "ccr_desc": "Partimedlem"
+    },
+    {
+      "ctct_recno": 201052,
+      "ct_recno": 200145,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 30,
+      "ccr_roleto": "Medlem i",
+      "ccr_desc": "Utvalgsmedlem"
+    },
+    {
+      "ctct_recno": 200776,
+      "ct_recno": 200147,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Fylkesutvalet (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 30,
+      "ccr_roleto": "Medlem i",
+      "ccr_desc": "Utvalgsmedlem"
+    },
+    {
+      "ctct_recno": 200853,
+      "ct_recno": 200149,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Hovudutval for samferdsel (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 30,
+      "ccr_roleto": "Medlem i",
+      "ccr_desc": "Utvalgsmedlem"
+    },
+    {
+      "ctct_recno": 201733,
+      "ct_recno": 209066,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Fylkesvalstyret (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 30,
+      "ccr_roleto": "Medlem i",
+      "ccr_desc": "Utvalgsmedlem"
+    }
+  ],
+  [
+    {
+      "ctct_recno": 200255,
+      "ct_recno": 200122,
+      "ct_domain": 1,
+      "ct_active": -1,
+      "ct_searchname": "Fremskrittspartiet",
+      "to_no": null,
+      "ccr_sortid": 10,
+      "ccr_roleto": "Parti",
+      "ccr_desc": "Partimedlem"
+    },
+    {
+      "ctct_recno": 201048,
+      "ct_recno": 200145,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 30,
+      "ccr_roleto": "Medlem i",
+      "ccr_desc": "Utvalgsmedlem"
+    },
+    {
+      "ctct_recno": 200909,
+      "ct_recno": 200147,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Fylkesutvalet (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
+    },
+    {
+      "ctct_recno": 201744,
+      "ct_recno": 209066,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Fylkesvalstyret (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
+    }
+  ],
+  [
+    {
+      "ctct_recno": 200235,
+      "ct_recno": 200120,
+      "ct_domain": 1,
+      "ct_active": -1,
+      "ct_searchname": "Arbeiderpartiet",
+      "to_no": null,
+      "ccr_sortid": 10,
+      "ccr_roleto": "Parti",
+      "ccr_desc": "Partimedlem"
+    },
+    {
+      "ctct_recno": 200998,
+      "ct_recno": 200145,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 30,
+      "ccr_roleto": "Medlem i",
+      "ccr_desc": "Utvalgsmedlem"
+    },
+    {
+      "ctct_recno": 200774,
+      "ct_recno": 200147,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Fylkesutvalet (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 30,
+      "ccr_roleto": "Medlem i",
+      "ccr_desc": "Utvalgsmedlem"
+    },
+    {
+      "ctct_recno": 200981,
+      "ct_recno": 200148,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 10,
+      "ccr_roleto": "Leder i",
+      "ccr_desc": "Leder i utvalg"
+    },
+    {
+      "ctct_recno": 200244,
+      "ct_recno": 200151,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Administrasjonsutvalet (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 10,
+      "ccr_roleto": "Leder i",
+      "ccr_desc": "Leder i utvalg"
+    },
+    {
+      "ctct_recno": 201182,
+      "ct_recno": 200173,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Forhandlingsutvalet (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 10,
+      "ccr_roleto": "Leder i",
+      "ccr_desc": "Leder i utvalg"
+    },
+    {
+      "ctct_recno": 201729,
+      "ct_recno": 209066,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Fylkesvalstyret (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 30,
+      "ccr_roleto": "Medlem i",
+      "ccr_desc": "Utvalgsmedlem"
+    }
+  ],
+  [
+    {
+      "ctct_recno": 200679,
+      "ct_recno": 200120,
+      "ct_domain": 1,
+      "ct_active": -1,
+      "ct_searchname": "Arbeiderpartiet",
+      "to_no": null,
+      "ccr_sortid": 10,
+      "ccr_roleto": "Parti",
+      "ccr_desc": "Partimedlem"
+    },
+    {
+      "ctct_recno": 201078,
+      "ct_recno": 200145,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
+    },
+    {
+      "ctct_recno": 200871,
+      "ct_recno": 200149,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Hovudutval for samferdsel (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
+    },
+    {
+      "ctct_recno": 201177,
+      "ct_recno": 200150,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Klagenemnda for skolesaker (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
+    }
+  ],
+  [
+    {
+      "ctct_recno": 200684,
+      "ct_recno": 200120,
+      "ct_domain": 1,
+      "ct_active": -1,
+      "ct_searchname": "Arbeiderpartiet",
+      "to_no": null,
+      "ccr_sortid": 10,
+      "ccr_roleto": "Parti",
+      "ccr_desc": "Partimedlem"
+    },
+    {
+      "ctct_recno": 200789,
+      "ct_recno": 200144,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Hovudutval for næringsutvikling (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
+    },
+    {
+      "ctct_recno": 201082,
+      "ct_recno": 200145,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
+    }
+  ],
+  [
+    {
+      "ctct_recno": 200792,
+      "ct_recno": 200120,
+      "ct_domain": 1,
+      "ct_active": -1,
+      "ct_searchname": "Arbeiderpartiet",
+      "to_no": null,
+      "ccr_sortid": 10,
+      "ccr_roleto": "Parti",
+      "ccr_desc": "Partimedlem"
+    },
+    {
+      "ctct_recno": 200793,
+      "ct_recno": 200144,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Hovudutval for næringsutvikling (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
     }
   ],
   [
@@ -927,18 +1019,18 @@
   ],
   [
     {
-      "ctct_recno": 200255,
-      "ct_recno": 200122,
+      "ctct_recno": 200503,
+      "ct_recno": 200120,
       "ct_domain": 1,
       "ct_active": -1,
-      "ct_searchname": "Fremskrittspartiet",
+      "ct_searchname": "Arbeiderpartiet",
       "to_no": null,
       "ccr_sortid": 10,
       "ccr_roleto": "Parti",
       "ccr_desc": "Partimedlem"
     },
     {
-      "ctct_recno": 201048,
+      "ctct_recno": 201003,
       "ct_recno": 200145,
       "ct_domain": 16,
       "ct_active": -1,
@@ -949,7 +1041,18 @@
       "ccr_desc": "Utvalgsmedlem"
     },
     {
-      "ctct_recno": 200909,
+      "ctct_recno": 200879,
+      "ct_recno": 200146,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Hovudutval for kompetanse (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 30,
+      "ccr_roleto": "Medlem i",
+      "ccr_desc": "Utvalgsmedlem"
+    },
+    {
+      "ctct_recno": 200902,
       "ct_recno": 200147,
       "ct_domain": 16,
       "ct_active": -1,
@@ -960,7 +1063,7 @@
       "ccr_desc": "Varamedlem i utvalg"
     },
     {
-      "ctct_recno": 201744,
+      "ctct_recno": 201737,
       "ct_recno": 209066,
       "ct_domain": 16,
       "ct_active": -1,
@@ -1065,7 +1168,7 @@
   ],
   [
     {
-      "ctct_recno": 200503,
+      "ctct_recno": 200999,
       "ct_recno": 200120,
       "ct_domain": 1,
       "ct_active": -1,
@@ -1076,7 +1179,7 @@
       "ccr_desc": "Partimedlem"
     },
     {
-      "ctct_recno": 201003,
+      "ctct_recno": 201016,
       "ct_recno": 200145,
       "ct_domain": 16,
       "ct_active": -1,
@@ -1087,18 +1190,7 @@
       "ccr_desc": "Utvalgsmedlem"
     },
     {
-      "ctct_recno": 200879,
-      "ct_recno": 200146,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Hovudutval for kompetanse (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 30,
-      "ccr_roleto": "Medlem i",
-      "ccr_desc": "Utvalgsmedlem"
-    },
-    {
-      "ctct_recno": 200902,
+      "ctct_recno": 200905,
       "ct_recno": 200147,
       "ct_domain": 16,
       "ct_active": -1,
@@ -1109,7 +1201,18 @@
       "ccr_desc": "Varamedlem i utvalg"
     },
     {
-      "ctct_recno": 201737,
+      "ctct_recno": 201005,
+      "ct_recno": 200148,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 20,
+      "ccr_roleto": "Nestleder i",
+      "ccr_desc": "Nestleder i utvalg"
+    },
+    {
+      "ctct_recno": 201740,
       "ct_recno": 209066,
       "ct_domain": 16,
       "ct_active": -1,
@@ -1122,18 +1225,18 @@
   ],
   [
     {
-      "ctct_recno": 200708,
-      "ct_recno": 200123,
+      "ctct_recno": 200681,
+      "ct_recno": 200120,
       "ct_domain": 1,
       "ct_active": -1,
-      "ct_searchname": "Høyre",
+      "ct_searchname": "Arbeiderpartiet",
       "to_no": null,
       "ccr_sortid": 10,
       "ccr_roleto": "Parti",
       "ccr_desc": "Partimedlem"
     },
     {
-      "ctct_recno": 201106,
+      "ctct_recno": 201079,
       "ct_recno": 200145,
       "ct_domain": 16,
       "ct_active": -1,
@@ -1144,37 +1247,15 @@
       "ccr_desc": "Varamedlem i utvalg"
     },
     {
-      "ctct_recno": 201147,
-      "ct_recno": 200148,
+      "ctct_recno": 200928,
+      "ct_recno": 200146,
       "ct_domain": 16,
       "ct_active": -1,
-      "ct_searchname": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
+      "ct_searchname": "Hovudutval for kompetanse (01.10.2011 - 30.09.2015)",
       "to_no": null,
       "ccr_sortid": 40,
       "ccr_roleto": "Varamedlem i",
       "ccr_desc": "Varamedlem i utvalg"
-    },
-    {
-      "ctct_recno": 200950,
-      "ct_recno": 200149,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Hovudutval for samferdsel (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
-    },
-    {
-      "ctct_recno": 201176,
-      "ct_recno": 200150,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Klagenemnda for skolesaker (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 30,
-      "ccr_roleto": "Medlem i",
-      "ccr_desc": "Utvalgsmedlem"
     }
   ],
   [
@@ -1199,52 +1280,6 @@
       "ccr_sortid": 30,
       "ccr_roleto": "Medlem i",
       "ccr_desc": "Utvalgsmedlem"
-    }
-  ],
-  [
-    {
-      "ctct_recno": 200679,
-      "ct_recno": 200120,
-      "ct_domain": 1,
-      "ct_active": -1,
-      "ct_searchname": "Arbeiderpartiet",
-      "to_no": null,
-      "ccr_sortid": 10,
-      "ccr_roleto": "Parti",
-      "ccr_desc": "Partimedlem"
-    },
-    {
-      "ctct_recno": 201078,
-      "ct_recno": 200145,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
-    },
-    {
-      "ctct_recno": 200871,
-      "ct_recno": 200149,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Hovudutval for samferdsel (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
-    },
-    {
-      "ctct_recno": 201177,
-      "ct_recno": 200150,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Klagenemnda for skolesaker (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
     }
   ],
   [
@@ -1306,41 +1341,6 @@
   ],
   [
     {
-      "ctct_recno": 200681,
-      "ct_recno": 200120,
-      "ct_domain": 1,
-      "ct_active": -1,
-      "ct_searchname": "Arbeiderpartiet",
-      "to_no": null,
-      "ccr_sortid": 10,
-      "ccr_roleto": "Parti",
-      "ccr_desc": "Partimedlem"
-    },
-    {
-      "ctct_recno": 201079,
-      "ct_recno": 200145,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
-    },
-    {
-      "ctct_recno": 200928,
-      "ct_recno": 200146,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Hovudutval for kompetanse (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
       "ctct_recno": 200573,
       "ct_recno": 200123,
       "ct_domain": 1,
@@ -1390,6 +1390,142 @@
       "ct_domain": 16,
       "ct_active": -1,
       "ct_searchname": "Fylkesvalstyret (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
+    }
+  ],
+  [
+    {
+      "ctct_recno": 200561,
+      "ct_recno": 200122,
+      "ct_domain": 1,
+      "ct_active": -1,
+      "ct_searchname": "Fremskrittspartiet",
+      "to_no": null,
+      "ccr_sortid": 10,
+      "ccr_roleto": "Parti",
+      "ccr_desc": "Partimedlem"
+    },
+    {
+      "ctct_recno": 201050,
+      "ct_recno": 200145,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 30,
+      "ccr_roleto": "Medlem i",
+      "ccr_desc": "Utvalgsmedlem"
+    },
+    {
+      "ctct_recno": 200912,
+      "ct_recno": 200147,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Fylkesutvalet (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
+    },
+    {
+      "ctct_recno": 200851,
+      "ct_recno": 200149,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Hovudutval for samferdsel (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 30,
+      "ccr_roleto": "Medlem i",
+      "ccr_desc": "Utvalgsmedlem"
+    },
+    {
+      "ctct_recno": 201031,
+      "ct_recno": 200151,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Administrasjonsutvalet (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
+    },
+    {
+      "ctct_recno": 201206,
+      "ct_recno": 200173,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Forhandlingsutvalet (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
+    },
+    {
+      "ctct_recno": 201167,
+      "ct_recno": 200178,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Fylkeskommunalt råd for personer med nedsatt funksjonsevne (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
+    },
+    {
+      "ctct_recno": 201746,
+      "ct_recno": 209066,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Fylkesvalstyret (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
+    }
+  ],
+  [
+    {
+      "ctct_recno": 200764,
+      "ct_recno": 200119,
+      "ct_domain": 1,
+      "ct_active": -1,
+      "ct_searchname": "Sosialistisk Venstreparti",
+      "to_no": null,
+      "ccr_sortid": 10,
+      "ccr_roleto": "Parti",
+      "ccr_desc": "Partimedlem"
+    },
+    {
+      "ctct_recno": 201134,
+      "ct_recno": 200145,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
+    },
+    {
+      "ctct_recno": 201143,
+      "ct_recno": 200148,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
+    },
+    {
+      "ctct_recno": 200890,
+      "ct_recno": 200149,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Hovudutval for samferdsel (01.10.2011 - 30.09.2015)",
       "to_no": null,
       "ccr_sortid": 40,
       "ccr_roleto": "Varamedlem i",
@@ -1545,177 +1681,6 @@
   ],
   [
     {
-      "ctct_recno": 200561,
-      "ct_recno": 200122,
-      "ct_domain": 1,
-      "ct_active": -1,
-      "ct_searchname": "Fremskrittspartiet",
-      "to_no": null,
-      "ccr_sortid": 10,
-      "ccr_roleto": "Parti",
-      "ccr_desc": "Partimedlem"
-    },
-    {
-      "ctct_recno": 201050,
-      "ct_recno": 200145,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 30,
-      "ccr_roleto": "Medlem i",
-      "ccr_desc": "Utvalgsmedlem"
-    },
-    {
-      "ctct_recno": 200912,
-      "ct_recno": 200147,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Fylkesutvalet (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
-    },
-    {
-      "ctct_recno": 200851,
-      "ct_recno": 200149,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Hovudutval for samferdsel (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 30,
-      "ccr_roleto": "Medlem i",
-      "ccr_desc": "Utvalgsmedlem"
-    },
-    {
-      "ctct_recno": 201031,
-      "ct_recno": 200151,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Administrasjonsutvalet (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
-    },
-    {
-      "ctct_recno": 201206,
-      "ct_recno": 200173,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Forhandlingsutvalet (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
-    },
-    {
-      "ctct_recno": 201167,
-      "ct_recno": 200178,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Fylkeskommunalt råd for personer med nedsatt funksjonsevne (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
-    },
-    {
-      "ctct_recno": 201746,
-      "ct_recno": 209066,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Fylkesvalstyret (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
-      "ctct_recno": 200764,
-      "ct_recno": 200119,
-      "ct_domain": 1,
-      "ct_active": -1,
-      "ct_searchname": "Sosialistisk Venstreparti",
-      "to_no": null,
-      "ccr_sortid": 10,
-      "ccr_roleto": "Parti",
-      "ccr_desc": "Partimedlem"
-    },
-    {
-      "ctct_recno": 201134,
-      "ct_recno": 200145,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
-    },
-    {
-      "ctct_recno": 201143,
-      "ct_recno": 200148,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
-    },
-    {
-      "ctct_recno": 200890,
-      "ct_recno": 200149,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Hovudutval for samferdsel (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
-      "ctct_recno": 200231,
-      "ct_recno": 200120,
-      "ct_domain": 1,
-      "ct_active": -1,
-      "ct_searchname": "Arbeiderpartiet",
-      "to_no": null,
-      "ccr_sortid": 10,
-      "ccr_roleto": "Parti",
-      "ccr_desc": "Partimedlem"
-    },
-    {
-      "ctct_recno": 201030,
-      "ct_recno": 200145,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 30,
-      "ccr_roleto": "Medlem i",
-      "ccr_desc": "Utvalgsmedlem"
-    },
-    {
-      "ctct_recno": 200878,
-      "ct_recno": 200146,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Hovudutval for kompetanse (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 30,
-      "ccr_roleto": "Medlem i",
-      "ccr_desc": "Utvalgsmedlem"
-    }
-  ],
-  [
-    {
       "ctct_recno": 200707,
       "ct_recno": 200123,
       "ct_domain": 1,
@@ -1775,6 +1740,65 @@
   ],
   [
     {
+      "ctct_recno": 201037,
+      "ct_recno": 200120,
+      "ct_domain": 1,
+      "ct_active": -1,
+      "ct_searchname": "Arbeiderpartiet",
+      "to_no": null,
+      "ccr_sortid": 10,
+      "ccr_roleto": "Parti",
+      "ccr_desc": "Partimedlem"
+    },
+    {
+      "ctct_recno": 201038,
+      "ct_recno": 200148,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 30,
+      "ccr_roleto": "Medlem i",
+      "ccr_desc": "Utvalgsmedlem"
+    }
+  ],
+  [
+    {
+      "ctct_recno": 200231,
+      "ct_recno": 200120,
+      "ct_domain": 1,
+      "ct_active": -1,
+      "ct_searchname": "Arbeiderpartiet",
+      "to_no": null,
+      "ccr_sortid": 10,
+      "ccr_roleto": "Parti",
+      "ccr_desc": "Partimedlem"
+    },
+    {
+      "ctct_recno": 201030,
+      "ct_recno": 200145,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 30,
+      "ccr_roleto": "Medlem i",
+      "ccr_desc": "Utvalgsmedlem"
+    },
+    {
+      "ctct_recno": 200878,
+      "ct_recno": 200146,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Hovudutval for kompetanse (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 30,
+      "ccr_roleto": "Medlem i",
+      "ccr_desc": "Utvalgsmedlem"
+    }
+  ],
+  [
+    {
       "ctct_recno": 200703,
       "ct_recno": 200123,
       "ct_domain": 1,
@@ -1791,6 +1815,52 @@
       "ct_domain": 16,
       "ct_active": -1,
       "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
+    }
+  ],
+  [
+    {
+      "ctct_recno": 200180,
+      "ct_recno": 200122,
+      "ct_domain": 1,
+      "ct_active": -1,
+      "ct_searchname": "Fremskrittspartiet",
+      "to_no": null,
+      "ccr_sortid": 10,
+      "ccr_roleto": "Parti",
+      "ccr_desc": "Partimedlem"
+    },
+    {
+      "ctct_recno": 200188,
+      "ct_recno": 200144,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Hovudutval for næringsutvikling (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 30,
+      "ccr_roleto": "Medlem i",
+      "ccr_desc": "Utvalgsmedlem"
+    },
+    {
+      "ctct_recno": 200195,
+      "ct_recno": 200145,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
+    },
+    {
+      "ctct_recno": 201595,
+      "ct_recno": 208883,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Telemark interkommunale næringsfond (01.01.2014 - 01.10.2015)",
       "to_no": null,
       "ccr_sortid": 40,
       "ccr_roleto": "Varamedlem i",
@@ -1845,76 +1915,6 @@
   ],
   [
     {
-      "ctct_recno": 201037,
-      "ct_recno": 200120,
-      "ct_domain": 1,
-      "ct_active": -1,
-      "ct_searchname": "Arbeiderpartiet",
-      "to_no": null,
-      "ccr_sortid": 10,
-      "ccr_roleto": "Parti",
-      "ccr_desc": "Partimedlem"
-    },
-    {
-      "ctct_recno": 201038,
-      "ct_recno": 200148,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 30,
-      "ccr_roleto": "Medlem i",
-      "ccr_desc": "Utvalgsmedlem"
-    }
-  ],
-  [
-    {
-      "ctct_recno": 200180,
-      "ct_recno": 200122,
-      "ct_domain": 1,
-      "ct_active": -1,
-      "ct_searchname": "Fremskrittspartiet",
-      "to_no": null,
-      "ccr_sortid": 10,
-      "ccr_roleto": "Parti",
-      "ccr_desc": "Partimedlem"
-    },
-    {
-      "ctct_recno": 200188,
-      "ct_recno": 200144,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Hovudutval for næringsutvikling (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 30,
-      "ccr_roleto": "Medlem i",
-      "ccr_desc": "Utvalgsmedlem"
-    },
-    {
-      "ctct_recno": 200195,
-      "ct_recno": 200145,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
-    },
-    {
-      "ctct_recno": 201595,
-      "ct_recno": 208883,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Telemark interkommunale næringsfond (01.01.2014 - 01.10.2015)",
-      "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
       "ctct_recno": 200686,
       "ct_recno": 200120,
       "ct_domain": 1,
@@ -1942,30 +1942,6 @@
       "ct_domain": 16,
       "ct_active": -1,
       "ct_searchname": "Hovudutval for samferdsel (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
-      "ctct_recno": 201586,
-      "ct_recno": 200120,
-      "ct_domain": 1,
-      "ct_active": -1,
-      "ct_searchname": "Arbeiderpartiet",
-      "to_no": null,
-      "ccr_sortid": 10,
-      "ccr_roleto": "Parti",
-      "ccr_desc": "Partimedlem"
-    },
-    {
-      "ctct_recno": 201590,
-      "ct_recno": 208883,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Telemark interkommunale næringsfond (01.01.2014 - 01.10.2015)",
       "to_no": null,
       "ccr_sortid": 40,
       "ccr_roleto": "Varamedlem i",
@@ -2192,6 +2168,30 @@
       "ct_domain": 16,
       "ct_active": -1,
       "ct_searchname": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
+    }
+  ],
+  [
+    {
+      "ctct_recno": 201586,
+      "ct_recno": 200120,
+      "ct_domain": 1,
+      "ct_active": -1,
+      "ct_searchname": "Arbeiderpartiet",
+      "to_no": null,
+      "ccr_sortid": 10,
+      "ccr_roleto": "Parti",
+      "ccr_desc": "Partimedlem"
+    },
+    {
+      "ctct_recno": 201590,
+      "ct_recno": 208883,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Telemark interkommunale næringsfond (01.01.2014 - 01.10.2015)",
       "to_no": null,
       "ccr_sortid": 40,
       "ccr_roleto": "Varamedlem i",
@@ -2461,6 +2461,41 @@
   ],
   [
     {
+      "ctct_recno": 201022,
+      "ct_recno": 200120,
+      "ct_domain": 1,
+      "ct_active": -1,
+      "ct_searchname": "Arbeiderpartiet",
+      "to_no": null,
+      "ccr_sortid": 10,
+      "ccr_roleto": "Parti",
+      "ccr_desc": "Partimedlem"
+    },
+    {
+      "ctct_recno": 201024,
+      "ct_recno": 200145,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 30,
+      "ccr_roleto": "Medlem i",
+      "ccr_desc": "Utvalgsmedlem"
+    },
+    {
+      "ctct_recno": 201036,
+      "ct_recno": 200148,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 30,
+      "ccr_roleto": "Medlem i",
+      "ccr_desc": "Utvalgsmedlem"
+    }
+  ],
+  [
+    {
       "ctct_recno": 200685,
       "ct_recno": 200120,
       "ct_domain": 1,
@@ -2520,65 +2555,6 @@
   ],
   [
     {
-      "ctct_recno": 201022,
-      "ct_recno": 200120,
-      "ct_domain": 1,
-      "ct_active": -1,
-      "ct_searchname": "Arbeiderpartiet",
-      "to_no": null,
-      "ccr_sortid": 10,
-      "ccr_roleto": "Parti",
-      "ccr_desc": "Partimedlem"
-    },
-    {
-      "ctct_recno": 201024,
-      "ct_recno": 200145,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 30,
-      "ccr_roleto": "Medlem i",
-      "ccr_desc": "Utvalgsmedlem"
-    },
-    {
-      "ctct_recno": 201036,
-      "ct_recno": 200148,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 30,
-      "ccr_roleto": "Medlem i",
-      "ccr_desc": "Utvalgsmedlem"
-    }
-  ],
-  [
-    {
-      "ctct_recno": 200675,
-      "ct_recno": 200120,
-      "ct_domain": 1,
-      "ct_active": -1,
-      "ct_searchname": "Arbeiderpartiet",
-      "to_no": null,
-      "ccr_sortid": 10,
-      "ccr_roleto": "Parti",
-      "ccr_desc": "Partimedlem"
-    },
-    {
-      "ctct_recno": 201074,
-      "ct_recno": 200145,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
       "ctct_recno": 200720,
       "ct_recno": 200125,
       "ct_domain": 1,
@@ -2606,6 +2582,131 @@
       "ct_domain": 16,
       "ct_active": -1,
       "ct_searchname": "Fylkeskommunalt råd for personer med nedsatt funksjonsevne (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
+    }
+  ],
+  [
+    {
+      "ctct_recno": 200254,
+      "ct_recno": 200120,
+      "ct_domain": 1,
+      "ct_active": -1,
+      "ct_searchname": "Arbeiderpartiet",
+      "to_no": null,
+      "ccr_sortid": 10,
+      "ccr_roleto": "Parti",
+      "ccr_desc": "Partimedlem"
+    },
+    {
+      "ctct_recno": 200994,
+      "ct_recno": 200145,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 30,
+      "ccr_roleto": "Medlem i",
+      "ccr_desc": "Utvalgsmedlem"
+    },
+    {
+      "ctct_recno": 200864,
+      "ct_recno": 200146,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Hovudutval for kompetanse (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 10,
+      "ccr_roleto": "Leder i",
+      "ccr_desc": "Leder i utvalg"
+    },
+    {
+      "ctct_recno": 200772,
+      "ct_recno": 200147,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Fylkesutvalet (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 30,
+      "ccr_roleto": "Medlem i",
+      "ccr_desc": "Utvalgsmedlem"
+    },
+    {
+      "ctct_recno": 200985,
+      "ct_recno": 200151,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Administrasjonsutvalet (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
+    },
+    {
+      "ctct_recno": 201190,
+      "ct_recno": 200173,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Forhandlingsutvalet (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
+    },
+    {
+      "ctct_recno": 200956,
+      "ct_recno": 200176,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Yrkesopplæringsnemnda (01.01.2012 - 31.12.2015)",
+      "to_no": null,
+      "ccr_sortid": 30,
+      "ccr_roleto": "Medlem i",
+      "ccr_desc": "Utvalgsmedlem"
+    },
+    {
+      "ctct_recno": 201234,
+      "ct_recno": 200574,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Arbeidsutvalet for Hovudutval for kompetanse (01.10.2011 - 30.09.2015)",
+      "to_no": "post@t-fk.no",
+      "ccr_sortid": 10,
+      "ccr_roleto": "Leder i",
+      "ccr_desc": "Leder i utvalg"
+    },
+    {
+      "ctct_recno": 201728,
+      "ct_recno": 209066,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Fylkesvalstyret (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 30,
+      "ccr_roleto": "Medlem i",
+      "ccr_desc": "Utvalgsmedlem"
+    }
+  ],
+  [
+    {
+      "ctct_recno": 200675,
+      "ct_recno": 200120,
+      "ct_domain": 1,
+      "ct_active": -1,
+      "ct_searchname": "Arbeiderpartiet",
+      "to_no": null,
+      "ccr_sortid": 10,
+      "ccr_roleto": "Parti",
+      "ccr_desc": "Partimedlem"
+    },
+    {
+      "ctct_recno": 201074,
+      "ct_recno": 200145,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
       "to_no": null,
       "ccr_sortid": 40,
       "ccr_roleto": "Varamedlem i",
@@ -2733,107 +2834,6 @@
       "ct_domain": 16,
       "ct_active": -1,
       "ct_searchname": "Hovudutval for samferdsel (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 30,
-      "ccr_roleto": "Medlem i",
-      "ccr_desc": "Utvalgsmedlem"
-    }
-  ],
-  [
-    {
-      "ctct_recno": 200254,
-      "ct_recno": 200120,
-      "ct_domain": 1,
-      "ct_active": -1,
-      "ct_searchname": "Arbeiderpartiet",
-      "to_no": null,
-      "ccr_sortid": 10,
-      "ccr_roleto": "Parti",
-      "ccr_desc": "Partimedlem"
-    },
-    {
-      "ctct_recno": 200994,
-      "ct_recno": 200145,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 30,
-      "ccr_roleto": "Medlem i",
-      "ccr_desc": "Utvalgsmedlem"
-    },
-    {
-      "ctct_recno": 200864,
-      "ct_recno": 200146,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Hovudutval for kompetanse (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 10,
-      "ccr_roleto": "Leder i",
-      "ccr_desc": "Leder i utvalg"
-    },
-    {
-      "ctct_recno": 200772,
-      "ct_recno": 200147,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Fylkesutvalet (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 30,
-      "ccr_roleto": "Medlem i",
-      "ccr_desc": "Utvalgsmedlem"
-    },
-    {
-      "ctct_recno": 200985,
-      "ct_recno": 200151,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Administrasjonsutvalet (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
-    },
-    {
-      "ctct_recno": 201190,
-      "ct_recno": 200173,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Forhandlingsutvalet (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
-    },
-    {
-      "ctct_recno": 200956,
-      "ct_recno": 200176,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Yrkesopplæringsnemnda (01.01.2012 - 31.12.2015)",
-      "to_no": null,
-      "ccr_sortid": 30,
-      "ccr_roleto": "Medlem i",
-      "ccr_desc": "Utvalgsmedlem"
-    },
-    {
-      "ctct_recno": 201234,
-      "ct_recno": 200574,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Arbeidsutvalet for Hovudutval for kompetanse (01.10.2011 - 30.09.2015)",
-      "to_no": "post@t-fk.no",
-      "ccr_sortid": 10,
-      "ccr_roleto": "Leder i",
-      "ccr_desc": "Leder i utvalg"
-    },
-    {
-      "ctct_recno": 201728,
-      "ct_recno": 209066,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Fylkesvalstyret (01.10.2011 - 30.09.2015)",
       "to_no": null,
       "ccr_sortid": 30,
       "ccr_roleto": "Medlem i",
@@ -2980,30 +2980,6 @@
   ],
   [
     {
-      "ctct_recno": 200702,
-      "ct_recno": 200123,
-      "ct_domain": 1,
-      "ct_active": -1,
-      "ct_searchname": "Høyre",
-      "to_no": null,
-      "ccr_sortid": 10,
-      "ccr_roleto": "Parti",
-      "ccr_desc": "Partimedlem"
-    },
-    {
-      "ctct_recno": 201100,
-      "ct_recno": 200145,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
       "ctct_recno": 200885,
       "ct_recno": 200125,
       "ct_domain": 1,
@@ -3142,33 +3118,22 @@
   ],
   [
     {
-      "ctct_recno": 200682,
-      "ct_recno": 200120,
+      "ctct_recno": 200702,
+      "ct_recno": 200123,
       "ct_domain": 1,
       "ct_active": -1,
-      "ct_searchname": "Arbeiderpartiet",
+      "ct_searchname": "Høyre",
       "to_no": null,
       "ccr_sortid": 10,
       "ccr_roleto": "Parti",
       "ccr_desc": "Partimedlem"
     },
     {
-      "ctct_recno": 201080,
+      "ctct_recno": 201100,
       "ct_recno": 200145,
       "ct_domain": 16,
       "ct_active": -1,
       "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
-    },
-    {
-      "ctct_recno": 200929,
-      "ct_recno": 200146,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Hovudutval for kompetanse (01.10.2011 - 30.09.2015)",
       "to_no": null,
       "ccr_sortid": 40,
       "ccr_roleto": "Varamedlem i",
@@ -3201,88 +3166,7 @@
   ],
   [
     {
-      "ctct_recno": 200709,
-      "ct_recno": 200123,
-      "ct_domain": 1,
-      "ct_active": -1,
-      "ct_searchname": "Høyre",
-      "to_no": null,
-      "ccr_sortid": 10,
-      "ccr_roleto": "Parti",
-      "ccr_desc": "Partimedlem"
-    },
-    {
-      "ctct_recno": 200828,
-      "ct_recno": 200144,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Hovudutval for næringsutvikling (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
-    },
-    {
-      "ctct_recno": 201107,
-      "ct_recno": 200145,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
-    },
-    {
-      "ctct_recno": 201179,
-      "ct_recno": 200150,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Klagenemnda for skolesaker (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
-      "ctct_recno": 200699,
-      "ct_recno": 200123,
-      "ct_domain": 1,
-      "ct_active": -1,
-      "ct_searchname": "Høyre",
-      "to_no": null,
-      "ccr_sortid": 10,
-      "ccr_roleto": "Parti",
-      "ccr_desc": "Partimedlem"
-    },
-    {
-      "ctct_recno": 201097,
-      "ct_recno": 200145,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
-    },
-    {
-      "ctct_recno": 201042,
-      "ct_recno": 200148,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 30,
-      "ccr_roleto": "Medlem i",
-      "ccr_desc": "Utvalgsmedlem"
-    }
-  ],
-  [
-    {
-      "ctct_recno": 200689,
+      "ctct_recno": 200682,
       "ct_recno": 200120,
       "ct_domain": 1,
       "ct_active": -1,
@@ -3293,22 +3177,22 @@
       "ccr_desc": "Partimedlem"
     },
     {
-      "ctct_recno": 200790,
-      "ct_recno": 200144,
+      "ctct_recno": 201080,
+      "ct_recno": 200145,
       "ct_domain": 16,
       "ct_active": -1,
-      "ct_searchname": "Hovudutval for næringsutvikling (01.10.2011 - 30.09.2015)",
+      "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
       "to_no": null,
       "ccr_sortid": 40,
       "ccr_roleto": "Varamedlem i",
       "ccr_desc": "Varamedlem i utvalg"
     },
     {
-      "ctct_recno": 201087,
-      "ct_recno": 200145,
+      "ctct_recno": 200929,
+      "ct_recno": 200146,
       "ct_domain": 16,
       "ct_active": -1,
-      "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "ct_searchname": "Hovudutval for kompetanse (01.10.2011 - 30.09.2015)",
       "to_no": null,
       "ccr_sortid": 40,
       "ccr_roleto": "Varamedlem i",
@@ -3399,6 +3283,122 @@
       "ct_domain": 16,
       "ct_active": -1,
       "ct_searchname": "Fylkesvalstyret (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 30,
+      "ccr_roleto": "Medlem i",
+      "ccr_desc": "Utvalgsmedlem"
+    }
+  ],
+  [
+    {
+      "ctct_recno": 200709,
+      "ct_recno": 200123,
+      "ct_domain": 1,
+      "ct_active": -1,
+      "ct_searchname": "Høyre",
+      "to_no": null,
+      "ccr_sortid": 10,
+      "ccr_roleto": "Parti",
+      "ccr_desc": "Partimedlem"
+    },
+    {
+      "ctct_recno": 200828,
+      "ct_recno": 200144,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Hovudutval for næringsutvikling (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
+    },
+    {
+      "ctct_recno": 201107,
+      "ct_recno": 200145,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
+    },
+    {
+      "ctct_recno": 201179,
+      "ct_recno": 200150,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Klagenemnda for skolesaker (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
+    }
+  ],
+  [
+    {
+      "ctct_recno": 200689,
+      "ct_recno": 200120,
+      "ct_domain": 1,
+      "ct_active": -1,
+      "ct_searchname": "Arbeiderpartiet",
+      "to_no": null,
+      "ccr_sortid": 10,
+      "ccr_roleto": "Parti",
+      "ccr_desc": "Partimedlem"
+    },
+    {
+      "ctct_recno": 200790,
+      "ct_recno": 200144,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Hovudutval for næringsutvikling (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
+    },
+    {
+      "ctct_recno": 201087,
+      "ct_recno": 200145,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
+    }
+  ],
+  [
+    {
+      "ctct_recno": 200699,
+      "ct_recno": 200123,
+      "ct_domain": 1,
+      "ct_active": -1,
+      "ct_searchname": "Høyre",
+      "to_no": null,
+      "ccr_sortid": 10,
+      "ccr_roleto": "Parti",
+      "ccr_desc": "Partimedlem"
+    },
+    {
+      "ctct_recno": 201097,
+      "ct_recno": 200145,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
+    },
+    {
+      "ctct_recno": 201042,
+      "ct_recno": 200148,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
       "to_no": null,
       "ccr_sortid": 30,
       "ccr_roleto": "Medlem i",
@@ -4191,30 +4191,6 @@
   ],
   [
     {
-      "ctct_recno": 201157,
-      "ct_recno": 200120,
-      "ct_domain": 1,
-      "ct_active": -1,
-      "ct_searchname": "Arbeiderpartiet",
-      "to_no": null,
-      "ccr_sortid": 10,
-      "ccr_roleto": "Parti",
-      "ccr_desc": "Partimedlem"
-    },
-    {
-      "ctct_recno": 201158,
-      "ct_recno": 200178,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Fylkeskommunalt råd for personer med nedsatt funksjonsevne (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 10,
-      "ccr_roleto": "Leder i",
-      "ccr_desc": "Leder i utvalg"
-    }
-  ],
-  [
-    {
       "ctct_recno": 200701,
       "ct_recno": 200123,
       "ct_domain": 1,
@@ -4239,6 +4215,30 @@
   ],
   [
     {
+      "ctct_recno": 201157,
+      "ct_recno": 200120,
+      "ct_domain": 1,
+      "ct_active": -1,
+      "ct_searchname": "Arbeiderpartiet",
+      "to_no": null,
+      "ccr_sortid": 10,
+      "ccr_roleto": "Parti",
+      "ccr_desc": "Partimedlem"
+    },
+    {
+      "ctct_recno": 201158,
+      "ct_recno": 200178,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Fylkeskommunalt råd for personer med nedsatt funksjonsevne (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 10,
+      "ccr_roleto": "Leder i",
+      "ccr_desc": "Leder i utvalg"
+    }
+  ],
+  [
+    {
       "ctct_recno": 201209,
       "ct_recno": 200123,
       "ct_domain": 1,
@@ -4259,30 +4259,6 @@
       "ccr_sortid": 30,
       "ccr_roleto": "Medlem i",
       "ccr_desc": "Utvalgsmedlem"
-    }
-  ],
-  [
-    {
-      "ctct_recno": 200969,
-      "ct_recno": 200125,
-      "ct_domain": 1,
-      "ct_active": -1,
-      "ct_searchname": "Senterpartiet",
-      "to_no": null,
-      "ccr_sortid": 10,
-      "ccr_roleto": "Parti",
-      "ccr_desc": "Partimedlem"
-    },
-    {
-      "ctct_recno": 200973,
-      "ct_recno": 200175,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Telemark fylkeskommunale klagenemnd (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
     }
   ],
   [
@@ -4335,6 +4311,30 @@
   ],
   [
     {
+      "ctct_recno": 200969,
+      "ct_recno": 200125,
+      "ct_domain": 1,
+      "ct_active": -1,
+      "ct_searchname": "Senterpartiet",
+      "to_no": null,
+      "ccr_sortid": 10,
+      "ccr_roleto": "Parti",
+      "ccr_desc": "Partimedlem"
+    },
+    {
+      "ctct_recno": 200973,
+      "ct_recno": 200175,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Telemark fylkeskommunale klagenemnd (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
+    }
+  ],
+  [
+    {
       "ctct_recno": 200692,
       "ct_recno": 200120,
       "ct_domain": 1,
@@ -4370,37 +4370,15 @@
   ],
   [
     {
-      "ctct_recno": 200710,
-      "ct_recno": 200123,
-      "ct_domain": 1,
-      "ct_active": -1,
-      "ct_searchname": "Høyre",
-      "to_no": null,
-      "ccr_sortid": 10,
-      "ccr_roleto": "Parti",
-      "ccr_desc": "Partimedlem"
-    },
-    {
-      "ctct_recno": 200830,
-      "ct_recno": 200144,
+      "ctct_recno": 201194,
+      "ct_recno": 200177,
       "ct_domain": 16,
       "ct_active": -1,
-      "ct_searchname": "Hovudutval for næringsutvikling (01.10.2011 - 30.09.2015)",
+      "ct_searchname": "Telemark fylkeskommunale eldreråd (01.10.2011 - 30.09.2015)",
       "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
-    },
-    {
-      "ctct_recno": 201108,
-      "ct_recno": 200145,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
+      "ccr_sortid": 20,
+      "ccr_roleto": "Nestleder i",
+      "ccr_desc": "Nestleder i utvalg"
     }
   ],
   [
@@ -4506,19 +4484,6 @@
   ],
   [
     {
-      "ctct_recno": 201194,
-      "ct_recno": 200177,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Telemark fylkeskommunale eldreråd (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 20,
-      "ccr_roleto": "Nestleder i",
-      "ccr_desc": "Nestleder i utvalg"
-    }
-  ],
-  [
-    {
       "ctct_recno": 201150,
       "ct_recno": 200124,
       "ct_domain": 1,
@@ -4535,6 +4500,41 @@
       "ct_domain": 16,
       "ct_active": -1,
       "ct_searchname": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
+    }
+  ],
+  [
+    {
+      "ctct_recno": 200710,
+      "ct_recno": 200123,
+      "ct_domain": 1,
+      "ct_active": -1,
+      "ct_searchname": "Høyre",
+      "to_no": null,
+      "ccr_sortid": 10,
+      "ccr_roleto": "Parti",
+      "ccr_desc": "Partimedlem"
+    },
+    {
+      "ctct_recno": 200830,
+      "ct_recno": 200144,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Hovudutval for næringsutvikling (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
+    },
+    {
+      "ctct_recno": 201108,
+      "ct_recno": 200145,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
       "to_no": null,
       "ccr_sortid": 40,
       "ccr_roleto": "Varamedlem i",
@@ -4705,52 +4705,6 @@
   ],
   [
     {
-      "ctct_recno": 200695,
-      "ct_recno": 200122,
-      "ct_domain": 1,
-      "ct_active": -1,
-      "ct_searchname": "Fremskrittspartiet",
-      "to_no": null,
-      "ccr_sortid": 10,
-      "ccr_roleto": "Parti",
-      "ccr_desc": "Partimedlem"
-    },
-    {
-      "ctct_recno": 201093,
-      "ct_recno": 200145,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
-    },
-    {
-      "ctct_recno": 200915,
-      "ct_recno": 200149,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Hovudutval for samferdsel (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
-    },
-    {
-      "ctct_recno": 200975,
-      "ct_recno": 200175,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Telemark fylkeskommunale klagenemnd (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
       "ctct_recno": 200760,
       "ct_recno": 200119,
       "ct_domain": 1,
@@ -4826,6 +4780,52 @@
       "ccr_sortid": 30,
       "ccr_roleto": "Medlem i",
       "ccr_desc": "Utvalgsmedlem"
+    }
+  ],
+  [
+    {
+      "ctct_recno": 200695,
+      "ct_recno": 200122,
+      "ct_domain": 1,
+      "ct_active": -1,
+      "ct_searchname": "Fremskrittspartiet",
+      "to_no": null,
+      "ccr_sortid": 10,
+      "ccr_roleto": "Parti",
+      "ccr_desc": "Partimedlem"
+    },
+    {
+      "ctct_recno": 201093,
+      "ct_recno": 200145,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
+    },
+    {
+      "ctct_recno": 200915,
+      "ct_recno": 200149,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Hovudutval for samferdsel (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
+    },
+    {
+      "ctct_recno": 200975,
+      "ct_recno": 200175,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Telemark fylkeskommunale klagenemnd (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
     }
   ],
   [
@@ -4992,6 +4992,30 @@
   ],
   [
     {
+      "ctct_recno": 200160,
+      "ct_recno": 200125,
+      "ct_domain": 1,
+      "ct_active": -1,
+      "ct_searchname": "Senterpartiet",
+      "to_no": null,
+      "ccr_sortid": 10,
+      "ccr_roleto": "Parti",
+      "ccr_desc": "Partimedlem"
+    },
+    {
+      "ctct_recno": 201725,
+      "ct_recno": 209066,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Fylkesvalstyret (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 10,
+      "ccr_roleto": "Leder i",
+      "ccr_desc": "Leder i utvalg"
+    }
+  ],
+  [
+    {
       "ctct_recno": 200683,
       "ct_recno": 200120,
       "ct_domain": 1,
@@ -5019,54 +5043,6 @@
       "ct_domain": 16,
       "ct_active": -1,
       "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
-      "ctct_recno": 200160,
-      "ct_recno": 200125,
-      "ct_domain": 1,
-      "ct_active": -1,
-      "ct_searchname": "Senterpartiet",
-      "to_no": null,
-      "ccr_sortid": 10,
-      "ccr_roleto": "Parti",
-      "ccr_desc": "Partimedlem"
-    },
-    {
-      "ctct_recno": 201725,
-      "ct_recno": 209066,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Fylkesvalstyret (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 10,
-      "ccr_roleto": "Leder i",
-      "ccr_desc": "Leder i utvalg"
-    }
-  ],
-  [
-    {
-      "ctct_recno": 200166,
-      "ct_recno": 200125,
-      "ct_domain": 1,
-      "ct_active": -1,
-      "ct_searchname": "Senterpartiet",
-      "to_no": null,
-      "ccr_sortid": 10,
-      "ccr_roleto": "Parti",
-      "ccr_desc": "Partimedlem"
-    },
-    {
-      "ctct_recno": 200934,
-      "ct_recno": 200146,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Hovudutval for kompetanse (01.10.2011 - 30.09.2015)",
       "to_no": null,
       "ccr_sortid": 40,
       "ccr_roleto": "Varamedlem i",
@@ -5165,7 +5141,7 @@
   ],
   [
     {
-      "ctct_recno": 200887,
+      "ctct_recno": 200166,
       "ct_recno": 200125,
       "ct_domain": 1,
       "ct_active": -1,
@@ -5176,11 +5152,11 @@
       "ccr_desc": "Partimedlem"
     },
     {
-      "ctct_recno": 200889,
-      "ct_recno": 200149,
+      "ctct_recno": 200934,
+      "ct_recno": 200146,
       "ct_domain": 16,
       "ct_active": -1,
-      "ct_searchname": "Hovudutval for samferdsel (01.10.2011 - 30.09.2015)",
+      "ct_searchname": "Hovudutval for kompetanse (01.10.2011 - 30.09.2015)",
       "to_no": null,
       "ccr_sortid": 40,
       "ccr_roleto": "Varamedlem i",
@@ -5290,41 +5266,6 @@
   ],
   [
     {
-      "ctct_recno": 200706,
-      "ct_recno": 200123,
-      "ct_domain": 1,
-      "ct_active": -1,
-      "ct_searchname": "Høyre",
-      "to_no": null,
-      "ccr_sortid": 10,
-      "ccr_roleto": "Parti",
-      "ccr_desc": "Partimedlem"
-    },
-    {
-      "ctct_recno": 201104,
-      "ct_recno": 200145,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
-    },
-    {
-      "ctct_recno": 200946,
-      "ct_recno": 200146,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Hovudutval for kompetanse (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
       "ctct_recno": 200161,
       "ct_recno": 200125,
       "ct_domain": 1,
@@ -5415,22 +5356,57 @@
   ],
   [
     {
-      "ctct_recno": 200820,
-      "ct_recno": 200119,
+      "ctct_recno": 200887,
+      "ct_recno": 200125,
       "ct_domain": 1,
       "ct_active": -1,
-      "ct_searchname": "Sosialistisk Venstreparti",
+      "ct_searchname": "Senterpartiet",
       "to_no": null,
       "ccr_sortid": 10,
       "ccr_roleto": "Parti",
       "ccr_desc": "Partimedlem"
     },
     {
-      "ctct_recno": 200821,
-      "ct_recno": 200144,
+      "ctct_recno": 200889,
+      "ct_recno": 200149,
       "ct_domain": 16,
       "ct_active": -1,
-      "ct_searchname": "Hovudutval for næringsutvikling (01.10.2011 - 30.09.2015)",
+      "ct_searchname": "Hovudutval for samferdsel (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
+    }
+  ],
+  [
+    {
+      "ctct_recno": 200706,
+      "ct_recno": 200123,
+      "ct_domain": 1,
+      "ct_active": -1,
+      "ct_searchname": "Høyre",
+      "to_no": null,
+      "ccr_sortid": 10,
+      "ccr_roleto": "Parti",
+      "ccr_desc": "Partimedlem"
+    },
+    {
+      "ctct_recno": 201104,
+      "ct_recno": 200145,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
+    },
+    {
+      "ctct_recno": 200946,
+      "ct_recno": 200146,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Hovudutval for kompetanse (01.10.2011 - 30.09.2015)",
       "to_no": null,
       "ccr_sortid": 40,
       "ccr_roleto": "Varamedlem i",
@@ -5463,57 +5439,22 @@
   ],
   [
     {
-      "ctct_recno": 200165,
-      "ct_recno": 200125,
+      "ctct_recno": 200820,
+      "ct_recno": 200119,
       "ct_domain": 1,
       "ct_active": -1,
-      "ct_searchname": "Senterpartiet",
+      "ct_searchname": "Sosialistisk Venstreparti",
       "to_no": null,
       "ccr_sortid": 10,
       "ccr_roleto": "Parti",
       "ccr_desc": "Partimedlem"
     },
     {
-      "ctct_recno": 200935,
-      "ct_recno": 200146,
+      "ctct_recno": 200821,
+      "ct_recno": 200144,
       "ct_domain": 16,
       "ct_active": -1,
-      "ct_searchname": "Hovudutval for kompetanse (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
-      "ctct_recno": 200705,
-      "ct_recno": 200123,
-      "ct_domain": 1,
-      "ct_active": -1,
-      "ct_searchname": "Høyre",
-      "to_no": null,
-      "ccr_sortid": 10,
-      "ccr_roleto": "Parti",
-      "ccr_desc": "Partimedlem"
-    },
-    {
-      "ctct_recno": 201103,
-      "ct_recno": 200145,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
-    },
-    {
-      "ctct_recno": 200944,
-      "ct_recno": 200149,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Hovudutval for samferdsel (01.10.2011 - 30.09.2015)",
+      "ct_searchname": "Hovudutval for næringsutvikling (01.10.2011 - 30.09.2015)",
       "to_no": null,
       "ccr_sortid": 40,
       "ccr_roleto": "Varamedlem i",
@@ -5568,6 +5509,41 @@
   ],
   [
     {
+      "ctct_recno": 200705,
+      "ct_recno": 200123,
+      "ct_domain": 1,
+      "ct_active": -1,
+      "ct_searchname": "Høyre",
+      "to_no": null,
+      "ccr_sortid": 10,
+      "ccr_roleto": "Parti",
+      "ccr_desc": "Partimedlem"
+    },
+    {
+      "ctct_recno": 201103,
+      "ct_recno": 200145,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
+    },
+    {
+      "ctct_recno": 200944,
+      "ct_recno": 200149,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Hovudutval for samferdsel (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
+    }
+  ],
+  [
+    {
       "ctct_recno": 200072,
       "ct_recno": 200021,
       "ct_domain": 16,
@@ -5592,6 +5568,30 @@
   ],
   [
     {
+      "ctct_recno": 200165,
+      "ct_recno": 200125,
+      "ct_domain": 1,
+      "ct_active": -1,
+      "ct_searchname": "Senterpartiet",
+      "to_no": null,
+      "ccr_sortid": 10,
+      "ccr_roleto": "Parti",
+      "ccr_desc": "Partimedlem"
+    },
+    {
+      "ctct_recno": 200935,
+      "ct_recno": 200146,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Hovudutval for kompetanse (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
+    }
+  ],
+  [
+    {
       "ctct_recno": 200796,
       "ct_recno": 200120,
       "ct_domain": 1,
@@ -5608,30 +5608,6 @@
       "ct_domain": 16,
       "ct_active": -1,
       "ct_searchname": "Hovudutval for næringsutvikling (01.10.2011 - 30.09.2015)",
-      "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
-      "ctct_recno": 200714,
-      "ct_recno": 200124,
-      "ct_domain": 1,
-      "ct_active": -1,
-      "ct_searchname": "Kristelig Folkeparti",
-      "to_no": null,
-      "ccr_sortid": 10,
-      "ccr_roleto": "Parti",
-      "ccr_desc": "Partimedlem"
-    },
-    {
-      "ctct_recno": 201125,
-      "ct_recno": 200145,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
       "to_no": null,
       "ccr_sortid": 40,
       "ccr_roleto": "Varamedlem i",
@@ -5684,6 +5660,30 @@
       "ccr_desc": "Varamedlem i utvalg"
     }
   ],
+  [
+    {
+      "ctct_recno": 200714,
+      "ct_recno": 200124,
+      "ct_domain": 1,
+      "ct_active": -1,
+      "ct_searchname": "Kristelig Folkeparti",
+      "to_no": null,
+      "ccr_sortid": 10,
+      "ccr_roleto": "Parti",
+      "ccr_desc": "Partimedlem"
+    },
+    {
+      "ctct_recno": 201125,
+      "ct_recno": 200145,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
+    }
+  ],
   [],
   [
     {
@@ -5727,30 +5727,6 @@
       "ct_domain": 16,
       "ct_active": -1,
       "ct_searchname": "Telemark interkommunale næringsfond (01.01.2014 - 01.10.2015)",
-      "to_no": null,
-      "ccr_sortid": 40,
-      "ccr_roleto": "Varamedlem i",
-      "ccr_desc": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
-      "ctct_recno": 201128,
-      "ct_recno": 200125,
-      "ct_domain": 1,
-      "ct_active": -1,
-      "ct_searchname": "Senterpartiet",
-      "to_no": null,
-      "ccr_sortid": 10,
-      "ccr_roleto": "Parti",
-      "ccr_desc": "Partimedlem"
-    },
-    {
-      "ctct_recno": 201130,
-      "ct_recno": 200148,
-      "ct_domain": 16,
-      "ct_active": -1,
-      "ct_searchname": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
       "to_no": null,
       "ccr_sortid": 40,
       "ccr_roleto": "Varamedlem i",
@@ -5819,6 +5795,30 @@
       "ct_domain": 16,
       "ct_active": -1,
       "ct_searchname": "Fylkesvalstyret (01.10.2011 - 30.09.2015)",
+      "to_no": null,
+      "ccr_sortid": 40,
+      "ccr_roleto": "Varamedlem i",
+      "ccr_desc": "Varamedlem i utvalg"
+    }
+  ],
+  [
+    {
+      "ctct_recno": 201128,
+      "ct_recno": 200125,
+      "ct_domain": 1,
+      "ct_active": -1,
+      "ct_searchname": "Senterpartiet",
+      "to_no": null,
+      "ccr_sortid": 10,
+      "ccr_roleto": "Parti",
+      "ccr_desc": "Partimedlem"
+    },
+    {
+      "ctct_recno": 201130,
+      "ct_recno": 200148,
+      "ct_domain": 16,
+      "ct_active": -1,
+      "ct_searchname": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
       "to_no": null,
       "ccr_sortid": 40,
       "ccr_roleto": "Varamedlem i",

@@ -11,7 +11,7 @@ runQuery(query.allPoliticians, function (err, result) {
   } else {
     var politicianCommittees = null
     var recnr = null
-    var i = 1
+    var i = 0
     var elements = Object.keys(result).length
 
     // Insert politicians to file
@@ -34,6 +34,7 @@ runQuery(query.allPoliticians, function (err, result) {
 
       // Runs query for politician committees against p360 database
       runQuery(politicianCommittees, function (err, result) {
+        i++
         if (err) {
           console.error(err)
         } else {
@@ -51,7 +52,6 @@ runQuery(query.allPoliticians, function (err, result) {
             })
           }
         }
-        i++
       })
     })
   }
