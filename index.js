@@ -13,6 +13,15 @@ cleanCollection('politicians', function (err, result) {
   }
 })
 
+cleanCollection('politiciansCommittees', function (err, result) {
+  if (err) {
+    console.error(err)
+  } else {
+    console.log(result)
+  }
+})
+
+// Runs query for all politicians against p360 database
 runQuery(query.allPoliticians, function (err, result) {
   if (err) {
     console.error(err)
@@ -32,10 +41,12 @@ runQuery(query.allPoliticians, function (err, result) {
       recnr = value.ct_recno[0]
       politicianCommittees = query.politicianCommittees + ' and X5.ct_recno  =' + recnr + '))'
 
+      // Runs query for politician committees in p360 database
       runQuery(politicianCommittees, function (err, result) {
         if (err) {
           console.error(err)
         } else {
+          // Insert politician committees to db
           dbInsert(result, 'politiciansCommittees', function (err, result) {
             if (err) {
               console.error(err)
