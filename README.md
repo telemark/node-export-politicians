@@ -1,7 +1,11 @@
 # node-import-politicians
 
 ## About
-Temporary solution until 360s webservice supports searching for politicians
+
+This module queries 360s mssql database to find politicians and writes them to mongo.
+NB! Temporary solution until 360s webservice supports searching for politicians
+
+
 
 ## Mongo Examples
 politician
