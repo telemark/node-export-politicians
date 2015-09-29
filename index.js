@@ -26,7 +26,8 @@ runQuery(query.allPoliticians, function (err, result) {
   if (err) {
     console.error(err)
   } else {
-    var politicianCommittees, recnr = null
+    var politicianCommittees = null
+    var recnr = null
 
     // Insert politicians to db
     dbInsert(result, 'politicians', function (err, result) {
@@ -36,7 +37,7 @@ runQuery(query.allPoliticians, function (err, result) {
         console.log(result)
       }
     })
-    result.forEach(function(value) {
+    result.forEach(function (value) {
       // Build query for politician committees
       recnr = value.ct_recno[0]
       politicianCommittees = query.politicianCommittees + ' and X5.ct_recno  =' + recnr + '))'
