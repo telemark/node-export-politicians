@@ -8,7 +8,7 @@ This module queries 360s mssql database to find politicians and writes them to j
 
 ## File Examples
 
-See /data catalog for file examples.
+See /data directory for file examples.
 
 ## Import to mongo
 ```sh
