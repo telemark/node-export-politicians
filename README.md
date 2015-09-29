@@ -3,7 +3,8 @@
 ## About
 
 This module queries 360s mssql database to find politicians and writes them to mongo.
-NB! Temporary solution until 360s webservice supports searching for politicians
+
+**NB!** Temporary solution until 360s webservice supports searching for politicians
 
 
 
