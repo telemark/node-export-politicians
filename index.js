@@ -2,24 +2,7 @@
 
 var query = require('./lib/buildQuery.js')
 var runQuery = require('./lib/runQuery.js')
-var dbInsert = require('./lib/writeToDb.js')
-var cleanCollection = require('./lib/cleanDb.js')
-
-cleanCollection('politicians', function (err, result) {
-  if (err) {
-    console.error(err)
-  } else {
-    console.log(result)
-  }
-})
-
-cleanCollection('politiciansCommittees', function (err, result) {
-  if (err) {
-    console.error(err)
-  } else {
-    console.log(result)
-  }
-})
+var writeToFile = require('./lib/writeToFile.js')
 
 // Runs query for all politicians against p360 database
 runQuery(query.allPoliticians, function (err, result) {
@@ -28,34 +11,47 @@ runQuery(query.allPoliticians, function (err, result) {
   } else {
     var politicianCommittees = null
     var recnr = null
+    var i = 1
+    var elements = Object.keys(result).length
 
-    // Insert politicians to db
-    dbInsert(result, 'politicians', function (err, result) {
+    // Insert politicians to file
+    writeToFile('politicians', JSON.stringify(result, null, 2), function (err, result) {
       if (err) {
         console.error(err)
       } else {
         console.log(result)
       }
     })
+
+    // Holds committees
+    var committees = new Array()
+
+    // Loops through results and query politicians committees
     result.forEach(function (value) {
       // Build query for politician committees
       recnr = value.ct_recno[0]
       politicianCommittees = query.politicianCommittees + ' and X5.ct_recno  =' + recnr + '))'
 
-      // Runs query for politician committees in p360 database
+      // Runs query for politician committees against p360 database
       runQuery(politicianCommittees, function (err, result) {
         if (err) {
           console.error(err)
         } else {
-          // Insert politician committees to db
-          dbInsert(result, 'politiciansCommittees', function (err, result) {
-            if (err) {
-              console.error(err)
-            } else {
-              console.log(result)
-            }
-          })
+          // Insert politician committees to file
+          committees.push(result)
+          if (i === elements) {
+            writeToFile('politiciansCommittee', JSON.stringify(committees, null, 2), function (err, result) {
+              if (err) {
+                console.error(err)
+              } else {
+                console.log(result)
+                console.log('Finished')
+                process.exit(0)
+              }
+            })
+          }
         }
+        i++
       })
     })
   }

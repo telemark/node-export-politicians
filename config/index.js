@@ -4,6 +4,9 @@ var config = {
   mongo: {
     db: 'tfk'
   },
+  storage: {
+    path: 'data'
+  },
   p360: {
     user: 'user', // Database username
     password: 'Password', // Database passord
