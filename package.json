@@ -1,6 +1,6 @@
 {
-  "name": "node-import-politicians",
-  "description": "Import politicans from p360 to mongo for Telemark fylkeskommune",
+  "name": "node-export-politicians",
+  "description": "Exports politicians from p360 to json-file for Telemark fylkeskommune",
   "version": "1.0.0",
   "private": true,
   "author": {

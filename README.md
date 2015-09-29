@@ -1,4 +1,4 @@
-# node-import-politicians
+# node-export-politicians
 
 ## About
 
