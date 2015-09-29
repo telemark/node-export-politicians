@@ -13,7 +13,6 @@
     "zip": "3928 PORSGRUNN",
     "address": "Raskenlundvegen 22",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -30,7 +29,6 @@
     "zip": "3800 BØ I TELEMARK",
     "address": "Hellandvegen ",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -47,7 +45,6 @@
     "zip": "3890 VINJE",
     "address": null,
     "gender": null,
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -64,7 +61,6 @@
     "zip": "3890 VINJE",
     "address": null,
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -81,7 +77,6 @@
     "zip": "3760 NESLANDSVATN",
     "address": null,
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -98,7 +93,6 @@
     "zip": "3811 HØRTE",
     "address": "Rukarvegen 66",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": "arnt.solhaug@t-fk.no"
   },
   {
@@ -115,7 +109,6 @@
     "zip": "3676 NOTODDEN",
     "address": "Tjønnevegen 20",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -132,7 +125,6 @@
     "zip": "3841 FLATDAL",
     "address": "Elgfaret 12",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -149,7 +141,6 @@
     "zip": "3864 RAULAND",
     "address": "Runningdalen 18",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -166,7 +157,6 @@
     "zip": "3660 RJUKAN",
     "address": "Haugåkervegen 5",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -183,7 +173,6 @@
     "zip": "3840 SELJORD",
     "address": "Hønervegen 9",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": "Beate-Marie-Dahl.Eide@t-fk.no"
   },
   {
@@ -200,7 +189,6 @@
     "zip": "3660 RJUKAN",
     "address": "Skriugt. 7",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": "birger.hovden@t-fk.no"
   },
   {
@@ -217,7 +205,6 @@
     "zip": "3924 PORSGRUNN",
     "address": "Hesteskoen 40",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -234,7 +221,6 @@
     "zip": "3850 KVITESEID",
     "address": "Kviteseidveien 666 C",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -251,7 +237,6 @@
     "zip": "3722 SKIEN",
     "address": "Odinsgate 9",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -268,7 +253,6 @@
     "zip": "3679 NOTODDEN",
     "address": "Åsenveien 1",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": "Borgar.Flaaten@t-fk.no"
   },
   {
@@ -285,7 +269,6 @@
     "zip": "3725 SKIEN",
     "address": "Aasmund Vinjesgt 15",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -302,7 +285,6 @@
     "zip": "3841 FLATDAL",
     "address": "Flatdalsvegen 772",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": "Edvard.Maland@t-fk.no"
   },
   {
@@ -319,7 +301,6 @@
     "zip": "3711 SKIEN",
     "address": "Buervegen 9",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -336,7 +317,6 @@
     "zip": "3931 PORSGRUNN",
     "address": "Steinringen 36",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": "elisabeth.nilsen@t-fk.no"
   },
   {
@@ -353,7 +333,6 @@
     "zip": "3950 BREVIK",
     "address": "Sandvegen 8",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -370,7 +349,6 @@
     "zip": "3830 ULEFOSS",
     "address": "Hollavegen 46a",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": "elisabetn.ljosak@t-fk.no"
   },
   {
@@ -387,7 +365,6 @@
     "zip": "3936 PORSGRUNN",
     "address": "Bekkegt. 23",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": "Elisabeth.Wickstrom.Akredalen@t-fk.no"
   },
   {
@@ -404,7 +381,6 @@
     "zip": "3770 KRAGERØ",
     "address": "Gumøy",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -421,7 +397,6 @@
     "zip": "3718 SKIEN",
     "address": "Strømdal Terrasse 74",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -438,7 +413,6 @@
     "zip": "3960 STATHELLE",
     "address": "Kjellestadbakken 25",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": "erling.dahl@t-fk.no"
   },
   {
@@ -455,7 +429,6 @@
     "zip": "3770 KRAGERØ",
     "address": "Rørvikveien 31",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": "erling.laland@t-fk.no"
   },
   {
@@ -472,7 +445,6 @@
     "zip": "3715 SKIEN",
     "address": "Lammersgt. 15",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -489,7 +461,6 @@
     "zip": "3929 PORSGRUNN",
     "address": "Blåklokkeveien 5d",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -506,7 +477,6 @@
     "zip": "3830 ULEFOSS",
     "address": "Utsikten 42",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -523,7 +493,6 @@
     "zip": "3748 SILJAN",
     "address": "Gurholtveien 76",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": "finn.tallakstad@t-fk.no"
   },
   {
@@ -540,7 +509,6 @@
     "zip": "3722 SKIEN",
     "address": "Edvard Griegs gate 6",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": "frode.bakken@t-fk.no"
   },
   {
@@ -557,7 +525,6 @@
     "zip": "3802 BØ I TELEMARK",
     "address": "Bergenveien 46",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": "Frode.Lieungh@t-fk.no"
   },
   {
@@ -574,7 +541,6 @@
     "zip": "3825 LUNDE",
     "address": "Strengenvegen 839 ",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": "Gry.Anette.Rekanes.Amundsen@t-fk.no"
   },
   {
@@ -591,7 +557,6 @@
     "zip": "3660 RJUKAN",
     "address": "Tinngt. 11b",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": "gunhild.luras@t-fk.no"
   },
   {
@@ -608,7 +573,6 @@
     "zip": "3916 PORSGRUNN",
     "address": "Bjørntvedtgt. 13",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": "GunnMarit.Helgesen@t-fk.no"
   },
   {
@@ -625,7 +589,6 @@
     "zip": "3841 FLATDAL",
     "address": "Kvålevegen 15",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -642,7 +605,6 @@
     "zip": "3850 KVITESEID",
     "address": "Kviteseidgt. 32",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -659,7 +621,6 @@
     "zip": "3840 SELJORD",
     "address": "Bygleåsen 6",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": "hallgeir.ofte@t-fk.no"
   },
   {
@@ -676,7 +637,6 @@
     "zip": "3650 TINN AUSTBYGD",
     "address": "Furulivn. 6",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -693,7 +653,6 @@
     "zip": "3825 LUNDE",
     "address": "Lundtveitvegen 112",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -710,7 +669,6 @@
     "zip": "3692 SAULAND",
     "address": null,
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -727,7 +685,6 @@
     "zip": "3800 BØ I TELEMARK",
     "address": "Kleppenvegen 49",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": "harald.kinck@t-fk.no"
   },
   {
@@ -744,7 +701,6 @@
     "zip": "3960 STATHELLE",
     "address": "Herumveien 269",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -761,7 +717,6 @@
     "zip": "3850 KVITESEID",
     "address": "Ordalsvegen 415",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -778,7 +733,6 @@
     "zip": "3770 KRAGERØ",
     "address": "Bjørnsborgsbakken 46",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": "helle.hogner@t-fk.no "
   },
   {
@@ -795,7 +749,6 @@
     "zip": "3770 KRAGERØ",
     "address": "Løkkebakken 20",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": "Henriette.Fluer.Vikre@t-fk.no"
   },
   {
@@ -812,7 +765,6 @@
     "zip": null,
     "address": null,
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -829,7 +781,6 @@
     "zip": "3677 NOTODDEN",
     "address": "Brennavegen 17",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -846,7 +797,6 @@
     "zip": "3947 LANGANGEN",
     "address": "Gullåsvegen 4",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": "Inger-Lise.Wiersdalen@t-fk.no"
   },
   {
@@ -863,7 +813,6 @@
     "zip": "3680 NOTODDEN",
     "address": "Bolkesjø ",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": "jacob.andreas.soreide@t-fk.no"
   },
   {
@@ -880,7 +829,6 @@
     "zip": "3825 LUNDE",
     "address": "Skogvegen 1",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": "Jarl-Havard.Borgen@t-fk.no"
   },
   {
@@ -897,7 +845,6 @@
     "zip": "3791 KRAGERØ",
     "address": "Postboks 171",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": "Johan.Tonnes.Lochstoer@t-fk.no"
   },
   {
@@ -914,7 +861,6 @@
     "zip": "3911 PORSGRUNN",
     "address": "Aamodtbakken 26",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -931,7 +877,6 @@
     "zip": "3733 SKIEN",
     "address": "Solumsgt. 24",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -948,7 +893,6 @@
     "zip": "3917 PORSGRUNN",
     "address": "Skarphendingsveg 9",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": "Jon.F.Leiulfsrud@t-fk.no"
   },
   {
@@ -965,7 +909,6 @@
     "zip": "3677 NOTODDEN",
     "address": "Nordre Vestsidaveg 104",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -982,7 +925,6 @@
     "zip": "3770 KRAGERØ",
     "address": "Vafossveien 24 ",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -999,7 +941,6 @@
     "zip": "3660 RJUKAN",
     "address": "Skriugt. 22",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -1016,7 +957,6 @@
     "zip": "3960 STATHELLE",
     "address": "Quinsgaardsgt. 29",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -1033,7 +973,6 @@
     "zip": "3960 STATHELLE",
     "address": "Barnålv. 4",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": "jorund.ruud@t-fk.no"
   },
   {
@@ -1050,7 +989,6 @@
     "zip": "3791 KRAGERØ",
     "address": "Postboks 226",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": "Kari.Fosso@t-fk.no"
   },
   {
@@ -1067,7 +1005,6 @@
     "zip": "3890 VINJE",
     "address": "Våmartveitvegen 10",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -1084,7 +1021,6 @@
     "zip": "3746 SKIEN",
     "address": "Johan Schaanningsgate 29",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": "Karianne.Hansen@t-fk.no"
   },
   {
@@ -1101,7 +1037,6 @@
     "zip": "3748 SILJAN",
     "address": "Svartangveien 141b",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": "Karianne.Haugdal.Nilsen@t-fk.no"
   },
   {
@@ -1118,7 +1053,6 @@
     "zip": "3854 NISSEDAL",
     "address": "Nordbø",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -1135,7 +1069,6 @@
     "zip": "3810 GVARV",
     "address": "Strannavegen 377",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -1152,7 +1085,6 @@
     "zip": "3726 SKIEN",
     "address": "Stigeråsen 14",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": "Karin.Mathisen@t-fk.no"
   },
   {
@@ -1169,7 +1101,6 @@
     "zip": "3944 PORSGRUNN",
     "address": "Prestealleen 81",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -1186,7 +1117,6 @@
     "zip": "3660 RJUKAN",
     "address": "Sam Eydes gate 146",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -1203,7 +1133,6 @@
     "zip": "3855 TREUNGEN",
     "address": "Smeitkollen ",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -1220,7 +1149,6 @@
     "zip": "3750 DRANGEDAL",
     "address": "Heireksvei 2",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -1237,7 +1165,6 @@
     "zip": "3840 SELJORD",
     "address": "Kivledalsvegen 87",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": "Kristian.Espeland@t-fk.no"
   },
   {
@@ -1254,7 +1181,6 @@
     "zip": "3770 KRAGERØ",
     "address": "Solveien 7",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": "kare-preben.hegland@t-fk.no"
   },
   {
@@ -1271,7 +1197,6 @@
     "zip": "3855 TREUNGEN",
     "address": "Smeitkollen ",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -1288,7 +1213,6 @@
     "zip": "3960 STATHELLE",
     "address": "Vesteråsveien 63",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -1305,7 +1229,6 @@
     "zip": "3960 STATHELLE",
     "address": "Høgenhei 12",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": "linda.holien@t-fk.no"
   },
   {
@@ -1322,7 +1245,6 @@
     "zip": "3691 GRANSHERAD",
     "address": "Venåsvegen 203",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": "lise.wiik@t-fk.no"
   },
   {
@@ -1339,7 +1261,6 @@
     "zip": "3750 DRANGEDAL",
     "address": "Tereveien 1",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -1356,7 +1277,6 @@
     "zip": "3830 ULEFOSS",
     "address": "Furuvegen 4",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": "Mari-Anne.Sannes@t-fk.no"
   },
   {
@@ -1373,7 +1293,6 @@
     "zip": "3677 NOTODDEN",
     "address": "Tråserudvegen 16",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -1390,7 +1309,6 @@
     "zip": "3684 NOTODDEN",
     "address": "Klypevegen 35",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -1407,7 +1325,6 @@
     "zip": "3770 KRAGERØ",
     "address": "Blåveisdalen 17",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -1424,7 +1341,6 @@
     "zip": null,
     "address": null,
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -1441,7 +1357,6 @@
     "zip": "3683 NOTODDEN",
     "address": "Sauheradvegen 1926",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -1458,7 +1373,6 @@
     "zip": "3684 NOTODDEN",
     "address": "Kringlevegen 4",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": "nils.bjornflaten@t-fk.no"
   },
   {
@@ -1475,7 +1389,6 @@
     "zip": "3719 SKIEN",
     "address": "Skyervegen 217",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": "Nina.Vibeke.Five@t-fk.no"
   },
   {
@@ -1492,7 +1405,6 @@
     "zip": "3680 NOTODDEN",
     "address": "Olaf Moensveg 59",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -1509,7 +1421,6 @@
     "zip": "3800 BØ I TELEMARK",
     "address": "Torsbergåsen 12",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": "Olav.Kasland@t-fk.no"
   },
   {
@@ -1526,7 +1437,6 @@
     "zip": "3880 DALEN",
     "address": "Skafsåvegen 728a",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": "olav-seltveit.urbo@t-fk.no"
   },
   {
@@ -1543,7 +1453,6 @@
     "zip": "3690 HJARTDAL",
     "address": "Togrenda 54",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -1560,7 +1469,6 @@
     "zip": "3890 VINJE",
     "address": "Lidvegen 318",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -1577,7 +1485,6 @@
     "zip": "3916 PORSGRUNN",
     "address": "Jernbanegata 10",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": "ole-henrik.olsen@t-fk.no"
   },
   {
@@ -1594,7 +1501,6 @@
     "zip": "3656 ATRÅ",
     "address": "Gjøystdalvegen 392",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": "per.lykke@t-fk.no"
   },
   {
@@ -1611,7 +1517,6 @@
     "zip": "3925 PORSGRUNN",
     "address": "Konvallvegen 39",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -1628,7 +1533,6 @@
     "zip": "3716 SKIEN",
     "address": "Stallmannsvingen 53 G",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -1645,7 +1549,6 @@
     "zip": "3943 PORSGRUNN",
     "address": "Brånanvn. 4 D",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -1662,7 +1565,6 @@
     "zip": "3770 KRAGERØ",
     "address": "Vestheiveien 36",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -1679,7 +1581,6 @@
     "zip": "3800 BØ I TELEMARK",
     "address": "Midtbøvegen 52",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -1696,7 +1597,6 @@
     "zip": "3741 SKIEN",
     "address": "Nedre Maihaugen 3",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -1713,7 +1613,6 @@
     "zip": "3716 SKIEN",
     "address": "Saudegt. Vest 33B",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": "sigbjorn.molvik@t-fk.no "
   },
   {
@@ -1730,7 +1629,6 @@
     "zip": "3717 SKIEN",
     "address": "Slemdalstun 7",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -1747,7 +1645,6 @@
     "zip": "3880 DALEN",
     "address": "Hotellvegen 10",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -1764,7 +1661,6 @@
     "zip": "3692 SAULAND",
     "address": null,
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -1781,7 +1677,6 @@
     "zip": "3770 KRAGERØ",
     "address": "Bekkedalsveien 53",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -1798,7 +1693,6 @@
     "zip": "3853 VRÅDAL",
     "address": "Kvennhusvegen 16",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": "Solveig.Nekstad.Grave@t-fk.no"
   },
   {
@@ -1815,7 +1709,6 @@
     "zip": "3841 FLATDAL",
     "address": "Flatdalsvegen 867",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": "Solveig.Sundbo.Abrahamsen@t-fk.no"
   },
   {
@@ -1832,7 +1725,6 @@
     "zip": "3950 BREVIK",
     "address": "Sandøyvegen 25",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -1849,7 +1741,6 @@
     "zip": "3731 SKIEN",
     "address": "Sveene 50",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": "Stein-Olav.Aasland@t-fk.no"
   },
   {
@@ -1866,7 +1757,6 @@
     "zip": "3658 MILAND",
     "address": "Briskevegen 2",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": "Steinar.Miland@t-fk.no"
   },
   {
@@ -1883,7 +1773,6 @@
     "zip": "0187 OSLO",
     "address": "Breigata 10",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -1900,7 +1789,6 @@
     "zip": "3743 SKIEN",
     "address": "Falkåsen 6",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -1917,7 +1805,6 @@
     "zip": "3750 DRANGEDAL",
     "address": null,
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -1934,7 +1821,6 @@
     "zip": "3690 HJARTDAL",
     "address": null,
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": "Sven.Tore.Lokslid2@t-fk.no"
   },
   {
@@ -1951,7 +1837,6 @@
     "zip": "3950 BREVIK",
     "address": "Sandøyavegen 38",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -1968,7 +1853,6 @@
     "zip": null,
     "address": null,
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": "terje.riis-johansen@t-fk.no"
   },
   {
@@ -1985,7 +1869,6 @@
     "zip": null,
     "address": null,
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -2002,7 +1885,6 @@
     "zip": "3770 KRAGERØ",
     "address": "Løkkebakken 20",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": "Thorleif.Vikre@t-fk.no"
   },
   {
@@ -2019,7 +1901,6 @@
     "zip": "3960 STATHELLE",
     "address": "Omborgsnestunet 16",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": "tom-egil.flata@t-fk.no"
   },
   {
@@ -2036,7 +1917,6 @@
     "zip": "3830 ULEFOSS",
     "address": "Heisholtvegen 1",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -2053,7 +1933,6 @@
     "zip": "3684 NOTODDEN",
     "address": "Konvallvegen 38",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -2070,7 +1949,6 @@
     "zip": "3825 LUNDE",
     "address": "Nomeveien 29",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": "Tor.Erik.Baksas@t-fk.no"
   },
   {
@@ -2087,7 +1965,6 @@
     "zip": "3890 VINJE",
     "address": "Plassane",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -2104,7 +1981,6 @@
     "zip": "3750 DRANGEDAL",
     "address": "Gudbrandsveien 7",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -2121,7 +1997,6 @@
     "zip": "3679 NOTODDEN",
     "address": "Snøyrudvegen 67",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -2138,7 +2013,6 @@
     "zip": "3855 TREUNGEN",
     "address": "Tveitsund ",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -2155,7 +2029,6 @@
     "zip": null,
     "address": null,
     "gender": null,
-    "co_desc": "Norge",
     "publicMail": "torleif.lothe@software-innovation.com"
   },
   {
@@ -2172,7 +2045,6 @@
     "zip": null,
     "address": null,
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -2189,7 +2061,6 @@
     "zip": "3725 SKIEN",
     "address": "Landstadsgate sør 22",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -2206,7 +2077,6 @@
     "zip": "3681 NOTODDEN",
     "address": "Johan Falkbergets vei 1a",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": "Veslemoy.Wale@t-fk.no"
   },
   {
@@ -2223,7 +2093,6 @@
     "zip": null,
     "address": null,
     "gender": null,
-    "co_desc": "Norge",
     "publicMail": null
   },
   {
@@ -2240,7 +2109,6 @@
     "zip": "3766 SANNIDAL",
     "address": "Kloppkjærveien 53",
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -2257,7 +2125,6 @@
     "zip": null,
     "address": null,
     "gender": "Mann",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -2274,7 +2141,6 @@
     "zip": "3930 PORSGRUNN",
     "address": "Lyngvegen 3d",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": null
   },
   {
@@ -2291,7 +2157,6 @@
     "zip": "3728 SKIEN",
     "address": "Sandtakveien 9",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": "aashild.dalene@t-fk.no"
   },
   {
@@ -2308,7 +2173,6 @@
     "zip": "3677 NOTODDEN",
     "address": "Heddalsvn. 590",
     "gender": "Kvinne",
-    "co_desc": null,
     "publicMail": null
   }
 ]

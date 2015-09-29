@@ -38,9 +38,11 @@ runQuery(query.allPoliticians, function (err, result) {
         if (err) {
           console.error(err)
         } else {
-          // Insert politician committees to file
+          // Push results to array
           committees.push(result)
+          // If we reached end of file
           if (i === elements) {
+            // Insert politician committees to file
             writeToFile('politiciansCommittee', JSON.stringify(committees, null, 2), function (err, result) {
               if (err) {
                 console.error(err)
