@@ -1,0 +1,32 @@
+{
+  "name": "node-import-politicians",
+  "description": "Import politicans from p360 to mongo for Telemark fylkeskommune",
+  "version": "1.0.0",
+  "private": true,
+  "author": {
+    "name": "Jonas Enge",
+    "email": "jonas.enge@t-fk.no",
+    "url": "https://github.com/maccyber"
+  },
+  "contributors": [
+    {
+      "name": "Geir Gåsodden",
+      "email": "geir.gasodden@pythonia.no",
+      "url": "https://github.com/zrrrzzt"
+    }
+  ],
+  "scripts": {
+    "start": "node standalone.js",
+    "test": "standard && tap --reporter=spec test/*.js",
+    "setup": "npm install && node setup.js"
+  },
+  "dependencies": {
+    "mssql": "^2.2.0",
+    "mongojs": "^1.3.0"
+  },
+  "devDependencies": {
+    "log4js": "^0.6.26",
+    "standard": "^5.1.1",
+    "tap": "^1.4.0"
+  }
+}
