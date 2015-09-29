@@ -1,3 +1,9 @@
+# node-import-politicians
+
+## About
+Temporary solution until 360s webservice supports searching for politicians
+
+## Mongo Examples
 politician
 
 ```javascript
