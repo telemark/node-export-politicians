@@ -4,6661 +4,2311 @@
       200417,
       null
     ],
-    "ct_searchname": [
-      "Adrian Ness Løvsjø",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "adrian@fpu.no",
-      null,
-      "+47 95 40 23 14 ",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": "2015-09-28T14:52:51.136Z",
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3928 PORSGRUNN",
-      null
-    ],
-    "ad_address": [
-      "Raskenlundvegen 22",
-      null
-    ],
+    "recno": 200417,
+    "name": "Adrian Ness Løvsjø",
+    "phone": null,
+    "title": null,
+    "privateMail": "adrian@fpu.no",
+    "mobilePhone": "+47 95 40 23 14 ",
+    "zip": "3928 PORSGRUNN",
+    "address": "Raskenlundvegen 22",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200442,
       null
     ],
-    "ct_searchname": [
-      "Anja Kristin Hjelseth",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "+47 99 72 17 69",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": "2015-06-12T09:16:42.946Z",
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3800 BØ I TELEMARK",
-      null
-    ],
-    "ad_address": [
-      "Hellandvegen ",
-      null
-    ],
+    "recno": 200442,
+    "name": "Anja Kristin Hjelseth",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 99 72 17 69",
+    "zip": "3800 BØ I TELEMARK",
+    "address": "Hellandvegen ",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200395,
       null
     ],
-    "ct_searchname": [
-      "Anne Lise Verpe Sandok",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "stsandok@broadpark.no",
-      null,
-      "+47 90 05 50 19",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3890 VINJE",
-      null
-    ],
-    "ad_address": null,
+    "recno": 200395,
+    "name": "Anne Lise Verpe Sandok",
+    "phone": null,
+    "title": null,
+    "privateMail": "stsandok@broadpark.no",
+    "mobilePhone": "+47 90 05 50 19",
+    "zip": "3890 VINJE",
+    "address": null,
+    "gender": null,
     "co_desc": null,
-    "scv_code": null,
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200508,
       null
     ],
-    "ct_searchname": [
-      "Arne Vinje",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "arne.vinje@vinje.kommune.no",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3890 VINJE",
-      null
-    ],
-    "ad_address": null,
+    "recno": 200508,
+    "name": "Arne Vinje",
+    "phone": null,
+    "title": null,
+    "privateMail": "arne.vinje@vinje.kommune.no",
+    "mobilePhone": null,
+    "zip": "3890 VINJE",
+    "address": null,
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200126,
       null
     ],
-    "ct_searchname": [
-      "Arnt Olav Brødsjø",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "+47 35 99 70 77",
-      "arnt.olav.brodsjo@drangedal.kommune.no",
-      null,
-      null,
-      null,
-      null,
-      null,
-      "+47 35 99 70 77",
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3760 NESLANDSVATN",
-      null
-    ],
-    "ad_address": null,
+    "recno": 200126,
+    "name": "Arnt Olav Brødsjø",
+    "phone": "+47 35 99 70 77",
+    "title": null,
+    "privateMail": "arnt.olav.brodsjo@drangedal.kommune.no",
+    "mobilePhone": null,
+    "zip": "3760 NESLANDSVATN",
+    "address": null,
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200394,
       null
     ],
-    "ct_searchname": [
-      "Arnt Solhaug",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "wgvarv@online.no",
-      null,
-      "+47 95 96 46 03",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      "arnt.solhaug@t-fk.no",
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3811 HØRTE",
-      null
-    ],
-    "ad_address": [
-      "Rukarvegen 66",
-      null
-    ],
+    "recno": 200394,
+    "name": "Arnt Solhaug",
+    "phone": null,
+    "title": null,
+    "privateMail": "wgvarv@online.no",
+    "mobilePhone": "+47 95 96 46 03",
+    "zip": "3811 HØRTE",
+    "address": "Rukarvegen 66",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": "arnt.solhaug@t-fk.no"
   },
   {
     "ct_recno": [
       200484,
       null
     ],
-    "ct_searchname": [
-      "Arvid Løver",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "arvid.lover@nett.no",
-      null,
-      "+47 90 67 14 31",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": "2015-06-12T09:17:00.276Z",
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3676 NOTODDEN",
-      null
-    ],
-    "ad_address": [
-      "Tjønnevegen 20",
-      null
-    ],
+    "recno": 200484,
+    "name": "Arvid Løver",
+    "phone": null,
+    "title": null,
+    "privateMail": "arvid.lover@nett.no",
+    "mobilePhone": "+47 90 67 14 31",
+    "zip": "3676 NOTODDEN",
+    "address": "Tjønnevegen 20",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200514,
       null
     ],
-    "ct_searchname": [
-      "Asbjørn Storrusten",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "asbjorn.storrusten@seljord.kommune.no",
-      null,
-      "+47 91796785",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3841 FLATDAL",
-      null
-    ],
-    "ad_address": [
-      "Elgfaret 12",
-      null
-    ],
+    "recno": 200514,
+    "name": "Asbjørn Storrusten",
+    "phone": null,
+    "title": null,
+    "privateMail": "asbjorn.storrusten@seljord.kommune.no",
+    "mobilePhone": "+47 91796785",
+    "zip": "3841 FLATDAL",
+    "address": "Elgfaret 12",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200443,
       null
     ],
-    "ct_searchname": [
-      "Aslak Ofte",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "+47 95 14 14 30",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3864 RAULAND",
-      null
-    ],
-    "ad_address": [
-      "Runningdalen 18",
-      null
-    ],
+    "recno": 200443,
+    "name": "Aslak Ofte",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 95 14 14 30",
+    "zip": "3864 RAULAND",
+    "address": "Runningdalen 18",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200410,
       null
     ],
-    "ct_searchname": [
-      "Astri Klonteig",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "astri.konteig@tinn.kommune.no",
-      null,
-      "+47 92 25 39 79",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3660 RJUKAN",
-      null
-    ],
-    "ad_address": [
-      "Haugåkervegen 5",
-      null
-    ],
+    "recno": 200410,
+    "name": "Astri Klonteig",
+    "phone": null,
+    "title": null,
+    "privateMail": "astri.konteig@tinn.kommune.no",
+    "mobilePhone": "+47 92 25 39 79",
+    "zip": "3660 RJUKAN",
+    "address": "Haugåkervegen 5",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200507,
       null
     ],
-    "ct_searchname": [
-      "Beate Marie Dahl Eide",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "beatemarie@gmail.com",
-      null,
-      "+47 91 73 98 93",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      "Beate-Marie-Dahl.Eide@t-fk.no",
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3840 SELJORD",
-      null
-    ],
-    "ad_address": [
-      "Hønervegen 9",
-      null
-    ],
+    "recno": 200507,
+    "name": "Beate Marie Dahl Eide",
+    "phone": null,
+    "title": null,
+    "privateMail": "beatemarie@gmail.com",
+    "mobilePhone": "+47 91 73 98 93",
+    "zip": "3840 SELJORD",
+    "address": "Hønervegen 9",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": "Beate-Marie-Dahl.Eide@t-fk.no"
   },
   {
     "ct_recno": [
       200369,
       null
     ],
-    "ct_searchname": [
-      "Birger Hovden",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "birger.hovden@gmail.com",
-      null,
-      "+47 99 63 54 39",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      "birger.hovden@t-fk.no",
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3660 RJUKAN",
-      null
-    ],
-    "ad_address": [
-      "Skriugt. 7",
-      null
-    ],
+    "recno": 200369,
+    "name": "Birger Hovden",
+    "phone": null,
+    "title": null,
+    "privateMail": "birger.hovden@gmail.com",
+    "mobilePhone": "+47 99 63 54 39",
+    "zip": "3660 RJUKAN",
+    "address": "Skriugt. 7",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": "birger.hovden@t-fk.no"
   },
   {
     "ct_recno": [
       200558,
       null
     ],
-    "ct_searchname": [
-      "Birgit Lia",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "+47 35510892",
-      "birgit.lia@sf-nett.no",
-      null,
-      null,
-      null,
-      null,
-      null,
-      "+47 35510892",
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3924 PORSGRUNN",
-      null
-    ],
-    "ad_address": [
-      "Hesteskoen 40",
-      null
-    ],
+    "recno": 200558,
+    "name": "Birgit Lia",
+    "phone": "+47 35510892",
+    "title": null,
+    "privateMail": "birgit.lia@sf-nett.no",
+    "mobilePhone": null,
+    "zip": "3924 PORSGRUNN",
+    "address": "Hesteskoen 40",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200511,
       null
     ],
-    "ct_searchname": [
-      "Bjørg Kyrkjebø Staaland",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "bjoerg.kyrkjeboe.staaland@online.no",
-      null,
-      "+47 91740806",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3850 KVITESEID",
-      null
-    ],
-    "ad_address": [
-      "Kviteseidveien 666 C",
-      null
-    ],
+    "recno": 200511,
+    "name": "Bjørg Kyrkjebø Staaland",
+    "phone": null,
+    "title": null,
+    "privateMail": "bjoerg.kyrkjeboe.staaland@online.no",
+    "mobilePhone": "+47 91740806",
+    "zip": "3850 KVITESEID",
+    "address": "Kviteseidveien 666 C",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200480,
       null
     ],
-    "ct_searchname": [
-      "Bjørn Harald Rudborg",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "+47 90 09 68 48",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3722 SKIEN",
-      null
-    ],
-    "ad_address": [
-      "Odinsgate 9",
-      null
-    ],
+    "recno": 200480,
+    "name": "Bjørn Harald Rudborg",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 90 09 68 48",
+    "zip": "3722 SKIEN",
+    "address": "Odinsgate 9",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200392,
       null
     ],
-    "ct_searchname": [
-      "Borgar Flaaten",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "borgar.flaten@live.no",
-      null,
-      "+47 90 82 13 26",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      "Borgar.Flaaten@t-fk.no",
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": "2015-09-28T13:11:49.820Z",
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3679 NOTODDEN",
-      null
-    ],
-    "ad_address": [
-      "Åsenveien 1",
-      null
-    ],
+    "recno": 200392,
+    "name": "Borgar Flaaten",
+    "phone": null,
+    "title": null,
+    "privateMail": "borgar.flaten@live.no",
+    "mobilePhone": "+47 90 82 13 26",
+    "zip": "3679 NOTODDEN",
+    "address": "Åsenveien 1",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": "Borgar.Flaaten@t-fk.no"
   },
   {
     "ct_recno": [
       200409,
       null
     ],
-    "ct_searchname": [
-      "Dler Khurshidi",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "dlerkhurshidi@gmail.com",
-      null,
-      "+47 47 66 37 39",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3725 SKIEN",
-      null
-    ],
-    "ad_address": [
-      "Aasmund Vinjesgt 15",
-      null
-    ],
+    "recno": 200409,
+    "name": "Dler Khurshidi",
+    "phone": null,
+    "title": null,
+    "privateMail": "dlerkhurshidi@gmail.com",
+    "mobilePhone": "+47 47 66 37 39",
+    "zip": "3725 SKIEN",
+    "address": "Aasmund Vinjesgt 15",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200384,
       null
     ],
-    "ct_searchname": [
-      "Edvard Mæland",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "edvard.m@online.no",
-      null,
-      "+47 90 04 30 25",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      "Edvard.Maland@t-fk.no",
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3841 FLATDAL",
-      null
-    ],
-    "ad_address": [
-      "Flatdalsvegen 772",
-      null
-    ],
+    "recno": 200384,
+    "name": "Edvard Mæland",
+    "phone": null,
+    "title": null,
+    "privateMail": "edvard.m@online.no",
+    "mobilePhone": "+47 90 04 30 25",
+    "zip": "3841 FLATDAL",
+    "address": "Flatdalsvegen 772",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": "Edvard.Maland@t-fk.no"
   },
   {
     "ct_recno": [
       200405,
       null
     ],
-    "ct_searchname": [
-      "Einfrid Daghild Halvorsen",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "einfrid.halvorsen@online.no",
-      null,
-      "+47 91 73 74 08 ",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3711 SKIEN",
-      null
-    ],
-    "ad_address": [
-      "Buervegen 9",
-      null
-    ],
+    "recno": 200405,
+    "name": "Einfrid Daghild Halvorsen",
+    "phone": null,
+    "title": null,
+    "privateMail": "einfrid.halvorsen@online.no",
+    "mobilePhone": "+47 91 73 74 08 ",
+    "zip": "3711 SKIEN",
+    "address": "Buervegen 9",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200172,
       null
     ],
-    "ct_searchname": [
-      "Elisabeth A. Nilsen",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "+47 35 91 73 97",
-      null,
-      null,
-      "+47 90 06 11 12",
-      null,
-      null,
-      null,
-      "+47 35 91 73 97",
-      null,
-      null,
-      "elisabeth.nilsen@t-fk.no",
-      "www.telemark.no"
-    ],
-    "ct_location": null,
-    "ct_title": "Leder Hovedutvalg for kultur ",
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": "2015-09-28T12:56:55.243Z",
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3931 PORSGRUNN",
-      null
-    ],
-    "ad_address": [
-      "Steinringen 36",
-      null
-    ],
+    "recno": 200172,
+    "name": "Elisabeth A. Nilsen",
+    "phone": "+47 35 91 73 97",
+    "title": "Leder Hovedutvalg for kultur ",
+    "privateMail": null,
+    "mobilePhone": "+47 90 06 11 12",
+    "zip": "3931 PORSGRUNN",
+    "address": "Steinringen 36",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": "elisabeth.nilsen@t-fk.no"
   },
   {
     "ct_recno": [
       200479,
       null
     ],
-    "ct_searchname": [
-      "Elisabeth Adamsen",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "+47 35 56 78 28",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      "+47 35 56 78 28",
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": "2014-10-08T10:26:05.970Z",
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3950 BREVIK",
-      null
-    ],
-    "ad_address": [
-      "Sandvegen 8",
-      null
-    ],
+    "recno": 200479,
+    "name": "Elisabeth Adamsen",
+    "phone": "+47 35 56 78 28",
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": "3950 BREVIK",
+    "address": "Sandvegen 8",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200377,
       null
     ],
-    "ct_searchname": [
-      "Elisabeth Ljosåk",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "elisabetn.ljosak@t-fk.no",
-      null,
-      "+47 98 88 02 88",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      "elisabetn.ljosak@t-fk.no",
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3830 ULEFOSS",
-      null
-    ],
-    "ad_address": [
-      "Hollavegen 46a",
-      null
-    ],
+    "recno": 200377,
+    "name": "Elisabeth Ljosåk",
+    "phone": null,
+    "title": null,
+    "privateMail": "elisabetn.ljosak@t-fk.no",
+    "mobilePhone": "+47 98 88 02 88",
+    "zip": "3830 ULEFOSS",
+    "address": "Hollavegen 46a",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": "elisabetn.ljosak@t-fk.no"
   },
   {
     "ct_recno": [
       200368,
       null
     ],
-    "ct_searchname": [
-      "Elisabeth Wickstrøm Åkredalen",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "elisabeth.aakredalen@gmail.com",
-      null,
-      "+47 95 46 43 72 ",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      "Elisabeth.Wickstrom.Akredalen@t-fk.no",
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": "2014-10-08T10:26:23.290Z",
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3936 PORSGRUNN",
-      null
-    ],
-    "ad_address": [
-      "Bekkegt. 23",
-      null
-    ],
+    "recno": 200368,
+    "name": "Elisabeth Wickstrøm Åkredalen",
+    "phone": null,
+    "title": null,
+    "privateMail": "elisabeth.aakredalen@gmail.com",
+    "mobilePhone": "+47 95 46 43 72 ",
+    "zip": "3936 PORSGRUNN",
+    "address": "Bekkegt. 23",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": "Elisabeth.Wickstrom.Akredalen@t-fk.no"
   },
   {
     "ct_recno": [
       200418,
       null
     ],
-    "ct_searchname": [
-      "Ellef Ellegård",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "ellef.ellegard@kragero.kommune.no",
-      null,
-      "+47 92 01 30 51",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3770 KRAGERØ",
-      null
-    ],
-    "ad_address": [
-      "Gumøy",
-      null
-    ],
+    "recno": 200418,
+    "name": "Ellef Ellegård",
+    "phone": null,
+    "title": null,
+    "privateMail": "ellef.ellegard@kragero.kommune.no",
+    "mobilePhone": "+47 92 01 30 51",
+    "zip": "3770 KRAGERØ",
+    "address": "Gumøy",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200476,
       null
     ],
-    "ct_searchname": [
-      "Emilie Klovning",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "+47 35 28 93 32",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      "+47 35 28 93 32",
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3718 SKIEN",
-      null
-    ],
-    "ad_address": [
-      "Strømdal Terrasse 74",
-      null
-    ],
+    "recno": 200476,
+    "name": "Emilie Klovning",
+    "phone": "+47 35 28 93 32",
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": "3718 SKIEN",
+    "address": "Strømdal Terrasse 74",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200184,
       null
     ],
-    "ct_searchname": [
-      "Erling Dahl",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "+47 35 91 73 95",
-      "erling.dahl@t-fk.no",
-      null,
-      "+47 93 20 49 94",
-      null,
-      null,
-      null,
-      "+47 35 91 73 95",
-      null,
-      null,
-      "erling.dahl@t-fk.no",
-      "www.telemark.no"
-    ],
-    "ct_location": null,
-    "ct_title": "Leder Kontrollutvalget",
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": "2015-09-28T14:54:37.413Z",
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3960 STATHELLE",
-      null
-    ],
-    "ad_address": [
-      "Kjellestadbakken 25",
-      null
-    ],
+    "recno": 200184,
+    "name": "Erling Dahl",
+    "phone": "+47 35 91 73 95",
+    "title": "Leder Kontrollutvalget",
+    "privateMail": "erling.dahl@t-fk.no",
+    "mobilePhone": "+47 93 20 49 94",
+    "zip": "3960 STATHELLE",
+    "address": "Kjellestadbakken 25",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": "erling.dahl@t-fk.no"
   },
   {
     "ct_recno": [
       200372,
       null
     ],
-    "ct_searchname": [
-      "Erling Laland",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "erling.laland@gmail.com",
-      null,
-      "+47 93 46 41 23",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      "erling.laland@t-fk.no",
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3770 KRAGERØ",
-      null
-    ],
-    "ad_address": [
-      "Rørvikveien 31",
-      null
-    ],
+    "recno": 200372,
+    "name": "Erling Laland",
+    "phone": null,
+    "title": null,
+    "privateMail": "erling.laland@gmail.com",
+    "mobilePhone": "+47 93 46 41 23",
+    "zip": "3770 KRAGERØ",
+    "address": "Rørvikveien 31",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": "erling.laland@t-fk.no"
   },
   {
     "ct_recno": [
       200429,
       null
     ],
-    "ct_searchname": [
-      "Eva Ebersten Ulvin",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "eva.ulvin@skien.kommune.no",
-      null,
-      "+47 99 61 44 01",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3715 SKIEN",
-      null
-    ],
-    "ad_address": [
-      "Lammersgt. 15",
-      null
-    ],
+    "recno": 200429,
+    "name": "Eva Ebersten Ulvin",
+    "phone": null,
+    "title": null,
+    "privateMail": "eva.ulvin@skien.kommune.no",
+    "mobilePhone": "+47 99 61 44 01",
+    "zip": "3715 SKIEN",
+    "address": "Lammersgt. 15",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200400,
       null
     ],
-    "ct_searchname": [
-      "Eva Markset Lia",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "eva.markset.lia@posrgrunn.kommune.no",
-      null,
-      "+47 92 44 61 15 ",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3929 PORSGRUNN",
-      null
-    ],
-    "ad_address": [
-      "Blåklokkeveien 5d",
-      null
-    ],
+    "recno": 200400,
+    "name": "Eva Markset Lia",
+    "phone": null,
+    "title": null,
+    "privateMail": "eva.markset.lia@posrgrunn.kommune.no",
+    "mobilePhone": "+47 92 44 61 15 ",
+    "zip": "3929 PORSGRUNN",
+    "address": "Blåklokkeveien 5d",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200512,
       null
     ],
-    "ct_searchname": [
-      "Finn Bærland",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "+47 90104681",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3830 ULEFOSS",
-      null
-    ],
-    "ad_address": [
-      "Utsikten 42",
-      null
-    ],
+    "recno": 200512,
+    "name": "Finn Bærland",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 90104681",
+    "zip": "3830 ULEFOSS",
+    "address": "Utsikten 42",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200402,
       null
     ],
-    "ct_searchname": [
-      "Finn Tallakstad",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "ftall@online.no",
-      null,
-      "+47 91 51 80 53",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      "finn.tallakstad@t-fk.no",
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3748 SILJAN",
-      null
-    ],
-    "ad_address": [
-      "Gurholtveien 76",
-      null
-    ],
+    "recno": 200402,
+    "name": "Finn Tallakstad",
+    "phone": null,
+    "title": null,
+    "privateMail": "ftall@online.no",
+    "mobilePhone": "+47 91 51 80 53",
+    "zip": "3748 SILJAN",
+    "address": "Gurholtveien 76",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": "finn.tallakstad@t-fk.no"
   },
   {
     "ct_recno": [
       200129,
       null
     ],
-    "ct_searchname": [
-      "Frode Bakken",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "frode.bakken@hit.no",
-      null,
-      "+47 90 66 04 23",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      "frode.bakken@t-fk.no",
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3722 SKIEN",
-      null
-    ],
-    "ad_address": [
-      "Edvard Griegs gate 6",
-      null
-    ],
+    "recno": 200129,
+    "name": "Frode Bakken",
+    "phone": null,
+    "title": null,
+    "privateMail": "frode.bakken@hit.no",
+    "mobilePhone": "+47 90 66 04 23",
+    "zip": "3722 SKIEN",
+    "address": "Edvard Griegs gate 6",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": "frode.bakken@t-fk.no"
   },
   {
     "ct_recno": [
       200386,
       null
     ],
-    "ct_searchname": [
-      "Frode Lieungh",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "frode.liungh@hit.no",
-      null,
-      "+47 91 18 40 08",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      "Frode.Lieungh@t-fk.no",
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3802 BØ I TELEMARK",
-      null
-    ],
-    "ad_address": [
-      "Bergenveien 46",
-      null
-    ],
+    "recno": 200386,
+    "name": "Frode Lieungh",
+    "phone": null,
+    "title": null,
+    "privateMail": "frode.liungh@hit.no",
+    "mobilePhone": "+47 91 18 40 08",
+    "zip": "3802 BØ I TELEMARK",
+    "address": "Bergenveien 46",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": "Frode.Lieungh@t-fk.no"
   },
   {
     "ct_recno": [
       200381,
       null
     ],
-    "ct_searchname": [
-      "Gry Anette Rekanes Amundsen",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "gry.rekanes@hotmail.com",
-      null,
-      "+47 47 26 30 48",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      "Gry.Anette.Rekanes.Amundsen@t-fk.no",
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3825 LUNDE",
-      null
-    ],
-    "ad_address": [
-      "Strengenvegen 839 ",
-      null
-    ],
+    "recno": 200381,
+    "name": "Gry Anette Rekanes Amundsen",
+    "phone": null,
+    "title": null,
+    "privateMail": "gry.rekanes@hotmail.com",
+    "mobilePhone": "+47 47 26 30 48",
+    "zip": "3825 LUNDE",
+    "address": "Strengenvegen 839 ",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": "Gry.Anette.Rekanes.Amundsen@t-fk.no"
   },
   {
     "ct_recno": [
       200438,
       null
     ],
-    "ct_searchname": [
-      "Gunhild Lurås",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "gunlursp@hotmail.com",
-      null,
-      "+47 90 84 27 50",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      "gunhild.luras@t-fk.no",
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3660 RJUKAN",
-      null
-    ],
-    "ad_address": [
-      "Tinngt. 11b",
-      null
-    ],
+    "recno": 200438,
+    "name": "Gunhild Lurås",
+    "phone": null,
+    "title": null,
+    "privateMail": "gunlursp@hotmail.com",
+    "mobilePhone": "+47 90 84 27 50",
+    "zip": "3660 RJUKAN",
+    "address": "Tinngt. 11b",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": "gunhild.luras@t-fk.no"
   },
   {
     "ct_recno": [
       200383,
       null
     ],
-    "ct_searchname": [
-      "Gunn Marit Helgesen",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "GunnMarit.Helgesen@t-fk.no",
-      null,
-      "+47 91 74 08 02",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      "GunnMarit.Helgesen@t-fk.no",
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3916 PORSGRUNN",
-      null
-    ],
-    "ad_address": [
-      "Bjørntvedtgt. 13",
-      null
-    ],
+    "recno": 200383,
+    "name": "Gunn Marit Helgesen",
+    "phone": null,
+    "title": null,
+    "privateMail": "GunnMarit.Helgesen@t-fk.no",
+    "mobilePhone": "+47 91 74 08 02",
+    "zip": "3916 PORSGRUNN",
+    "address": "Bjørntvedtgt. 13",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": "GunnMarit.Helgesen@t-fk.no"
   },
   {
     "ct_recno": [
       200473,
       null
     ],
-    "ct_searchname": [
-      "Gunn Marit Sandsdalen",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "dingard@kvaale.nett",
-      null,
-      "+47 90 61 79 25",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3841 FLATDAL",
-      null
-    ],
-    "ad_address": [
-      "Kvålevegen 15",
-      null
-    ],
+    "recno": 200473,
+    "name": "Gunn Marit Sandsdalen",
+    "phone": null,
+    "title": null,
+    "privateMail": "dingard@kvaale.nett",
+    "mobilePhone": "+47 90 61 79 25",
+    "zip": "3841 FLATDAL",
+    "address": "Kvålevegen 15",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200428,
       null
     ],
-    "ct_searchname": [
-      "Gunnar Ruud",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "gunnar.r@rekneskapskontoret.no",
-      null,
-      "+47 91 71 40 35",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3850 KVITESEID",
-      null
-    ],
-    "ad_address": [
-      "Kviteseidgt. 32",
-      null
-    ],
+    "recno": 200428,
+    "name": "Gunnar Ruud",
+    "phone": null,
+    "title": null,
+    "privateMail": "gunnar.r@rekneskapskontoret.no",
+    "mobilePhone": "+47 91 71 40 35",
+    "zip": "3850 KVITESEID",
+    "address": "Kviteseidgt. 32",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200168,
       null
     ],
-    "ct_searchname": [
-      "Hallgeir Ofte",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "hallgeir.ofte@gmail.com",
-      null,
-      "+47 90 13 38 01 ",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      "hallgeir.ofte@t-fk.no",
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3840 SELJORD",
-      null
-    ],
-    "ad_address": [
-      "Bygleåsen 6",
-      null
-    ],
+    "recno": 200168,
+    "name": "Hallgeir Ofte",
+    "phone": null,
+    "title": null,
+    "privateMail": "hallgeir.ofte@gmail.com",
+    "mobilePhone": "+47 90 13 38 01 ",
+    "zip": "3840 SELJORD",
+    "address": "Bygleåsen 6",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": "hallgeir.ofte@t-fk.no"
   },
   {
     "ct_recno": [
       200504,
       null
     ],
-    "ct_searchname": [
-      "Halvor Lurås",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "halvorluras@gmail.com",
-      null,
-      "+47 90737399",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3650 TINN AUSTBYGD",
-      null
-    ],
-    "ad_address": [
-      "Furulivn. 6",
-      null
-    ],
+    "recno": 200504,
+    "name": "Halvor Lurås",
+    "phone": null,
+    "title": null,
+    "privateMail": "halvorluras@gmail.com",
+    "mobilePhone": "+47 90737399",
+    "zip": "3650 TINN AUSTBYGD",
+    "address": "Furulivn. 6",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200534,
       null
     ],
-    "ct_searchname": [
-      "Hanne Skretteberg",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "hanne.skretteberg@gmail.com",
-      null,
-      "+47 90876544",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3825 LUNDE",
-      null
-    ],
-    "ad_address": [
-      "Lundtveitvegen 112",
-      null
-    ],
+    "recno": 200534,
+    "name": "Hanne Skretteberg",
+    "phone": null,
+    "title": null,
+    "privateMail": "hanne.skretteberg@gmail.com",
+    "mobilePhone": "+47 90876544",
+    "zip": "3825 LUNDE",
+    "address": "Lundtveitvegen 112",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200424,
       null
     ],
-    "ct_searchname": [
-      "Hans Jon Hjartsjø",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "+47 91 31 18 13",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3692 SAULAND",
-      null
-    ],
-    "ad_address": null,
+    "recno": 200424,
+    "name": "Hans Jon Hjartsjø",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 91 31 18 13",
+    "zip": "3692 SAULAND",
+    "address": null,
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200152,
       null
     ],
-    "ct_searchname": [
-      "Harald Kinck",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "harald@kinck.com",
-      null,
-      "+47 99 46 90 00 ",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      "harald.kinck@t-fk.no",
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3800 BØ I TELEMARK",
-      null
-    ],
-    "ad_address": [
-      "Kleppenvegen 49",
-      null
-    ],
+    "recno": 200152,
+    "name": "Harald Kinck",
+    "phone": null,
+    "title": null,
+    "privateMail": "harald@kinck.com",
+    "mobilePhone": "+47 99 46 90 00 ",
+    "zip": "3800 BØ I TELEMARK",
+    "address": "Kleppenvegen 49",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": "harald.kinck@t-fk.no"
   },
   {
     "ct_recno": [
       200440,
       null
     ],
-    "ct_searchname": [
-      "Heidi Therese Herum",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "heidiherum@hotmail.com el. heidi.herum@bamble.kommune.no",
-      null,
-      "+47 93 87 92 75",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3960 STATHELLE",
-      null
-    ],
-    "ad_address": [
-      "Herumveien 269",
-      null
-    ],
+    "recno": 200440,
+    "name": "Heidi Therese Herum",
+    "phone": null,
+    "title": null,
+    "privateMail": "heidiherum@hotmail.com el. heidi.herum@bamble.kommune.no",
+    "mobilePhone": "+47 93 87 92 75",
+    "zip": "3960 STATHELLE",
+    "address": "Herumveien 269",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200407,
       null
     ],
-    "ct_searchname": [
-      "Heidi Åmot",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "heiaamot@online.no",
-      null,
-      "+47 99 23 75 35",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3850 KVITESEID",
-      null
-    ],
-    "ad_address": [
-      "Ordalsvegen 415",
-      null
-    ],
+    "recno": 200407,
+    "name": "Heidi Åmot",
+    "phone": null,
+    "title": null,
+    "privateMail": "heiaamot@online.no",
+    "mobilePhone": "+47 99 23 75 35",
+    "zip": "3850 KVITESEID",
+    "address": "Ordalsvegen 415",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200135,
       null
     ],
-    "ct_searchname": [
-      "Helle Hogner",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "helle@marcato.no",
-      null,
-      "+47 90 51 06 05 ",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      "helle.hogner@t-fk.no ",
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3770 KRAGERØ",
-      null
-    ],
-    "ad_address": [
-      "Bjørnsborgsbakken 46",
-      null
-    ],
+    "recno": 200135,
+    "name": "Helle Hogner",
+    "phone": null,
+    "title": null,
+    "privateMail": "helle@marcato.no",
+    "mobilePhone": "+47 90 51 06 05 ",
+    "zip": "3770 KRAGERØ",
+    "address": "Bjørnsborgsbakken 46",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": "helle.hogner@t-fk.no "
   },
   {
     "ct_recno": [
       200380,
       null
     ],
-    "ct_searchname": [
-      "Henriette Fluer Vikre",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "henriette.fluer@kragero.kommune.no",
-      null,
-      "+47 92 22 41 69",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      "Henriette.Fluer.Vikre@t-fk.no",
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3770 KRAGERØ",
-      null
-    ],
-    "ad_address": [
-      "Løkkebakken 20",
-      null
-    ],
+    "recno": 200380,
+    "name": "Henriette Fluer Vikre",
+    "phone": null,
+    "title": null,
+    "privateMail": "henriette.fluer@kragero.kommune.no",
+    "mobilePhone": "+47 92 22 41 69",
+    "zip": "3770 KRAGERØ",
+    "address": "Løkkebakken 20",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": "Henriette.Fluer.Vikre@t-fk.no"
   },
   {
     "ct_recno": [
       208917,
       null
     ],
-    "ct_searchname": [
-      "Hilde Alice Vågslid",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "hilde.alice.vagslid@tokke.kommune.no",
-      null,
-      "+47 99 02 00 34",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": null,
-    "ad_address": null,
+    "recno": 208917,
+    "name": "Hilde Alice Vågslid",
+    "phone": null,
+    "title": null,
+    "privateMail": "hilde.alice.vagslid@tokke.kommune.no",
+    "mobilePhone": "+47 99 02 00 34",
+    "zip": null,
+    "address": null,
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200471,
       null
     ],
-    "ct_searchname": [
-      "Håkon Jarl Aspaas",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "haakon_as@hotmail.com",
-      null,
-      "+47 94 87 15 19",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3677 NOTODDEN",
-      null
-    ],
-    "ad_address": [
-      "Brennavegen 17",
-      null
-    ],
+    "recno": 200471,
+    "name": "Håkon Jarl Aspaas",
+    "phone": null,
+    "title": null,
+    "privateMail": "haakon_as@hotmail.com",
+    "mobilePhone": "+47 94 87 15 19",
+    "zip": "3677 NOTODDEN",
+    "address": "Brennavegen 17",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200421,
       null
     ],
-    "ct_searchname": [
-      "Inger Lise Wiersdalen",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "post@langangenplanteskole.no",
-      null,
-      "+47 98 45 39 73",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      "Inger-Lise.Wiersdalen@t-fk.no",
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3947 LANGANGEN",
-      null
-    ],
-    "ad_address": [
-      "Gullåsvegen 4",
-      null
-    ],
+    "recno": 200421,
+    "name": "Inger Lise Wiersdalen",
+    "phone": null,
+    "title": null,
+    "privateMail": "post@langangenplanteskole.no",
+    "mobilePhone": "+47 98 45 39 73",
+    "zip": "3947 LANGANGEN",
+    "address": "Gullåsvegen 4",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": "Inger-Lise.Wiersdalen@t-fk.no"
   },
   {
     "ct_recno": [
       200170,
       null
     ],
-    "ct_searchname": [
-      "Jacob Andreas Søreide",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "jacob.soreide@gmail.com",
-      null,
-      "+47 41 63 92 70",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      "jacob.andreas.soreide@t-fk.no",
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3680 NOTODDEN",
-      null
-    ],
-    "ad_address": [
-      "Bolkesjø ",
-      null
-    ],
+    "recno": 200170,
+    "name": "Jacob Andreas Søreide",
+    "phone": null,
+    "title": null,
+    "privateMail": "jacob.soreide@gmail.com",
+    "mobilePhone": "+47 41 63 92 70",
+    "zip": "3680 NOTODDEN",
+    "address": "Bolkesjø ",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": "jacob.andreas.soreide@t-fk.no"
   },
   {
     "ct_recno": [
       200388,
       null
     ],
-    "ct_searchname": [
-      "Jarl-Håvard Borgen",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "jabor@online.no",
-      null,
-      "+47 90 77 68 26 ",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      "Jarl-Havard.Borgen@t-fk.no",
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3825 LUNDE",
-      null
-    ],
-    "ad_address": [
-      "Skogvegen 1",
-      null
-    ],
+    "recno": 200388,
+    "name": "Jarl-Håvard Borgen",
+    "phone": null,
+    "title": null,
+    "privateMail": "jabor@online.no",
+    "mobilePhone": "+47 90 77 68 26 ",
+    "zip": "3825 LUNDE",
+    "address": "Skogvegen 1",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": "Jarl-Havard.Borgen@t-fk.no"
   },
   {
     "ct_recno": [
       200393,
       null
     ],
-    "ct_searchname": [
-      "Johan Tønnes Løchstøer",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "jtl@krageroadvokatene.no",
-      null,
-      "+47 91 72 81 01",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      "Johan.Tonnes.Lochstoer@t-fk.no",
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3791 KRAGERØ",
-      null
-    ],
-    "ad_address": [
-      "Postboks 171",
-      null
-    ],
+    "recno": 200393,
+    "name": "Johan Tønnes Løchstøer",
+    "phone": null,
+    "title": null,
+    "privateMail": "jtl@krageroadvokatene.no",
+    "mobilePhone": "+47 91 72 81 01",
+    "zip": "3791 KRAGERØ",
+    "address": "Postboks 171",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": "Johan.Tonnes.Lochstoer@t-fk.no"
   },
   {
     "ct_recno": [
       200517,
       null
     ],
-    "ct_searchname": [
-      "John Sanden",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "jhsa@online.no; john.sanden@ta.no",
-      null,
-      "+47 91377469",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3911 PORSGRUNN",
-      null
-    ],
-    "ad_address": [
-      "Aamodtbakken 26",
-      null
-    ],
+    "recno": 200517,
+    "name": "John Sanden",
+    "phone": null,
+    "title": null,
+    "privateMail": "jhsa@online.no; john.sanden@ta.no",
+    "mobilePhone": "+47 91377469",
+    "zip": "3911 PORSGRUNN",
+    "address": "Aamodtbakken 26",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200406,
       null
     ],
-    "ct_searchname": [
-      "Johnny Skogsrød",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "johnny-53@hotmail.com",
-      null,
-      "+47 41 54 54 25",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3733 SKIEN",
-      null
-    ],
-    "ad_address": [
-      "Solumsgt. 24",
-      null
-    ],
+    "recno": 200406,
+    "name": "Johnny Skogsrød",
+    "phone": null,
+    "title": null,
+    "privateMail": "johnny-53@hotmail.com",
+    "mobilePhone": "+47 41 54 54 25",
+    "zip": "3733 SKIEN",
+    "address": "Solumsgt. 24",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200371,
       null
     ],
-    "ct_searchname": [
-      "Jon F. Leiulfsrud",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "jon.leiulfsrud@gmail.com",
-      null,
-      "+47 90 10 92 84 ",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      "Jon.F.Leiulfsrud@t-fk.no",
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3917 PORSGRUNN",
-      null
-    ],
-    "ad_address": [
-      "Skarphendingsveg 9",
-      null
-    ],
+    "recno": 200371,
+    "name": "Jon F. Leiulfsrud",
+    "phone": null,
+    "title": null,
+    "privateMail": "jon.leiulfsrud@gmail.com",
+    "mobilePhone": "+47 90 10 92 84 ",
+    "zip": "3917 PORSGRUNN",
+    "address": "Skarphendingsveg 9",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": "Jon.F.Leiulfsrud@t-fk.no"
   },
   {
     "ct_recno": [
       200441,
       null
     ],
-    "ct_searchname": [
-      "Jon Hustveit Mælandsmo",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "jo-maela@online.no",
-      null,
-      "+47 41 50 17 71",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3677 NOTODDEN",
-      null
-    ],
-    "ad_address": [
-      "Nordre Vestsidaveg 104",
-      null
-    ],
+    "recno": 200441,
+    "name": "Jon Hustveit Mælandsmo",
+    "phone": null,
+    "title": null,
+    "privateMail": "jo-maela@online.no",
+    "mobilePhone": "+47 41 50 17 71",
+    "zip": "3677 NOTODDEN",
+    "address": "Nordre Vestsidaveg 104",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200396,
       null
     ],
-    "ct_searchname": [
-      "Jone Blikra",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "jone.blikra@kragero.kommune.no",
-      null,
-      "+47 92 46 29 89",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3770 KRAGERØ",
-      null
-    ],
-    "ad_address": [
-      "Vafossveien 24 ",
-      null
-    ],
+    "recno": 200396,
+    "name": "Jone Blikra",
+    "phone": null,
+    "title": null,
+    "privateMail": "jone.blikra@kragero.kommune.no",
+    "mobilePhone": "+47 92 46 29 89",
+    "zip": "3770 KRAGERØ",
+    "address": "Vafossveien 24 ",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200419,
       null
     ],
-    "ct_searchname": [
-      "Jorunn Stormoen",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "jorunn.stormoen@rjukanpost.no",
-      null,
-      "+47 92 46 14 30 ",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3660 RJUKAN",
-      null
-    ],
-    "ad_address": [
-      "Skriugt. 22",
-      null
-    ],
+    "recno": 200419,
+    "name": "Jorunn Stormoen",
+    "phone": null,
+    "title": null,
+    "privateMail": "jorunn.stormoen@rjukanpost.no",
+    "mobilePhone": "+47 92 46 14 30 ",
+    "zip": "3660 RJUKAN",
+    "address": "Skriugt. 22",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200437,
       null
     ],
-    "ct_searchname": [
-      "Jostein Gjærum",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "+47 35 96 22 34",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3960 STATHELLE",
-      null
-    ],
-    "ad_address": [
-      "Quinsgaardsgt. 29",
-      null
-    ],
+    "recno": 200437,
+    "name": "Jostein Gjærum",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 35 96 22 34",
+    "zip": "3960 STATHELLE",
+    "address": "Quinsgaardsgt. 29",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200183,
       null
     ],
-    "ct_searchname": [
-      "Jørund A. Ruud",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "+47 35 91 73 98",
-      null,
-      null,
-      "+47 90 91 39 96",
-      null,
-      null,
-      null,
-      "+47 35 91 73 98",
-      null,
-      null,
-      "jorund.ruud@t-fk.no",
-      "www.telemark.no"
-    ],
-    "ct_location": null,
-    "ct_title": "Leder Hovedutvalg for kompetanse",
-    "ct_initials": null,
-    "ct_referencenumber": "12024848327",
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3960 STATHELLE",
-      null
-    ],
-    "ad_address": [
-      "Barnålv. 4",
-      null
-    ],
+    "recno": 200183,
+    "name": "Jørund A. Ruud",
+    "phone": "+47 35 91 73 98",
+    "title": "Leder Hovedutvalg for kompetanse",
+    "privateMail": null,
+    "mobilePhone": "+47 90 91 39 96",
+    "zip": "3960 STATHELLE",
+    "address": "Barnålv. 4",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": "jorund.ruud@t-fk.no"
   },
   {
     "ct_recno": [
       200387,
       null
     ],
-    "ct_searchname": [
-      "Kari Fosso",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "kari.fosso@kebas.no",
-      null,
-      "+47 40 09 18 07",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      "Kari.Fosso@t-fk.no",
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3791 KRAGERØ",
-      null
-    ],
-    "ad_address": [
-      "Postboks 226",
-      null
-    ],
+    "recno": 200387,
+    "name": "Kari Fosso",
+    "phone": null,
+    "title": null,
+    "privateMail": "kari.fosso@kebas.no",
+    "mobilePhone": "+47 40 09 18 07",
+    "zip": "3791 KRAGERØ",
+    "address": "Postboks 226",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": "Kari.Fosso@t-fk.no"
   },
   {
     "ct_recno": [
       200472,
       null
     ],
-    "ct_searchname": [
-      "Kari Rustberggård",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "kari.r@hogetveit.no",
-      null,
-      "+47 97 07 20 03",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3890 VINJE",
-      null
-    ],
-    "ad_address": [
-      "Våmartveitvegen 10",
-      null
-    ],
+    "recno": 200472,
+    "name": "Kari Rustberggård",
+    "phone": null,
+    "title": null,
+    "privateMail": "kari.r@hogetveit.no",
+    "mobilePhone": "+47 97 07 20 03",
+    "zip": "3890 VINJE",
+    "address": "Våmartveitvegen 10",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200382,
       null
     ],
-    "ct_searchname": [
-      "Karianne Hansen",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "karianh3@online.no",
-      null,
-      "+47 40 46 36 01",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      "Karianne.Hansen@t-fk.no",
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3746 SKIEN",
-      null
-    ],
-    "ad_address": [
-      "Johan Schaanningsgate 29",
-      null
-    ],
+    "recno": 200382,
+    "name": "Karianne Hansen",
+    "phone": null,
+    "title": null,
+    "privateMail": "karianh3@online.no",
+    "mobilePhone": "+47 40 46 36 01",
+    "zip": "3746 SKIEN",
+    "address": "Johan Schaanningsgate 29",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": "Karianne.Hansen@t-fk.no"
   },
   {
     "ct_recno": [
       200375,
       null
     ],
-    "ct_searchname": [
-      "Karianne Haugdal Nilsen",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "+47 99 79 78 55",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      "Karianne.Haugdal.Nilsen@t-fk.no",
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3748 SILJAN",
-      null
-    ],
-    "ad_address": [
-      "Svartangveien 141b",
-      null
-    ],
+    "recno": 200375,
+    "name": "Karianne Haugdal Nilsen",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 99 79 78 55",
+    "zip": "3748 SILJAN",
+    "address": "Svartangveien 141b",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": "Karianne.Haugdal.Nilsen@t-fk.no"
   },
   {
     "ct_recno": [
       200505,
       null
     ],
-    "ct_searchname": [
-      "Kari-Anne Nordbø",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "kariannenielsen@hotmail.com",
-      null,
-      "+47 92427742",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3854 NISSEDAL",
-      null
-    ],
-    "ad_address": [
-      "Nordbø",
-      null
-    ],
+    "recno": 200505,
+    "name": "Kari-Anne Nordbø",
+    "phone": null,
+    "title": null,
+    "privateMail": "kariannenielsen@hotmail.com",
+    "mobilePhone": "+47 92427742",
+    "zip": "3854 NISSEDAL",
+    "address": "Nordbø",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200423,
       null
     ],
-    "ct_searchname": [
-      "Karin Bratteng Melhus",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "asmelhu@online.no",
-      null,
-      "+47 94 15 02 35",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3810 GVARV",
-      null
-    ],
-    "ad_address": [
-      "Strannavegen 377",
-      null
-    ],
+    "recno": 200423,
+    "name": "Karin Bratteng Melhus",
+    "phone": null,
+    "title": null,
+    "privateMail": "asmelhu@online.no",
+    "mobilePhone": "+47 94 15 02 35",
+    "zip": "3810 GVARV",
+    "address": "Strannavegen 377",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200385,
       null
     ],
-    "ct_searchname": [
-      "Karin E. Solberg Mathisen",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "karin.solberg.mathisen@online.no",
-      null,
-      "+47 91 37 12 38 ",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      "Karin.Mathisen@t-fk.no",
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3726 SKIEN",
-      null
-    ],
-    "ad_address": [
-      "Stigeråsen 14",
-      null
-    ],
+    "recno": 200385,
+    "name": "Karin E. Solberg Mathisen",
+    "phone": null,
+    "title": null,
+    "privateMail": "karin.solberg.mathisen@online.no",
+    "mobilePhone": "+47 91 37 12 38 ",
+    "zip": "3726 SKIEN",
+    "address": "Stigeråsen 14",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": "Karin.Mathisen@t-fk.no"
   },
   {
     "ct_recno": [
       200519,
       null
     ],
-    "ct_searchname": [
-      "Karin Stormyr",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "karin@advokatstormyr.no",
-      null,
-      "+47 93088125",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3944 PORSGRUNN",
-      null
-    ],
-    "ad_address": [
-      "Prestealleen 81",
-      null
-    ],
+    "recno": 200519,
+    "name": "Karin Stormyr",
+    "phone": null,
+    "title": null,
+    "privateMail": "karin@advokatstormyr.no",
+    "mobilePhone": "+47 93088125",
+    "zip": "3944 PORSGRUNN",
+    "address": "Prestealleen 81",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200541,
       null
     ],
-    "ct_searchname": [
-      "Kathrine Haatvedt",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "kathrinehaatvedt@hotmail.com",
-      null,
-      "+47 95045575",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3660 RJUKAN",
-      null
-    ],
-    "ad_address": [
-      "Sam Eydes gate 146",
-      null
-    ],
+    "recno": 200541,
+    "name": "Kathrine Haatvedt",
+    "phone": null,
+    "title": null,
+    "privateMail": "kathrinehaatvedt@hotmail.com",
+    "mobilePhone": "+47 95045575",
+    "zip": "3660 RJUKAN",
+    "address": "Sam Eydes gate 146",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200403,
       null
     ],
-    "ct_searchname": [
-      "Kisten Elaine Jensby",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "postkiela@gmail.com",
-      null,
-      "+47 40 21 93 15",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3855 TREUNGEN",
-      null
-    ],
-    "ad_address": [
-      "Smeitkollen ",
-      null
-    ],
+    "recno": 200403,
+    "name": "Kisten Elaine Jensby",
+    "phone": null,
+    "title": null,
+    "privateMail": "postkiela@gmail.com",
+    "mobilePhone": "+47 40 21 93 15",
+    "zip": "3855 TREUNGEN",
+    "address": "Smeitkollen ",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200430,
       null
     ],
-    "ct_searchname": [
-      "Knut T. Haugen",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "+47 90 61 95 99",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3750 DRANGEDAL",
-      null
-    ],
-    "ad_address": [
-      "Heireksvei 2",
-      null
-    ],
+    "recno": 200430,
+    "name": "Knut T. Haugen",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 90 61 95 99",
+    "zip": "3750 DRANGEDAL",
+    "address": "Heireksvei 2",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200131,
       null
     ],
-    "ct_searchname": [
-      "Kristian Espeland",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "krespela@online.no",
-      null,
-      "+47 90 87 76 04",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      "Kristian.Espeland@t-fk.no",
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3840 SELJORD",
-      null
-    ],
-    "ad_address": [
-      "Kivledalsvegen 87",
-      null
-    ],
+    "recno": 200131,
+    "name": "Kristian Espeland",
+    "phone": null,
+    "title": null,
+    "privateMail": "krespela@online.no",
+    "mobilePhone": "+47 90 87 76 04",
+    "zip": "3840 SELJORD",
+    "address": "Kivledalsvegen 87",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": "Kristian.Espeland@t-fk.no"
   },
   {
     "ct_recno": [
       200420,
       null
     ],
-    "ct_searchname": [
-      "Kåre Preben Hegland",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "kare.preben.hegland@kragero.kommune.no",
-      null,
-      "+47 98 20 57 00",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      "kare-preben.hegland@t-fk.no",
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3770 KRAGERØ",
-      null
-    ],
-    "ad_address": [
-      "Solveien 7",
-      null
-    ],
+    "recno": 200420,
+    "name": "Kåre Preben Hegland",
+    "phone": null,
+    "title": null,
+    "privateMail": "kare.preben.hegland@kragero.kommune.no",
+    "mobilePhone": "+47 98 20 57 00",
+    "zip": "3770 KRAGERØ",
+    "address": "Solveien 7",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": "kare-preben.hegland@t-fk.no"
   },
   {
     "ct_recno": [
       200411,
       null
     ],
-    "ct_searchname": [
-      "Lars Arvid Bjørgulfson",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "l-abjoe@online.no",
-      null,
-      "+47 95 25 80 06",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3855 TREUNGEN",
-      null
-    ],
-    "ad_address": [
-      "Smeitkollen ",
-      null
-    ],
+    "recno": 200411,
+    "name": "Lars Arvid Bjørgulfson",
+    "phone": null,
+    "title": null,
+    "privateMail": "l-abjoe@online.no",
+    "mobilePhone": "+47 95 25 80 06",
+    "zip": "3855 TREUNGEN",
+    "address": "Smeitkollen ",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200425,
       null
     ],
-    "ct_searchname": [
-      "Lehne-Kristin H. Rykkelid",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "lehne-kristin.rykkelid@t-fk.no",
-      null,
-      "+47 91 71 19 71",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3960 STATHELLE",
-      null
-    ],
-    "ad_address": [
-      "Vesteråsveien 63",
-      null
-    ],
+    "recno": 200425,
+    "name": "Lehne-Kristin H. Rykkelid",
+    "phone": null,
+    "title": null,
+    "privateMail": "lehne-kristin.rykkelid@t-fk.no",
+    "mobilePhone": "+47 91 71 19 71",
+    "zip": "3960 STATHELLE",
+    "address": "Vesteråsveien 63",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200374,
       null
     ],
-    "ct_searchname": [
-      "Linda Holien",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "lishere@hotmail.com",
-      null,
-      "+47 91 31 31 00 ",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      "linda.holien@t-fk.no",
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3960 STATHELLE",
-      null
-    ],
-    "ad_address": [
-      "Høgenhei 12",
-      null
-    ],
+    "recno": 200374,
+    "name": "Linda Holien",
+    "phone": null,
+    "title": null,
+    "privateMail": "lishere@hotmail.com",
+    "mobilePhone": "+47 91 31 31 00 ",
+    "zip": "3960 STATHELLE",
+    "address": "Høgenhei 12",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": "linda.holien@t-fk.no"
   },
   {
     "ct_recno": [
       200367,
       null
     ],
-    "ct_searchname": [
-      "Lise Wiik",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "+47 35917283",
-      null,
-      null,
-      "+47 98118966",
-      null,
-      null,
-      null,
-      "+47 35917283",
-      null,
-      null,
-      "lise.wiik@t-fk.no",
-      "www.telemark.no"
-    ],
-    "ct_location": null,
-    "ct_title": "Fylkesvaraordfører",
-    "ct_initials": null,
-    "ct_referencenumber": "23034741409",
-    "hi_date": "2015-09-28T12:56:19.570Z",
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3691 GRANSHERAD",
-      null
-    ],
-    "ad_address": [
-      "Venåsvegen 203",
-      null
-    ],
+    "recno": 200367,
+    "name": "Lise Wiik",
+    "phone": "+47 35917283",
+    "title": "Fylkesvaraordfører",
+    "privateMail": null,
+    "mobilePhone": "+47 98118966",
+    "zip": "3691 GRANSHERAD",
+    "address": "Venåsvegen 203",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": "E-post",
-    "uag_code": "Alle"
+    "publicMail": "lise.wiik@t-fk.no"
   },
   {
     "ct_recno": [
       200399,
       null
     ],
-    "ct_searchname": [
-      "Magnus Straume",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "magnus.straume@drangedal.kommune.no",
-      null,
-      "+47 91 17 47 94",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3750 DRANGEDAL",
-      null
-    ],
-    "ad_address": [
-      "Tereveien 1",
-      null
-    ],
+    "recno": 200399,
+    "name": "Magnus Straume",
+    "phone": null,
+    "title": null,
+    "privateMail": "magnus.straume@drangedal.kommune.no",
+    "mobilePhone": "+47 91 17 47 94",
+    "zip": "3750 DRANGEDAL",
+    "address": "Tereveien 1",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200470,
       null
     ],
-    "ct_searchname": [
-      "Mari Anne Sannes",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "masannes@online.no",
-      null,
-      "+47 95 94 97 03",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      "Mari-Anne.Sannes@t-fk.no",
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3830 ULEFOSS",
-      null
-    ],
-    "ad_address": [
-      "Furuvegen 4",
-      null
-    ],
+    "recno": 200470,
+    "name": "Mari Anne Sannes",
+    "phone": null,
+    "title": null,
+    "privateMail": "masannes@online.no",
+    "mobilePhone": "+47 95 94 97 03",
+    "zip": "3830 ULEFOSS",
+    "address": "Furuvegen 4",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": "Mari-Anne.Sannes@t-fk.no"
   },
   {
     "ct_recno": [
       200434,
       null
     ],
-    "ct_searchname": [
-      "Marianne Nørstrud",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "+47 99 37 56 22",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3677 NOTODDEN",
-      null
-    ],
-    "ad_address": [
-      "Tråserudvegen 16",
-      null
-    ],
+    "recno": 200434,
+    "name": "Marianne Nørstrud",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 99 37 56 22",
+    "zip": "3677 NOTODDEN",
+    "address": "Tråserudvegen 16",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200487,
       null
     ],
-    "ct_searchname": [
-      "Merethe Waldean Haagensen",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "merethew@online.no",
-      null,
-      "+47 95 28 42 61",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3684 NOTODDEN",
-      null
-    ],
-    "ad_address": [
-      "Klypevegen 35",
-      null
-    ],
+    "recno": 200487,
+    "name": "Merethe Waldean Haagensen",
+    "phone": null,
+    "title": null,
+    "privateMail": "merethew@online.no",
+    "mobilePhone": "+47 95 28 42 61",
+    "zip": "3684 NOTODDEN",
+    "address": "Klypevegen 35",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200412,
       null
     ],
-    "ct_searchname": [
-      "Mette Katrine Ofstad",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "msofstad@online.no",
-      null,
-      "+47 99 20 57 27",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3770 KRAGERØ",
-      null
-    ],
-    "ad_address": [
-      "Blåveisdalen 17",
-      null
-    ],
+    "recno": 200412,
+    "name": "Mette Katrine Ofstad",
+    "phone": null,
+    "title": null,
+    "privateMail": "msofstad@online.no",
+    "mobilePhone": "+47 99 20 57 27",
+    "zip": "3770 KRAGERØ",
+    "address": "Blåveisdalen 17",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200179,
       null
     ],
-    "ct_searchname": [
-      "Nikolai Boye",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": null,
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": null,
-    "ad_address": null,
+    "recno": 200179,
+    "name": "Nikolai Boye",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": null,
+    "address": null,
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200485,
       null
     ],
-    "ct_searchname": [
-      "Nils Angard",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "n-angard@frisurf.no",
-      null,
-      "+47 90 10 29 43",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3683 NOTODDEN",
-      null
-    ],
-    "ad_address": [
-      "Sauheradvegen 1926",
-      null
-    ],
+    "recno": 200485,
+    "name": "Nils Angard",
+    "phone": null,
+    "title": null,
+    "privateMail": "n-angard@frisurf.no",
+    "mobilePhone": "+47 90 10 29 43",
+    "zip": "3683 NOTODDEN",
+    "address": "Sauheradvegen 1926",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200415,
       null
     ],
-    "ct_searchname": [
-      "Nils Bjørnflaten",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "nilsbj@nenett.no",
-      null,
-      "+47 97 05 60 26",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      "nils.bjornflaten@t-fk.no",
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3684 NOTODDEN",
-      null
-    ],
-    "ad_address": [
-      "Kringlevegen 4",
-      null
-    ],
+    "recno": 200415,
+    "name": "Nils Bjørnflaten",
+    "phone": null,
+    "title": null,
+    "privateMail": "nilsbj@nenett.no",
+    "mobilePhone": "+47 97 05 60 26",
+    "zip": "3684 NOTODDEN",
+    "address": "Kringlevegen 4",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": "nils.bjornflaten@t-fk.no"
   },
   {
     "ct_recno": [
       200171,
       null
     ],
-    "ct_searchname": [
-      "Nina Vibeke Five",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "five.nina.v@gmail.com",
-      null,
-      "+47 45 51 04 77",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      "Nina.Vibeke.Five@t-fk.no",
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3719 SKIEN",
-      null
-    ],
-    "ad_address": [
-      "Skyervegen 217",
-      null
-    ],
+    "recno": 200171,
+    "name": "Nina Vibeke Five",
+    "phone": null,
+    "title": null,
+    "privateMail": "five.nina.v@gmail.com",
+    "mobilePhone": "+47 45 51 04 77",
+    "zip": "3719 SKIEN",
+    "address": "Skyervegen 217",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": "Nina.Vibeke.Five@t-fk.no"
   },
   {
     "ct_recno": [
       200398,
       null
     ],
-    "ct_searchname": [
-      "Nina Ødegaard",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "ninaoede@gmail.com",
-      null,
-      "+47 90 04 07 60",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3680 NOTODDEN",
-      null
-    ],
-    "ad_address": [
-      "Olaf Moensveg 59",
-      null
-    ],
+    "recno": 200398,
+    "name": "Nina Ødegaard",
+    "phone": null,
+    "title": null,
+    "privateMail": "ninaoede@gmail.com",
+    "mobilePhone": "+47 90 04 07 60",
+    "zip": "3680 NOTODDEN",
+    "address": "Olaf Moensveg 59",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200143,
       null
     ],
-    "ct_searchname": [
-      "Olav Kasland",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "olav.kasland@bo.kommune.no",
-      null,
-      "+47 99 59 94 83",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      "Olav.Kasland@t-fk.no",
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3800 BØ I TELEMARK",
-      null
-    ],
-    "ad_address": [
-      "Torsbergåsen 12",
-      null
-    ],
+    "recno": 200143,
+    "name": "Olav Kasland",
+    "phone": null,
+    "title": null,
+    "privateMail": "olav.kasland@bo.kommune.no",
+    "mobilePhone": "+47 99 59 94 83",
+    "zip": "3800 BØ I TELEMARK",
+    "address": "Torsbergåsen 12",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": "Olav.Kasland@t-fk.no"
   },
   {
     "ct_recno": [
       200439,
       null
     ],
-    "ct_searchname": [
-      "Olav Seltveit Urbø",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "olav.urbo@scana.no",
-      null,
-      "+47 90 76 57 26",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      "olav-seltveit.urbo@t-fk.no",
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3880 DALEN",
-      null
-    ],
-    "ad_address": [
-      "Skafsåvegen 728a",
-      null
-    ],
+    "recno": 200439,
+    "name": "Olav Seltveit Urbø",
+    "phone": null,
+    "title": null,
+    "privateMail": "olav.urbo@scana.no",
+    "mobilePhone": "+47 90 76 57 26",
+    "zip": "3880 DALEN",
+    "address": "Skafsåvegen 728a",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": "olav-seltveit.urbo@t-fk.no"
   },
   {
     "ct_recno": [
       200513,
       null
     ],
-    "ct_searchname": [
-      "Olav Tho",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "tho-olav@online.no",
-      null,
-      "+47 48006038",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3690 HJARTDAL",
-      null
-    ],
-    "ad_address": [
-      "Togrenda 54",
-      null
-    ],
+    "recno": 200513,
+    "name": "Olav Tho",
+    "phone": null,
+    "title": null,
+    "privateMail": "tho-olav@online.no",
+    "mobilePhone": "+47 48006038",
+    "zip": "3690 HJARTDAL",
+    "address": "Togrenda 54",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200433,
       null
     ],
-    "ct_searchname": [
-      "Ole Dalen",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "post@oledalen.no",
-      null,
-      "+47 41 42 34 33",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3890 VINJE",
-      null
-    ],
-    "ad_address": [
-      "Lidvegen 318",
-      null
-    ],
+    "recno": 200433,
+    "name": "Ole Dalen",
+    "phone": null,
+    "title": null,
+    "privateMail": "post@oledalen.no",
+    "mobilePhone": "+47 41 42 34 33",
+    "zip": "3890 VINJE",
+    "address": "Lidvegen 318",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200509,
       null
     ],
-    "ct_searchname": [
-      "Ole-Henrik Olsen",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "ole.h.ols@gmail.com",
-      null,
-      "+47 90584042",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      "ole-henrik.olsen@t-fk.no",
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3916 PORSGRUNN",
-      null
-    ],
-    "ad_address": [
-      "Jernbanegata 10",
-      null
-    ],
+    "recno": 200509,
+    "name": "Ole-Henrik Olsen",
+    "phone": null,
+    "title": null,
+    "privateMail": "ole.h.ols@gmail.com",
+    "mobilePhone": "+47 90584042",
+    "zip": "3916 PORSGRUNN",
+    "address": "Jernbanegata 10",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": "ole-henrik.olsen@t-fk.no"
   },
   {
     "ct_recno": [
       200422,
       null
     ],
-    "ct_searchname": [
-      "Per Lykke",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "adv.lykke@gmail.com",
-      null,
-      "+47 48 30 05 64",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      "per.lykke@t-fk.no",
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3656 ATRÅ",
-      null
-    ],
-    "ad_address": [
-      "Gjøystdalvegen 392",
-      null
-    ],
+    "recno": 200422,
+    "name": "Per Lykke",
+    "phone": null,
+    "title": null,
+    "privateMail": "adv.lykke@gmail.com",
+    "mobilePhone": "+47 48 30 05 64",
+    "zip": "3656 ATRÅ",
+    "address": "Gjøystdalvegen 392",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": "per.lykke@t-fk.no"
   },
   {
     "ct_recno": [
       200544,
       null
     ],
-    "ct_searchname": [
-      "Ragnar Anundsen",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "unanunds@online.no",
-      null,
-      "+47 91719136",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3925 PORSGRUNN",
-      null
-    ],
-    "ad_address": [
-      "Konvallvegen 39",
-      null
-    ],
+    "recno": 200544,
+    "name": "Ragnar Anundsen",
+    "phone": null,
+    "title": null,
+    "privateMail": "unanunds@online.no",
+    "mobilePhone": "+47 91719136",
+    "zip": "3925 PORSGRUNN",
+    "address": "Konvallvegen 39",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200560,
       null
     ],
-    "ct_searchname": [
-      "Ragnar Sten Bjørge",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "+47 35596625",
-      "ragbjoer@online.no",
-      null,
-      null,
-      null,
-      null,
-      null,
-      "+47 35596625",
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3716 SKIEN",
-      null
-    ],
-    "ad_address": [
-      "Stallmannsvingen 53 G",
-      null
-    ],
+    "recno": 200560,
+    "name": "Ragnar Sten Bjørge",
+    "phone": "+47 35596625",
+    "title": null,
+    "privateMail": "ragbjoer@online.no",
+    "mobilePhone": null,
+    "zip": "3716 SKIEN",
+    "address": "Stallmannsvingen 53 G",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200516,
       null
     ],
-    "ct_searchname": [
-      "Randi Berntsen",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "rabernt@yahoo.no",
-      null,
-      "+47 93296706",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3943 PORSGRUNN",
-      null
-    ],
-    "ad_address": [
-      "Brånanvn. 4 D",
-      null
-    ],
+    "recno": 200516,
+    "name": "Randi Berntsen",
+    "phone": null,
+    "title": null,
+    "privateMail": "rabernt@yahoo.no",
+    "mobilePhone": "+47 93296706",
+    "zip": "3943 PORSGRUNN",
+    "address": "Brånanvn. 4 D",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       208919,
       null
     ],
-    "ct_searchname": [
-      "Reidar Skoglund",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "reidar.skoglund@kragero.kommune.no",
-      null,
-      "+47 91 54 42 20",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3770 KRAGERØ",
-      null
-    ],
-    "ad_address": [
-      "Vestheiveien 36",
-      null
-    ],
+    "recno": 208919,
+    "name": "Reidar Skoglund",
+    "phone": null,
+    "title": null,
+    "privateMail": "reidar.skoglund@kragero.kommune.no",
+    "mobilePhone": "+47 91 54 42 20",
+    "zip": "3770 KRAGERØ",
+    "address": "Vestheiveien 36",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200518,
       null
     ],
-    "ct_searchname": [
-      "Rønnaug Woxen Thoen",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "roennth@online.no",
-      null,
-      "+47 95233181",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3800 BØ I TELEMARK",
-      null
-    ],
-    "ad_address": [
-      "Midtbøvegen 52",
-      null
-    ],
+    "recno": 200518,
+    "name": "Rønnaug Woxen Thoen",
+    "phone": null,
+    "title": null,
+    "privateMail": "roennth@online.no",
+    "mobilePhone": "+47 95233181",
+    "zip": "3800 BØ I TELEMARK",
+    "address": "Midtbøvegen 52",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200413,
       null
     ],
-    "ct_searchname": [
-      "Saynab Guleed",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "saynabroon@hotmail.com el saynab.m.guleed@nav.no ",
-      null,
-      "+47 98 03 21 13",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3741 SKIEN",
-      null
-    ],
-    "ad_address": [
-      "Nedre Maihaugen 3",
-      null
-    ],
+    "recno": 200413,
+    "name": "Saynab Guleed",
+    "phone": null,
+    "title": null,
+    "privateMail": "saynabroon@hotmail.com el saynab.m.guleed@nav.no ",
+    "mobilePhone": "+47 98 03 21 13",
+    "zip": "3741 SKIEN",
+    "address": "Nedre Maihaugen 3",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200132,
       null
     ],
-    "ct_searchname": [
-      "Sigbjørn Molvik",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "+47 35 91 73 96",
-      "sigbjorn.molvik@t-fk.no ",
-      null,
-      "+47 97 69 70 92 ",
-      null,
-      null,
-      null,
-      "+47 35 91 73 96",
-      null,
-      null,
-      "sigbjorn.molvik@t-fk.no ",
-      "www.telemark.no"
-    ],
-    "ct_location": null,
-    "ct_title": "Leder Hovedutvalg for samferdsel",
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3716 SKIEN",
-      null
-    ],
-    "ad_address": [
-      "Saudegt. Vest 33B",
-      null
-    ],
+    "recno": 200132,
+    "name": "Sigbjørn Molvik",
+    "phone": "+47 35 91 73 96",
+    "title": "Leder Hovedutvalg for samferdsel",
+    "privateMail": "sigbjorn.molvik@t-fk.no ",
+    "mobilePhone": "+47 97 69 70 92 ",
+    "zip": "3716 SKIEN",
+    "address": "Saudegt. Vest 33B",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": "E-post",
-    "uag_code": "Alle"
+    "publicMail": "sigbjorn.molvik@t-fk.no "
   },
   {
     "ct_recno": [
       200559,
       null
     ],
-    "ct_searchname": [
-      "Sigmund Steenbuch",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "+47 35546020",
-      "steenbuch@online.no",
-      null,
-      "+47 41315671",
-      null,
-      null,
-      null,
-      "+47 35546020",
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3717 SKIEN",
-      null
-    ],
-    "ad_address": [
-      "Slemdalstun 7",
-      null
-    ],
+    "recno": 200559,
+    "name": "Sigmund Steenbuch",
+    "phone": "+47 35546020",
+    "title": null,
+    "privateMail": "steenbuch@online.no",
+    "mobilePhone": "+47 41315671",
+    "zip": "3717 SKIEN",
+    "address": "Slemdalstun 7",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200431,
       null
     ],
-    "ct_searchname": [
-      "Sigvart Asle Lie",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "sigvart@vtr.no",
-      null,
-      "+47 91 18 37 55",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3880 DALEN",
-      null
-    ],
-    "ad_address": [
-      "Hotellvegen 10",
-      null
-    ],
+    "recno": 200431,
+    "name": "Sigvart Asle Lie",
+    "phone": null,
+    "title": null,
+    "privateMail": "sigvart@vtr.no",
+    "mobilePhone": "+47 91 18 37 55",
+    "zip": "3880 DALEN",
+    "address": "Hotellvegen 10",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200543,
       null
     ],
-    "ct_searchname": [
-      "Solfrid Lia Kasin",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "sl-kasin@online.no",
-      null,
-      "+47 48135246",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3692 SAULAND",
-      null
-    ],
-    "ad_address": null,
+    "recno": 200543,
+    "name": "Solfrid Lia Kasin",
+    "phone": null,
+    "title": null,
+    "privateMail": "sl-kasin@online.no",
+    "mobilePhone": "+47 48135246",
+    "zip": "3692 SAULAND",
+    "address": null,
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200474,
       null
     ],
-    "ct_searchname": [
-      "Solfrid Rui Slettebakken",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "Solfrid.Slettebakken@kragero.kommune.no",
-      null,
-      "+47 99 42 18 14",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3770 KRAGERØ",
-      null
-    ],
-    "ad_address": [
-      "Bekkedalsveien 53",
-      null
-    ],
+    "recno": 200474,
+    "name": "Solfrid Rui Slettebakken",
+    "phone": null,
+    "title": null,
+    "privateMail": "Solfrid.Slettebakken@kragero.kommune.no",
+    "mobilePhone": "+47 99 42 18 14",
+    "zip": "3770 KRAGERØ",
+    "address": "Bekkedalsveien 53",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200370,
       null
     ],
-    "ct_searchname": [
-      "Solveig Nekstad Grave",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "sngrave@online.no",
-      null,
-      "+47 91 78 83 28",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      "Solveig.Nekstad.Grave@t-fk.no",
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3853 VRÅDAL",
-      null
-    ],
-    "ad_address": [
-      "Kvennhusvegen 16",
-      null
-    ],
+    "recno": 200370,
+    "name": "Solveig Nekstad Grave",
+    "phone": null,
+    "title": null,
+    "privateMail": "sngrave@online.no",
+    "mobilePhone": "+47 91 78 83 28",
+    "zip": "3853 VRÅDAL",
+    "address": "Kvennhusvegen 16",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": "Solveig.Nekstad.Grave@t-fk.no"
   },
   {
     "ct_recno": [
       200141,
       null
     ],
-    "ct_searchname": [
-      "Solveig Sundbø Abrahamsen",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "solveig-sundbo.abrahamsen@stortinget.no",
-      null,
-      "+47 48 14 00 55",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      "Solveig.Sundbo.Abrahamsen@t-fk.no",
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3841 FLATDAL",
-      null
-    ],
-    "ad_address": [
-      "Flatdalsvegen 867",
-      null
-    ],
+    "recno": 200141,
+    "name": "Solveig Sundbø Abrahamsen",
+    "phone": null,
+    "title": null,
+    "privateMail": "solveig-sundbo.abrahamsen@stortinget.no",
+    "mobilePhone": "+47 48 14 00 55",
+    "zip": "3841 FLATDAL",
+    "address": "Flatdalsvegen 867",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": "Solveig.Sundbo.Abrahamsen@t-fk.no"
   },
   {
     "ct_recno": [
       200414,
       null
     ],
-    "ct_searchname": [
-      "Stein Haugland",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "+47 46 80 68 05",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3950 BREVIK",
-      null
-    ],
-    "ad_address": [
-      "Sandøyvegen 25",
-      null
-    ],
+    "recno": 200414,
+    "name": "Stein Haugland",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 46 80 68 05",
+    "zip": "3950 BREVIK",
+    "address": "Sandøyvegen 25",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200416,
       null
     ],
-    "ct_searchname": [
-      "Stein Olav Aasland",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "soaa@altiboxmail.no",
-      null,
-      "+47 90 20 29 89 ",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      "Stein-Olav.Aasland@t-fk.no",
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3731 SKIEN",
-      null
-    ],
-    "ad_address": [
-      "Sveene 50",
-      null
-    ],
+    "recno": 200416,
+    "name": "Stein Olav Aasland",
+    "phone": null,
+    "title": null,
+    "privateMail": "soaa@altiboxmail.no",
+    "mobilePhone": "+47 90 20 29 89 ",
+    "zip": "3731 SKIEN",
+    "address": "Sveene 50",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": "Stein-Olav.Aasland@t-fk.no"
   },
   {
     "ct_recno": [
       200469,
       null
     ],
-    "ct_searchname": [
-      "Steinar A. Miland",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "s-miland@frisurf.no",
-      null,
-      "+47 40 24 50 85",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      "Steinar.Miland@t-fk.no",
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3658 MILAND",
-      null
-    ],
-    "ad_address": [
-      "Briskevegen 2",
-      null
-    ],
+    "recno": 200469,
+    "name": "Steinar A. Miland",
+    "phone": null,
+    "title": null,
+    "privateMail": "s-miland@frisurf.no",
+    "mobilePhone": "+47 40 24 50 85",
+    "zip": "3658 MILAND",
+    "address": "Briskevegen 2",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": "Steinar.Miland@t-fk.no"
   },
   {
     "ct_recno": [
       200510,
       null
     ],
-    "ct_searchname": [
-      "Stine Margrethe Olsen",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": null,
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "0187 OSLO",
-      null
-    ],
-    "ad_address": [
-      "Breigata 10",
-      null
-    ],
+    "recno": 200510,
+    "name": "Stine Margrethe Olsen",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": "0187 OSLO",
+    "address": "Breigata 10",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200477,
       null
     ],
-    "ct_searchname": [
-      "Susanne Rimestad",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "+47 35 53 90 04",
-      "srime@online.no",
-      null,
-      null,
-      null,
-      null,
-      null,
-      "+47 35 53 90 04",
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3743 SKIEN",
-      null
-    ],
-    "ad_address": [
-      "Falkåsen 6",
-      null
-    ],
+    "recno": 200477,
+    "name": "Susanne Rimestad",
+    "phone": "+47 35 53 90 04",
+    "title": null,
+    "privateMail": "srime@online.no",
+    "mobilePhone": null,
+    "zip": "3743 SKIEN",
+    "address": "Falkåsen 6",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200502,
       null
     ],
-    "ct_searchname": [
-      "Svein Kolloen",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "+47 91663262",
-      "svein.kolloen@drangedal.kommune.no",
-      null,
-      null,
-      null,
-      null,
-      null,
-      "+47 91663262",
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3750 DRANGEDAL",
-      null
-    ],
-    "ad_address": null,
+    "recno": 200502,
+    "name": "Svein Kolloen",
+    "phone": "+47 91663262",
+    "title": null,
+    "privateMail": "svein.kolloen@drangedal.kommune.no",
+    "mobilePhone": null,
+    "zip": "3750 DRANGEDAL",
+    "address": null,
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200376,
       null
     ],
-    "ct_searchname": [
-      "Sven Tore Løkslid",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "stl@hjartdal.kommune.no",
-      null,
-      "+47 97 69 86 19",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      "Sven.Tore.Lokslid2@t-fk.no",
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3690 HJARTDAL",
-      null
-    ],
-    "ad_address": null,
+    "recno": 200376,
+    "name": "Sven Tore Løkslid",
+    "phone": null,
+    "title": null,
+    "privateMail": "stl@hjartdal.kommune.no",
+    "mobilePhone": "+47 97 69 86 19",
+    "zip": "3690 HJARTDAL",
+    "address": null,
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": "Sven.Tore.Lokslid2@t-fk.no"
   },
   {
     "ct_recno": [
       200404,
       null
     ],
-    "ct_searchname": [
-      "Terje Norschau",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "terje.norschau@globalmaritime.no",
-      null,
-      "+47 97 59 34 85",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3950 BREVIK",
-      null
-    ],
-    "ad_address": [
-      "Sandøyavegen 38",
-      null
-    ],
+    "recno": 200404,
+    "name": "Terje Norschau",
+    "phone": null,
+    "title": null,
+    "privateMail": "terje.norschau@globalmaritime.no",
+    "mobilePhone": "+47 97 59 34 85",
+    "zip": "3950 BREVIK",
+    "address": "Sandøyavegen 38",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200137,
       null
     ],
-    "ct_searchname": [
-      "Terje Riis-Johansen",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "+47 35 91 72 32",
-      null,
-      null,
-      "+47 97 56 30 00",
-      null,
-      null,
-      null,
-      "+47 35 91 72 32",
-      null,
-      null,
-      "terje.riis-johansen@t-fk.no",
-      "www.telemark.no"
-    ],
-    "ct_location": null,
-    "ct_title": "Fylkesordfører",
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": "2015-06-12T09:14:37.980Z",
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": null,
-    "ad_address": null,
+    "recno": 200137,
+    "name": "Terje Riis-Johansen",
+    "phone": "+47 35 91 72 32",
+    "title": "Fylkesordfører",
+    "privateMail": null,
+    "mobilePhone": "+47 97 56 30 00",
+    "zip": null,
+    "address": null,
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": "terje.riis-johansen@t-fk.no"
   },
   {
     "ct_recno": [
       200140,
       null
     ],
-    "ct_searchname": [
-      "Thor Arne Heggtveit",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": null,
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": null,
-    "ad_address": null,
+    "recno": 200140,
+    "name": "Thor Arne Heggtveit",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": null,
+    "address": null,
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200133,
       null
     ],
-    "ct_searchname": [
-      "Thorleif Fluer Vikre",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "post@vikre.no",
-      null,
-      "+47 90 11 63 11 ",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      "Thorleif.Vikre@t-fk.no",
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3770 KRAGERØ",
-      null
-    ],
-    "ad_address": [
-      "Løkkebakken 20",
-      null
-    ],
+    "recno": 200133,
+    "name": "Thorleif Fluer Vikre",
+    "phone": null,
+    "title": null,
+    "privateMail": "post@vikre.no",
+    "mobilePhone": "+47 90 11 63 11 ",
+    "zip": "3770 KRAGERØ",
+    "address": "Løkkebakken 20",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": "Thorleif.Vikre@t-fk.no"
   },
   {
     "ct_recno": [
       200154,
       null
     ],
-    "ct_searchname": [
-      "Tom Egil Flata",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "+47 35 91 73 99",
-      null,
-      null,
-      "+47 95 47 45 02",
-      null,
-      null,
-      null,
-      "+47 35 91 73 99",
-      null,
-      null,
-      "tom-egil.flata@t-fk.no",
-      "www.telemark.no"
-    ],
-    "ct_location": null,
-    "ct_title": "Leder for Hovedutvalg for næringsutvikli",
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3960 STATHELLE",
-      null
-    ],
-    "ad_address": [
-      "Omborgsnestunet 16",
-      null
-    ],
+    "recno": 200154,
+    "name": "Tom Egil Flata",
+    "phone": "+47 35 91 73 99",
+    "title": "Leder for Hovedutvalg for næringsutvikli",
+    "privateMail": null,
+    "mobilePhone": "+47 95 47 45 02",
+    "zip": "3960 STATHELLE",
+    "address": "Omborgsnestunet 16",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": "tom-egil.flata@t-fk.no"
   },
   {
     "ct_recno": [
       200506,
       null
     ],
-    "ct_searchname": [
-      "Tom Vidar Slåtta",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "tom.vidar.slaatta@gmail.com",
-      null,
-      "+47 95735435",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3830 ULEFOSS",
-      null
-    ],
-    "ad_address": [
-      "Heisholtvegen 1",
-      null
-    ],
+    "recno": 200506,
+    "name": "Tom Vidar Slåtta",
+    "phone": null,
+    "title": null,
+    "privateMail": "tom.vidar.slaatta@gmail.com",
+    "mobilePhone": "+47 95735435",
+    "zip": "3830 ULEFOSS",
+    "address": "Heisholtvegen 1",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200427,
       null
     ],
-    "ct_searchname": [
-      "Tonje Brokke",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "tonjebrokke@gmail.com",
-      null,
-      "+47 45 42 51 11",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3684 NOTODDEN",
-      null
-    ],
-    "ad_address": [
-      "Konvallvegen 38",
-      null
-    ],
+    "recno": 200427,
+    "name": "Tonje Brokke",
+    "phone": null,
+    "title": null,
+    "privateMail": "tonjebrokke@gmail.com",
+    "mobilePhone": "+47 45 42 51 11",
+    "zip": "3684 NOTODDEN",
+    "address": "Konvallvegen 38",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200138,
       null
     ],
-    "ct_searchname": [
-      "Tor Erik Baksås",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "tbaksaas@online.no",
-      null,
-      "+47 99 59 03 25",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      "Tor.Erik.Baksas@t-fk.no",
-      null
-    ],
-    "ct_location": null,
-    "ct_title": "Senterpartiet",
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3825 LUNDE",
-      null
-    ],
-    "ad_address": [
-      "Nomeveien 29",
-      null
-    ],
+    "recno": 200138,
+    "name": "Tor Erik Baksås",
+    "phone": null,
+    "title": "Senterpartiet",
+    "privateMail": "tbaksaas@online.no",
+    "mobilePhone": "+47 99 59 03 25",
+    "zip": "3825 LUNDE",
+    "address": "Nomeveien 29",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": "Tor.Erik.Baksas@t-fk.no"
   },
   {
     "ct_recno": [
       200564,
       null
     ],
-    "ct_searchname": [
-      "Tor Strømme",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "+47 35071195",
-      "stroemm3@online.no",
-      null,
-      "+47 95722433",
-      null,
-      null,
-      null,
-      "+47 35071195",
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3890 VINJE",
-      null
-    ],
-    "ad_address": [
-      "Plassane",
-      null
-    ],
+    "recno": 200564,
+    "name": "Tor Strømme",
+    "phone": "+47 35071195",
+    "title": null,
+    "privateMail": "stroemm3@online.no",
+    "mobilePhone": "+47 95722433",
+    "zip": "3890 VINJE",
+    "address": "Plassane",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200486,
       null
     ],
-    "ct_searchname": [
-      "Tore Halvorsen",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "+47 98 41 28 59",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3750 DRANGEDAL",
-      null
-    ],
-    "ad_address": [
-      "Gudbrandsveien 7",
-      null
-    ],
+    "recno": 200486,
+    "name": "Tore Halvorsen",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 98 41 28 59",
+    "zip": "3750 DRANGEDAL",
+    "address": "Gudbrandsveien 7",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200475,
       null
     ],
-    "ct_searchname": [
-      "Torgeir Fossli",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "torgeir@fossli.info",
-      null,
-      "+47 90 68 85 15",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3679 NOTODDEN",
-      null
-    ],
-    "ad_address": [
-      "Snøyrudvegen 67",
-      null
-    ],
+    "recno": 200475,
+    "name": "Torgeir Fossli",
+    "phone": null,
+    "title": null,
+    "privateMail": "torgeir@fossli.info",
+    "mobilePhone": "+47 90 68 85 15",
+    "zip": "3679 NOTODDEN",
+    "address": "Snøyrudvegen 67",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200426,
       null
     ],
-    "ct_searchname": [
-      "Torgeir Aarak",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "post@aarak.no",
-      null,
-      "+47 91 74 07 81",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3855 TREUNGEN",
-      null
-    ],
-    "ad_address": [
-      "Tveitsund ",
-      null
-    ],
+    "recno": 200426,
+    "name": "Torgeir Aarak",
+    "phone": null,
+    "title": null,
+    "privateMail": "post@aarak.no",
+    "mobilePhone": "+47 91 74 07 81",
+    "zip": "3855 TREUNGEN",
+    "address": "Tveitsund ",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200020,
       200019
     ],
-    "ct_searchname": [
-      "Torleif Lothe",
-      "Software Innovation"
-    ],
-    "ct_domain": [
-      2,
-      1
-    ],
-    "ct_active": [
-      -1,
-      -1
-    ],
-    "to_no": [
-      "+47 98257889",
-      null,
-      null,
-      null,
-      null,
-      null,
-      "+47 23 89 90 00",
-      "torleif.lothe@software-innovation.com",
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": "FORNEBU",
-    "ad_zip_code": "1364",
-    "ad_zip": "1364 FORNEBU",
-    "ad_address": "Rolfsbuktveien 4C",
+    "recno": 200020,
+    "name": "Torleif Lothe",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 98257889",
+    "zip": null,
+    "address": null,
+    "gender": null,
     "co_desc": "Norge",
-    "scv_code": null,
-    "ddc_code": "E-post",
-    "uag_code": "Alle"
+    "publicMail": "torleif.lothe@software-innovation.com"
   },
   {
     "ct_recno": [
       200139,
       null
     ],
-    "ct_searchname": [
-      "Trond Ballestad",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": null,
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": null,
-    "ad_address": null,
+    "recno": 200139,
+    "name": "Trond Ballestad",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": null,
+    "address": null,
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200481,
       null
     ],
-    "ct_searchname": [
-      "Trude Tvedt Sandvik",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "+47 93 29 61 82",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3725 SKIEN",
-      null
-    ],
-    "ad_address": [
-      "Landstadsgate sør 22",
-      null
-    ],
+    "recno": 200481,
+    "name": "Trude Tvedt Sandvik",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 93 29 61 82",
+    "zip": "3725 SKIEN",
+    "address": "Landstadsgate sør 22",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200389,
       null
     ],
-    "ct_searchname": [
-      "Veslemøy Wåle",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "veslemoey_waale@hotmail.com",
-      null,
-      "+47 91 70 33 85",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      "Veslemoy.Wale@t-fk.no",
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3681 NOTODDEN",
-      null
-    ],
-    "ad_address": [
-      "Johan Falkbergets vei 1a",
-      null
-    ],
+    "recno": 200389,
+    "name": "Veslemøy Wåle",
+    "phone": null,
+    "title": null,
+    "privateMail": "veslemoey_waale@hotmail.com",
+    "mobilePhone": "+47 91 70 33 85",
+    "zip": "3681 NOTODDEN",
+    "address": "Johan Falkbergets vei 1a",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": "Veslemoy.Wale@t-fk.no"
   },
   {
     "ct_recno": [
       200050,
       200037
     ],
-    "ct_searchname": [
-      "øystein beyer",
-      "Porsgrunn kommune"
-    ],
-    "ct_domain": [
-      2,
-      1
-    ],
-    "ct_active": [
-      -1,
-      -1
-    ],
-    "to_no": [
-      "+47 35 54 70 00",
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": "PORSGRUNN",
-    "ad_zip_code": "3901",
-    "ad_zip": "3901 PORSGRUNN",
-    "ad_address": "Postboks 128",
+    "recno": 200050,
+    "name": "øystein beyer",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": null,
+    "address": null,
+    "gender": null,
     "co_desc": "Norge",
-    "scv_code": null,
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200435,
       null
     ],
-    "ct_searchname": [
-      "Øystein Løvdal",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "+47 92 08 63 10",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3766 SANNIDAL",
-      null
-    ],
-    "ad_address": [
-      "Kloppkjærveien 53",
-      null
-    ],
+    "recno": 200435,
+    "name": "Øystein Løvdal",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 92 08 63 10",
+    "zip": "3766 SANNIDAL",
+    "address": "Kloppkjærveien 53",
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       208918,
       null
     ],
-    "ct_searchname": [
-      "Øyvind Tveit",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "+47 35 04 84 00",
-      "oyvind.tveit@nissedal.kommune.no",
-      null,
-      null,
-      null,
-      null,
-      null,
-      "+47 35 04 84 00",
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": null,
-    "ad_address": null,
+    "recno": 208918,
+    "name": "Øyvind Tveit",
+    "phone": "+47 35 04 84 00",
+    "title": null,
+    "privateMail": "oyvind.tveit@nissedal.kommune.no",
+    "mobilePhone": null,
+    "zip": null,
+    "address": null,
+    "gender": "Mann",
     "co_desc": null,
-    "scv_code": "Mann",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200436,
       null
     ],
-    "ct_searchname": [
-      "Åse Marie Wenaas",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "+47 95 41 21 00 ",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3930 PORSGRUNN",
-      null
-    ],
-    "ad_address": [
-      "Lyngvegen 3d",
-      null
-    ],
+    "recno": 200436,
+    "name": "Åse Marie Wenaas",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 95 41 21 00 ",
+    "zip": "3930 PORSGRUNN",
+    "address": "Lyngvegen 3d",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   },
   {
     "ct_recno": [
       200432,
       null
     ],
-    "ct_searchname": [
-      "Aashild Dalene",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "aashd@online.no",
-      null,
-      "+47 91 15 46 57",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      "aashild.dalene@t-fk.no",
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3728 SKIEN",
-      null
-    ],
-    "ad_address": [
-      "Sandtakveien 9",
-      null
-    ],
+    "recno": 200432,
+    "name": "Aashild Dalene",
+    "phone": null,
+    "title": null,
+    "privateMail": "aashd@online.no",
+    "mobilePhone": "+47 91 15 46 57",
+    "zip": "3728 SKIEN",
+    "address": "Sandtakveien 9",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": "aashild.dalene@t-fk.no"
   },
   {
     "ct_recno": [
       200542,
       null
     ],
-    "ct_searchname": [
-      "Åslaug Sem-Jacobsen",
-      null
-    ],
-    "ct_domain": [
-      4,
-      null
-    ],
-    "ct_active": [
-      -1,
-      null
-    ],
-    "to_no": [
-      "aslaug.sem@nrk.no",
-      null,
-      "+47 92923316",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "ct_location": null,
-    "ct_title": null,
-    "ct_initials": null,
-    "ct_referencenumber": null,
-    "hi_date": null,
-    "ad_zipplace": null,
-    "ad_zip_code": null,
-    "ad_zip": [
-      "3677 NOTODDEN",
-      null
-    ],
-    "ad_address": [
-      "Heddalsvn. 590",
-      null
-    ],
+    "recno": 200542,
+    "name": "Åslaug Sem-Jacobsen",
+    "phone": null,
+    "title": null,
+    "privateMail": "aslaug.sem@nrk.no",
+    "mobilePhone": "+47 92923316",
+    "zip": "3677 NOTODDEN",
+    "address": "Heddalsvn. 590",
+    "gender": "Kvinne",
     "co_desc": null,
-    "scv_code": "Kvinne",
-    "ddc_code": null,
-    "uag_code": "Alle"
+    "publicMail": null
   }
 ]

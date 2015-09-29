@@ -29,7 +29,7 @@ runQuery(query.allPoliticians, function (err, result) {
     // Loops through results and query politicians committees
     result.forEach(function (value) {
       // Build query for politician committees
-      recnr = value.ct_recno[0]
+      recnr = value.recno
       politicianCommittees = query.politicianCommittees + ' and X5.ct_recno  =' + recnr + '))'
 
       // Runs query for politician committees against p360 database
