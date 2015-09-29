@@ -24,7 +24,7 @@ runQuery(query.allPoliticians, function (err, result) {
     })
 
     // Holds committees
-    var committees = new Array()
+    var committees = []
 
     // Loops through results and query politicians committees
     result.forEach(function (value) {

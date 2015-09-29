@@ -54,21 +54,21 @@
   ],
   [
     {
-      "groupRecno": 200673,
+      "groupRecno": 200674,
       "recno": 200120,
       "name": "Arbeiderpartiet",
       "role": "Parti",
       "roleDesription": "Partimedlem"
     },
     {
-      "groupRecno": 201071,
+      "groupRecno": 201073,
       "recno": 200145,
       "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
       "role": "Varamedlem i",
       "roleDesription": "Varamedlem i utvalg"
     },
     {
-      "groupRecno": 201109,
+      "groupRecno": 201110,
       "recno": 200148,
       "name": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
       "role": "Varamedlem i",
@@ -77,16 +77,16 @@
   ],
   [
     {
-      "groupRecno": 200722,
-      "recno": 200125,
-      "name": "Senterpartiet",
+      "groupRecno": 200898,
+      "recno": 200119,
+      "name": "Sosialistisk Venstreparti",
       "role": "Parti",
       "roleDesription": "Partimedlem"
     },
     {
-      "groupRecno": 201070,
-      "recno": 200145,
-      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "groupRecno": 200899,
+      "recno": 200149,
+      "name": "Hovudutval for samferdsel (01.10.2011 - 30.09.2015)",
       "role": "Varamedlem i",
       "roleDesription": "Varamedlem i utvalg"
     }
@@ -109,21 +109,21 @@
   ],
   [
     {
-      "groupRecno": 200688,
+      "groupRecno": 200673,
       "recno": 200120,
       "name": "Arbeiderpartiet",
       "role": "Parti",
       "roleDesription": "Partimedlem"
     },
     {
-      "groupRecno": 201086,
+      "groupRecno": 201071,
       "recno": 200145,
       "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
       "role": "Varamedlem i",
       "roleDesription": "Varamedlem i utvalg"
     },
     {
-      "groupRecno": 201112,
+      "groupRecno": 201109,
       "recno": 200148,
       "name": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
       "role": "Varamedlem i",
@@ -190,23 +190,32 @@
   ],
   [
     {
-      "groupRecno": 200674,
+      "groupRecno": 200722,
+      "recno": 200125,
+      "name": "Senterpartiet",
+      "role": "Parti",
+      "roleDesription": "Partimedlem"
+    },
+    {
+      "groupRecno": 201070,
+      "recno": 200145,
+      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    }
+  ],
+  [
+    {
+      "groupRecno": 200794,
       "recno": 200120,
       "name": "Arbeiderpartiet",
       "role": "Parti",
       "roleDesription": "Partimedlem"
     },
     {
-      "groupRecno": 201073,
-      "recno": 200145,
-      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    },
-    {
-      "groupRecno": 201110,
-      "recno": 200148,
-      "name": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
+      "groupRecno": 200795,
+      "recno": 200144,
+      "name": "Hovudutval for næringsutvikling (01.10.2011 - 30.09.2015)",
       "role": "Varamedlem i",
       "roleDesription": "Varamedlem i utvalg"
     }
@@ -229,32 +238,74 @@
   ],
   [
     {
-      "groupRecno": 200961,
+      "groupRecno": 200566,
       "recno": 200123,
       "name": "Høyre",
       "role": "Parti",
       "roleDesription": "Partimedlem"
     },
     {
-      "groupRecno": 200965,
-      "recno": 200175,
-      "name": "Telemark fylkeskommunale klagenemnd (01.10.2011 - 30.09.2015)",
+      "groupRecno": 201052,
+      "recno": 200145,
+      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "role": "Medlem i",
+      "roleDesription": "Utvalgsmedlem"
+    },
+    {
+      "groupRecno": 200776,
+      "recno": 200147,
+      "name": "Fylkesutvalet (01.10.2011 - 30.09.2015)",
+      "role": "Medlem i",
+      "roleDesription": "Utvalgsmedlem"
+    },
+    {
+      "groupRecno": 200853,
+      "recno": 200149,
+      "name": "Hovudutval for samferdsel (01.10.2011 - 30.09.2015)",
+      "role": "Medlem i",
+      "roleDesription": "Utvalgsmedlem"
+    },
+    {
+      "groupRecno": 201733,
+      "recno": 209066,
+      "name": "Fylkesvalstyret (01.10.2011 - 30.09.2015)",
       "role": "Medlem i",
       "roleDesription": "Utvalgsmedlem"
     }
   ],
   [
     {
-      "groupRecno": 200898,
-      "recno": 200119,
-      "name": "Sosialistisk Venstreparti",
+      "groupRecno": 200506,
+      "recno": 200120,
+      "name": "Arbeiderpartiet",
       "role": "Parti",
       "roleDesription": "Partimedlem"
     },
     {
-      "groupRecno": 200899,
+      "groupRecno": 201006,
+      "recno": 200145,
+      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "role": "Medlem i",
+      "roleDesription": "Utvalgsmedlem"
+    },
+    {
+      "groupRecno": 200903,
+      "recno": 200147,
+      "name": "Fylkesutvalet (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    },
+    {
+      "groupRecno": 200848,
       "recno": 200149,
       "name": "Hovudutval for samferdsel (01.10.2011 - 30.09.2015)",
+      "role": "Medlem i",
+      "roleDesription": "Utvalgsmedlem"
+    },
+    {
+      "groupRecno": 201738,
+      "recno": 209066,
+      "name": "Fylkesvalstyret (01.10.2011 - 30.09.2015)",
       "role": "Varamedlem i",
       "roleDesription": "Varamedlem i utvalg"
     }
@@ -305,137 +356,6 @@
   ],
   [
     {
-      "groupRecno": 200957,
-      "recno": 200120,
-      "name": "Arbeiderpartiet",
-      "role": "Parti",
-      "roleDesription": "Partimedlem"
-    },
-    {
-      "groupRecno": 200958,
-      "recno": 200175,
-      "name": "Telemark fylkeskommunale klagenemnd (01.10.2011 - 30.09.2015)",
-      "role": "Leder i",
-      "roleDesription": "Leder i utvalg"
-    }
-  ],
-  [
-    {
-      "groupRecno": 200506,
-      "recno": 200120,
-      "name": "Arbeiderpartiet",
-      "role": "Parti",
-      "roleDesription": "Partimedlem"
-    },
-    {
-      "groupRecno": 201006,
-      "recno": 200145,
-      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
-      "role": "Medlem i",
-      "roleDesription": "Utvalgsmedlem"
-    },
-    {
-      "groupRecno": 200903,
-      "recno": 200147,
-      "name": "Fylkesutvalet (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    },
-    {
-      "groupRecno": 200848,
-      "recno": 200149,
-      "name": "Hovudutval for samferdsel (01.10.2011 - 30.09.2015)",
-      "role": "Medlem i",
-      "roleDesription": "Utvalgsmedlem"
-    },
-    {
-      "groupRecno": 201738,
-      "recno": 209066,
-      "name": "Fylkesvalstyret (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
-      "groupRecno": 201187,
-      "recno": 200120,
-      "name": "Arbeiderpartiet",
-      "role": "Parti",
-      "roleDesription": "Partimedlem"
-    },
-    {
-      "groupRecno": 201196,
-      "recno": 200177,
-      "name": "Telemark fylkeskommunale eldreråd (01.10.2011 - 30.09.2015)",
-      "role": "Medlem i",
-      "roleDesription": "Utvalgsmedlem"
-    }
-  ],
-  [
-    {
-      "groupRecno": 200794,
-      "recno": 200120,
-      "name": "Arbeiderpartiet",
-      "role": "Parti",
-      "roleDesription": "Partimedlem"
-    },
-    {
-      "groupRecno": 200795,
-      "recno": 200144,
-      "name": "Hovudutval for næringsutvikling (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
-      "groupRecno": 200684,
-      "recno": 200120,
-      "name": "Arbeiderpartiet",
-      "role": "Parti",
-      "roleDesription": "Partimedlem"
-    },
-    {
-      "groupRecno": 200789,
-      "recno": 200144,
-      "name": "Hovudutval for næringsutvikling (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    },
-    {
-      "groupRecno": 201082,
-      "recno": 200145,
-      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
-      "groupRecno": 200687,
-      "recno": 200120,
-      "name": "Arbeiderpartiet",
-      "role": "Parti",
-      "roleDesription": "Partimedlem"
-    },
-    {
-      "groupRecno": 201085,
-      "recno": 200145,
-      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    },
-    {
-      "groupRecno": 201111,
-      "recno": 200148,
-      "name": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
       "groupRecno": 200503,
       "recno": 200120,
       "name": "Arbeiderpartiet",
@@ -473,83 +393,62 @@
   ],
   [
     {
-      "groupRecno": 200792,
-      "recno": 200120,
-      "name": "Arbeiderpartiet",
-      "role": "Parti",
-      "roleDesription": "Partimedlem"
-    },
-    {
-      "groupRecno": 200793,
-      "recno": 200144,
-      "name": "Hovudutval for næringsutvikling (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
-      "groupRecno": 200566,
+      "groupRecno": 200961,
       "recno": 200123,
       "name": "Høyre",
       "role": "Parti",
       "roleDesription": "Partimedlem"
     },
     {
-      "groupRecno": 201052,
-      "recno": 200145,
-      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
-      "role": "Medlem i",
-      "roleDesription": "Utvalgsmedlem"
-    },
-    {
-      "groupRecno": 200776,
-      "recno": 200147,
-      "name": "Fylkesutvalet (01.10.2011 - 30.09.2015)",
-      "role": "Medlem i",
-      "roleDesription": "Utvalgsmedlem"
-    },
-    {
-      "groupRecno": 200853,
-      "recno": 200149,
-      "name": "Hovudutval for samferdsel (01.10.2011 - 30.09.2015)",
-      "role": "Medlem i",
-      "roleDesription": "Utvalgsmedlem"
-    },
-    {
-      "groupRecno": 201733,
-      "recno": 209066,
-      "name": "Fylkesvalstyret (01.10.2011 - 30.09.2015)",
+      "groupRecno": 200965,
+      "recno": 200175,
+      "name": "Telemark fylkeskommunale klagenemnd (01.10.2011 - 30.09.2015)",
       "role": "Medlem i",
       "roleDesription": "Utvalgsmedlem"
     }
   ],
   [
     {
-      "groupRecno": 200526,
+      "groupRecno": 200684,
       "recno": 200120,
       "name": "Arbeiderpartiet",
       "role": "Parti",
       "roleDesription": "Partimedlem"
     },
     {
-      "groupRecno": 200777,
+      "groupRecno": 200789,
       "recno": 200144,
       "name": "Hovudutval for næringsutvikling (01.10.2011 - 30.09.2015)",
-      "role": "Medlem i",
-      "roleDesription": "Utvalgsmedlem"
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
     },
     {
-      "groupRecno": 201035,
+      "groupRecno": 201082,
       "recno": 200145,
       "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
-      "role": "Medlem i",
-      "roleDesription": "Utvalgsmedlem"
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    }
+  ],
+  [
+    {
+      "groupRecno": 200688,
+      "recno": 200120,
+      "name": "Arbeiderpartiet",
+      "role": "Parti",
+      "roleDesription": "Partimedlem"
     },
     {
-      "groupRecno": 200997,
-      "recno": 200176,
-      "name": "Yrkesopplæringsnemnda (01.01.2012 - 31.12.2015)",
+      "groupRecno": 201086,
+      "recno": 200145,
+      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    },
+    {
+      "groupRecno": 201112,
+      "recno": 200148,
+      "name": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
       "role": "Varamedlem i",
       "roleDesription": "Varamedlem i utvalg"
     }
@@ -580,6 +479,174 @@
       "groupRecno": 200916,
       "recno": 200149,
       "name": "Hovudutval for samferdsel (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    }
+  ],
+  [
+    {
+      "groupRecno": 201187,
+      "recno": 200120,
+      "name": "Arbeiderpartiet",
+      "role": "Parti",
+      "roleDesription": "Partimedlem"
+    },
+    {
+      "groupRecno": 201196,
+      "recno": 200177,
+      "name": "Telemark fylkeskommunale eldreråd (01.10.2011 - 30.09.2015)",
+      "role": "Medlem i",
+      "roleDesription": "Utvalgsmedlem"
+    }
+  ],
+  [
+    {
+      "groupRecno": 200792,
+      "recno": 200120,
+      "name": "Arbeiderpartiet",
+      "role": "Parti",
+      "roleDesription": "Partimedlem"
+    },
+    {
+      "groupRecno": 200793,
+      "recno": 200144,
+      "name": "Hovudutval for næringsutvikling (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    }
+  ],
+  [
+    {
+      "groupRecno": 200957,
+      "recno": 200120,
+      "name": "Arbeiderpartiet",
+      "role": "Parti",
+      "roleDesription": "Partimedlem"
+    },
+    {
+      "groupRecno": 200958,
+      "recno": 200175,
+      "name": "Telemark fylkeskommunale klagenemnd (01.10.2011 - 30.09.2015)",
+      "role": "Leder i",
+      "roleDesription": "Leder i utvalg"
+    }
+  ],
+  [
+    {
+      "groupRecno": 200687,
+      "recno": 200120,
+      "name": "Arbeiderpartiet",
+      "role": "Parti",
+      "roleDesription": "Partimedlem"
+    },
+    {
+      "groupRecno": 201085,
+      "recno": 200145,
+      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    },
+    {
+      "groupRecno": 201111,
+      "recno": 200148,
+      "name": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    }
+  ],
+  [
+    {
+      "groupRecno": 200999,
+      "recno": 200120,
+      "name": "Arbeiderpartiet",
+      "role": "Parti",
+      "roleDesription": "Partimedlem"
+    },
+    {
+      "groupRecno": 201016,
+      "recno": 200145,
+      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "role": "Medlem i",
+      "roleDesription": "Utvalgsmedlem"
+    },
+    {
+      "groupRecno": 200905,
+      "recno": 200147,
+      "name": "Fylkesutvalet (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    },
+    {
+      "groupRecno": 201005,
+      "recno": 200148,
+      "name": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
+      "role": "Nestleder i",
+      "roleDesription": "Nestleder i utvalg"
+    },
+    {
+      "groupRecno": 201740,
+      "recno": 209066,
+      "name": "Fylkesvalstyret (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    }
+  ],
+  [
+    {
+      "groupRecno": 200767,
+      "recno": 200024,
+      "name": "Venstre",
+      "role": "Parti",
+      "roleDesription": "Partimedlem"
+    },
+    {
+      "groupRecno": 200836,
+      "recno": 200144,
+      "name": "Hovudutval for næringsutvikling (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    },
+    {
+      "groupRecno": 201138,
+      "recno": 200145,
+      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    },
+    {
+      "groupRecno": 200952,
+      "recno": 200149,
+      "name": "Hovudutval for samferdsel (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    }
+  ],
+  [
+    {
+      "groupRecno": 200255,
+      "recno": 200122,
+      "name": "Fremskrittspartiet",
+      "role": "Parti",
+      "roleDesription": "Partimedlem"
+    },
+    {
+      "groupRecno": 201048,
+      "recno": 200145,
+      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "role": "Medlem i",
+      "roleDesription": "Utvalgsmedlem"
+    },
+    {
+      "groupRecno": 200909,
+      "recno": 200147,
+      "name": "Fylkesutvalet (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    },
+    {
+      "groupRecno": 201744,
+      "recno": 209066,
+      "name": "Fylkesvalstyret (01.10.2011 - 30.09.2015)",
       "role": "Varamedlem i",
       "roleDesription": "Varamedlem i utvalg"
     }
@@ -637,164 +704,30 @@
   ],
   [
     {
-      "groupRecno": 200255,
-      "recno": 200122,
-      "name": "Fremskrittspartiet",
+      "groupRecno": 200526,
+      "recno": 200120,
+      "name": "Arbeiderpartiet",
       "role": "Parti",
       "roleDesription": "Partimedlem"
     },
     {
-      "groupRecno": 201048,
-      "recno": 200145,
-      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
-      "role": "Medlem i",
-      "roleDesription": "Utvalgsmedlem"
-    },
-    {
-      "groupRecno": 200909,
-      "recno": 200147,
-      "name": "Fylkesutvalet (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    },
-    {
-      "groupRecno": 201744,
-      "recno": 209066,
-      "name": "Fylkesvalstyret (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
-      "groupRecno": 200767,
-      "recno": 200024,
-      "name": "Venstre",
-      "role": "Parti",
-      "roleDesription": "Partimedlem"
-    },
-    {
-      "groupRecno": 200836,
+      "groupRecno": 200777,
       "recno": 200144,
       "name": "Hovudutval for næringsutvikling (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    },
-    {
-      "groupRecno": 201138,
-      "recno": 200145,
-      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    },
-    {
-      "groupRecno": 200952,
-      "recno": 200149,
-      "name": "Hovudutval for samferdsel (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
-      "groupRecno": 200708,
-      "recno": 200123,
-      "name": "Høyre",
-      "role": "Parti",
-      "roleDesription": "Partimedlem"
-    },
-    {
-      "groupRecno": 201106,
-      "recno": 200145,
-      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    },
-    {
-      "groupRecno": 201147,
-      "recno": 200148,
-      "name": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    },
-    {
-      "groupRecno": 200950,
-      "recno": 200149,
-      "name": "Hovudutval for samferdsel (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    },
-    {
-      "groupRecno": 201176,
-      "recno": 200150,
-      "name": "Klagenemnda for skolesaker (01.10.2011 - 30.09.2015)",
       "role": "Medlem i",
       "roleDesription": "Utvalgsmedlem"
-    }
-  ],
-  [
-    {
-      "groupRecno": 200999,
-      "recno": 200120,
-      "name": "Arbeiderpartiet",
-      "role": "Parti",
-      "roleDesription": "Partimedlem"
     },
     {
-      "groupRecno": 201016,
+      "groupRecno": 201035,
       "recno": 200145,
       "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
       "role": "Medlem i",
       "roleDesription": "Utvalgsmedlem"
     },
     {
-      "groupRecno": 200905,
-      "recno": 200147,
-      "name": "Fylkesutvalet (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    },
-    {
-      "groupRecno": 201005,
-      "recno": 200148,
-      "name": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
-      "role": "Nestleder i",
-      "roleDesription": "Nestleder i utvalg"
-    },
-    {
-      "groupRecno": 201740,
-      "recno": 209066,
-      "name": "Fylkesvalstyret (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
-      "groupRecno": 200679,
-      "recno": 200120,
-      "name": "Arbeiderpartiet",
-      "role": "Parti",
-      "roleDesription": "Partimedlem"
-    },
-    {
-      "groupRecno": 201078,
-      "recno": 200145,
-      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    },
-    {
-      "groupRecno": 200871,
-      "recno": 200149,
-      "name": "Hovudutval for samferdsel (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    },
-    {
-      "groupRecno": 201177,
-      "recno": 200150,
-      "name": "Klagenemnda for skolesaker (01.10.2011 - 30.09.2015)",
+      "groupRecno": 200997,
+      "recno": 200176,
+      "name": "Yrkesopplæringsnemnda (01.01.2012 - 31.12.2015)",
       "role": "Varamedlem i",
       "roleDesription": "Varamedlem i utvalg"
     }
@@ -840,6 +773,73 @@
   ],
   [
     {
+      "groupRecno": 200708,
+      "recno": 200123,
+      "name": "Høyre",
+      "role": "Parti",
+      "roleDesription": "Partimedlem"
+    },
+    {
+      "groupRecno": 201106,
+      "recno": 200145,
+      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    },
+    {
+      "groupRecno": 201147,
+      "recno": 200148,
+      "name": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    },
+    {
+      "groupRecno": 200950,
+      "recno": 200149,
+      "name": "Hovudutval for samferdsel (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    },
+    {
+      "groupRecno": 201176,
+      "recno": 200150,
+      "name": "Klagenemnda for skolesaker (01.10.2011 - 30.09.2015)",
+      "role": "Medlem i",
+      "roleDesription": "Utvalgsmedlem"
+    }
+  ],
+  [
+    {
+      "groupRecno": 200679,
+      "recno": 200120,
+      "name": "Arbeiderpartiet",
+      "role": "Parti",
+      "roleDesription": "Partimedlem"
+    },
+    {
+      "groupRecno": 201078,
+      "recno": 200145,
+      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    },
+    {
+      "groupRecno": 200871,
+      "recno": 200149,
+      "name": "Hovudutval for samferdsel (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    },
+    {
+      "groupRecno": 201177,
+      "recno": 200150,
+      "name": "Klagenemnda for skolesaker (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    }
+  ],
+  [
+    {
       "groupRecno": 200573,
       "recno": 200123,
       "name": "Høyre",
@@ -869,43 +869,6 @@
     },
     {
       "groupRecno": 201749,
-      "recno": 209066,
-      "name": "Fylkesvalstyret (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
-      "groupRecno": 200149,
-      "recno": 200120,
-      "name": "Arbeiderpartiet",
-      "role": "Parti",
-      "roleDesription": "Partimedlem"
-    },
-    {
-      "groupRecno": 201001,
-      "recno": 200145,
-      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
-      "role": "Medlem i",
-      "roleDesription": "Utvalgsmedlem"
-    },
-    {
-      "groupRecno": 200901,
-      "recno": 200147,
-      "name": "Fylkesutvalet (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    },
-    {
-      "groupRecno": 200176,
-      "recno": 200149,
-      "name": "Hovudutval for samferdsel (01.10.2011 - 30.09.2015)",
-      "role": "Nestleder i",
-      "roleDesription": "Nestleder i utvalg"
-    },
-    {
-      "groupRecno": 201736,
       "recno": 209066,
       "name": "Fylkesvalstyret (01.10.2011 - 30.09.2015)",
       "role": "Varamedlem i",
@@ -972,6 +935,43 @@
   ],
   [
     {
+      "groupRecno": 200149,
+      "recno": 200120,
+      "name": "Arbeiderpartiet",
+      "role": "Parti",
+      "roleDesription": "Partimedlem"
+    },
+    {
+      "groupRecno": 201001,
+      "recno": 200145,
+      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "role": "Medlem i",
+      "roleDesription": "Utvalgsmedlem"
+    },
+    {
+      "groupRecno": 200901,
+      "recno": 200147,
+      "name": "Fylkesutvalet (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    },
+    {
+      "groupRecno": 200176,
+      "recno": 200149,
+      "name": "Hovudutval for samferdsel (01.10.2011 - 30.09.2015)",
+      "role": "Nestleder i",
+      "roleDesription": "Nestleder i utvalg"
+    },
+    {
+      "groupRecno": 201736,
+      "recno": 209066,
+      "name": "Fylkesvalstyret (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    }
+  ],
+  [
+    {
       "groupRecno": 200717,
       "recno": 200125,
       "name": "Senterpartiet",
@@ -1005,6 +1005,59 @@
       "name": "Forhandlingsutvalet (01.10.2011 - 30.09.2015)",
       "role": "Varamedlem i",
       "roleDesription": "Varamedlem i utvalg"
+    }
+  ],
+  [
+    {
+      "groupRecno": 200764,
+      "recno": 200119,
+      "name": "Sosialistisk Venstreparti",
+      "role": "Parti",
+      "roleDesription": "Partimedlem"
+    },
+    {
+      "groupRecno": 201134,
+      "recno": 200145,
+      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    },
+    {
+      "groupRecno": 201143,
+      "recno": 200148,
+      "name": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    },
+    {
+      "groupRecno": 200890,
+      "recno": 200149,
+      "name": "Hovudutval for samferdsel (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    }
+  ],
+  [
+    {
+      "groupRecno": 200231,
+      "recno": 200120,
+      "name": "Arbeiderpartiet",
+      "role": "Parti",
+      "roleDesription": "Partimedlem"
+    },
+    {
+      "groupRecno": 201030,
+      "recno": 200145,
+      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "role": "Medlem i",
+      "roleDesription": "Utvalgsmedlem"
+    },
+    {
+      "groupRecno": 200878,
+      "recno": 200146,
+      "name": "Hovudutval for kompetanse (01.10.2011 - 30.09.2015)",
+      "role": "Medlem i",
+      "roleDesription": "Utvalgsmedlem"
     }
   ],
   [
@@ -1067,36 +1120,6 @@
   ],
   [
     {
-      "groupRecno": 200764,
-      "recno": 200119,
-      "name": "Sosialistisk Venstreparti",
-      "role": "Parti",
-      "roleDesription": "Partimedlem"
-    },
-    {
-      "groupRecno": 201134,
-      "recno": 200145,
-      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    },
-    {
-      "groupRecno": 201143,
-      "recno": 200148,
-      "name": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    },
-    {
-      "groupRecno": 200890,
-      "recno": 200149,
-      "name": "Hovudutval for samferdsel (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
       "groupRecno": 200707,
       "recno": 200123,
       "name": "Høyre",
@@ -1116,29 +1139,6 @@
       "name": "Hovudutval for kompetanse (01.10.2011 - 30.09.2015)",
       "role": "Varamedlem i",
       "roleDesription": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
-      "groupRecno": 200231,
-      "recno": 200120,
-      "name": "Arbeiderpartiet",
-      "role": "Parti",
-      "roleDesription": "Partimedlem"
-    },
-    {
-      "groupRecno": 201030,
-      "recno": 200145,
-      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
-      "role": "Medlem i",
-      "roleDesription": "Utvalgsmedlem"
-    },
-    {
-      "groupRecno": 200878,
-      "recno": 200146,
-      "name": "Hovudutval for kompetanse (01.10.2011 - 30.09.2015)",
-      "role": "Medlem i",
-      "roleDesription": "Utvalgsmedlem"
     }
   ],
   [
@@ -1221,36 +1221,6 @@
   ],
   [
     {
-      "groupRecno": 200719,
-      "recno": 200125,
-      "name": "Senterpartiet",
-      "role": "Parti",
-      "roleDesription": "Partimedlem"
-    },
-    {
-      "groupRecno": 200814,
-      "recno": 200144,
-      "name": "Hovudutval for næringsutvikling (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    },
-    {
-      "groupRecno": 201067,
-      "recno": 200145,
-      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    },
-    {
-      "groupRecno": 200933,
-      "recno": 200146,
-      "name": "Hovudutval for kompetanse (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
       "groupRecno": 200155,
       "recno": 200119,
       "name": "Sosialistisk Venstreparti",
@@ -1323,23 +1293,30 @@
   ],
   [
     {
-      "groupRecno": 200686,
-      "recno": 200120,
-      "name": "Arbeiderpartiet",
+      "groupRecno": 200719,
+      "recno": 200125,
+      "name": "Senterpartiet",
       "role": "Parti",
       "roleDesription": "Partimedlem"
     },
     {
-      "groupRecno": 201084,
+      "groupRecno": 200814,
+      "recno": 200144,
+      "name": "Hovudutval for næringsutvikling (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    },
+    {
+      "groupRecno": 201067,
       "recno": 200145,
       "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
       "role": "Varamedlem i",
       "roleDesription": "Varamedlem i utvalg"
     },
     {
-      "groupRecno": 200872,
-      "recno": 200149,
-      "name": "Hovudutval for samferdsel (01.10.2011 - 30.09.2015)",
+      "groupRecno": 200933,
+      "recno": 200146,
+      "name": "Hovudutval for kompetanse (01.10.2011 - 30.09.2015)",
       "role": "Varamedlem i",
       "roleDesription": "Varamedlem i utvalg"
     }
@@ -1390,6 +1367,29 @@
   ],
   [
     {
+      "groupRecno": 200686,
+      "recno": 200120,
+      "name": "Arbeiderpartiet",
+      "role": "Parti",
+      "roleDesription": "Partimedlem"
+    },
+    {
+      "groupRecno": 201084,
+      "recno": 200145,
+      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    },
+    {
+      "groupRecno": 200872,
+      "recno": 200149,
+      "name": "Hovudutval for samferdsel (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    }
+  ],
+  [
+    {
       "groupRecno": 201586,
       "recno": 200120,
       "name": "Arbeiderpartiet",
@@ -1400,110 +1400,6 @@
       "groupRecno": 201590,
       "recno": 208883,
       "name": "Telemark interkommunale næringsfond (01.01.2014 - 01.10.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
-      "groupRecno": 200762,
-      "recno": 200119,
-      "name": "Sosialistisk Venstreparti",
-      "role": "Parti",
-      "roleDesription": "Partimedlem"
-    },
-    {
-      "groupRecno": 201135,
-      "recno": 200145,
-      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    },
-    {
-      "groupRecno": 200937,
-      "recno": 200146,
-      "name": "Hovudutval for kompetanse (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    },
-    {
-      "groupRecno": 201142,
-      "recno": 200148,
-      "name": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
-      "groupRecno": 200588,
-      "recno": 200123,
-      "name": "Høyre",
-      "role": "Parti",
-      "roleDesription": "Partimedlem"
-    },
-    {
-      "groupRecno": 200782,
-      "recno": 200144,
-      "name": "Hovudutval for næringsutvikling (01.10.2011 - 30.09.2015)",
-      "role": "Medlem i",
-      "roleDesription": "Utvalgsmedlem"
-    },
-    {
-      "groupRecno": 201059,
-      "recno": 200145,
-      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
-      "role": "Medlem i",
-      "roleDesription": "Utvalgsmedlem"
-    },
-    {
-      "groupRecno": 200943,
-      "recno": 200146,
-      "name": "Hovudutval for kompetanse (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    },
-    {
-      "groupRecno": 201145,
-      "recno": 200148,
-      "name": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    },
-    {
-      "groupRecno": 201027,
-      "recno": 200151,
-      "name": "Administrasjonsutvalet (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    },
-    {
-      "groupRecno": 201202,
-      "recno": 200173,
-      "name": "Forhandlingsutvalet (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
-      "groupRecno": 200700,
-      "recno": 200123,
-      "name": "Høyre",
-      "role": "Parti",
-      "roleDesription": "Partimedlem"
-    },
-    {
-      "groupRecno": 201098,
-      "recno": 200145,
-      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    },
-    {
-      "groupRecno": 200942,
-      "recno": 200149,
-      "name": "Hovudutval for samferdsel (01.10.2011 - 30.09.2015)",
       "role": "Varamedlem i",
       "roleDesription": "Varamedlem i utvalg"
     }
@@ -1548,6 +1444,59 @@
       "groupRecno": 201748,
       "recno": 209066,
       "name": "Fylkesvalstyret (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    }
+  ],
+  [
+    {
+      "groupRecno": 200762,
+      "recno": 200119,
+      "name": "Sosialistisk Venstreparti",
+      "role": "Parti",
+      "roleDesription": "Partimedlem"
+    },
+    {
+      "groupRecno": 201135,
+      "recno": 200145,
+      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    },
+    {
+      "groupRecno": 200937,
+      "recno": 200146,
+      "name": "Hovudutval for kompetanse (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    },
+    {
+      "groupRecno": 201142,
+      "recno": 200148,
+      "name": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    }
+  ],
+  [
+    {
+      "groupRecno": 200700,
+      "recno": 200123,
+      "name": "Høyre",
+      "role": "Parti",
+      "roleDesription": "Partimedlem"
+    },
+    {
+      "groupRecno": 201098,
+      "recno": 200145,
+      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    },
+    {
+      "groupRecno": 200942,
+      "recno": 200149,
+      "name": "Hovudutval for samferdsel (01.10.2011 - 30.09.2015)",
       "role": "Varamedlem i",
       "roleDesription": "Varamedlem i utvalg"
     }
@@ -1601,6 +1550,57 @@
       "name": "Fylkesvalstyret (01.10.2011 - 30.09.2015)",
       "role": "Medlem i",
       "roleDesription": "Utvalgsmedlem"
+    }
+  ],
+  [
+    {
+      "groupRecno": 200588,
+      "recno": 200123,
+      "name": "Høyre",
+      "role": "Parti",
+      "roleDesription": "Partimedlem"
+    },
+    {
+      "groupRecno": 200782,
+      "recno": 200144,
+      "name": "Hovudutval for næringsutvikling (01.10.2011 - 30.09.2015)",
+      "role": "Medlem i",
+      "roleDesription": "Utvalgsmedlem"
+    },
+    {
+      "groupRecno": 201059,
+      "recno": 200145,
+      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "role": "Medlem i",
+      "roleDesription": "Utvalgsmedlem"
+    },
+    {
+      "groupRecno": 200943,
+      "recno": 200146,
+      "name": "Hovudutval for kompetanse (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    },
+    {
+      "groupRecno": 201145,
+      "recno": 200148,
+      "name": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    },
+    {
+      "groupRecno": 201027,
+      "recno": 200151,
+      "name": "Administrasjonsutvalet (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    },
+    {
+      "groupRecno": 201202,
+      "recno": 200173,
+      "name": "Forhandlingsutvalet (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
     }
   ],
   [
@@ -1743,45 +1743,6 @@
   ],
   [
     {
-      "groupRecno": 200716,
-      "recno": 200124,
-      "name": "Kristelig Folkeparti",
-      "role": "Parti",
-      "roleDesription": "Partimedlem"
-    },
-    {
-      "groupRecno": 201127,
-      "recno": 200145,
-      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
-      "groupRecno": 200763,
-      "recno": 200119,
-      "name": "Sosialistisk Venstreparti",
-      "role": "Parti",
-      "roleDesription": "Partimedlem"
-    },
-    {
-      "groupRecno": 201133,
-      "recno": 200145,
-      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    },
-    {
-      "groupRecno": 201141,
-      "recno": 200148,
-      "name": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
       "groupRecno": 200577,
       "recno": 200123,
       "name": "Høyre",
@@ -1808,6 +1769,29 @@
       "name": "Hovudutval for samferdsel (01.10.2011 - 30.09.2015)",
       "role": "Medlem i",
       "roleDesription": "Utvalgsmedlem"
+    }
+  ],
+  [
+    {
+      "groupRecno": 200763,
+      "recno": 200119,
+      "name": "Sosialistisk Venstreparti",
+      "role": "Parti",
+      "roleDesription": "Partimedlem"
+    },
+    {
+      "groupRecno": 201133,
+      "recno": 200145,
+      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    },
+    {
+      "groupRecno": 201141,
+      "recno": 200148,
+      "name": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
     }
   ],
   [
@@ -1873,6 +1857,22 @@
       "name": "Fylkesvalstyret (01.10.2011 - 30.09.2015)",
       "role": "Medlem i",
       "roleDesription": "Utvalgsmedlem"
+    }
+  ],
+  [
+    {
+      "groupRecno": 200716,
+      "recno": 200124,
+      "name": "Kristelig Folkeparti",
+      "role": "Parti",
+      "roleDesription": "Partimedlem"
+    },
+    {
+      "groupRecno": 201127,
+      "recno": 200145,
+      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
     }
   ],
   [
@@ -1983,6 +1983,22 @@
   ],
   [
     {
+      "groupRecno": 200970,
+      "recno": 200123,
+      "name": "Høyre",
+      "role": "Parti",
+      "roleDesription": "Partimedlem"
+    },
+    {
+      "groupRecno": 200974,
+      "recno": 200175,
+      "name": "Telemark fylkeskommunale klagenemnd (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    }
+  ],
+  [
+    {
       "groupRecno": 200571,
       "recno": 200123,
       "name": "Høyre",
@@ -2034,16 +2050,16 @@
   ],
   [
     {
-      "groupRecno": 200970,
-      "recno": 200123,
-      "name": "Høyre",
+      "groupRecno": 201117,
+      "recno": 200120,
+      "name": "Arbeiderpartiet",
       "role": "Parti",
       "roleDesription": "Partimedlem"
     },
     {
-      "groupRecno": 200974,
-      "recno": 200175,
-      "name": "Telemark fylkeskommunale klagenemnd (01.10.2011 - 30.09.2015)",
+      "groupRecno": 201118,
+      "recno": 200148,
+      "name": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
       "role": "Varamedlem i",
       "roleDesription": "Varamedlem i utvalg"
     }
@@ -2073,18 +2089,25 @@
   ],
   [
     {
-      "groupRecno": 201117,
-      "recno": 200120,
-      "name": "Arbeiderpartiet",
+      "groupRecno": 200699,
+      "recno": 200123,
+      "name": "Høyre",
       "role": "Parti",
       "roleDesription": "Partimedlem"
     },
     {
-      "groupRecno": 201118,
-      "recno": 200148,
-      "name": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
+      "groupRecno": 201097,
+      "recno": 200145,
+      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
       "role": "Varamedlem i",
       "roleDesription": "Varamedlem i utvalg"
+    },
+    {
+      "groupRecno": 201042,
+      "recno": 200148,
+      "name": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
+      "role": "Medlem i",
+      "roleDesription": "Utvalgsmedlem"
     }
   ],
   [
@@ -2113,6 +2136,29 @@
       "groupRecno": 201179,
       "recno": 200150,
       "name": "Klagenemnda for skolesaker (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    }
+  ],
+  [
+    {
+      "groupRecno": 200689,
+      "recno": 200120,
+      "name": "Arbeiderpartiet",
+      "role": "Parti",
+      "roleDesription": "Partimedlem"
+    },
+    {
+      "groupRecno": 200790,
+      "recno": 200144,
+      "name": "Hovudutval for næringsutvikling (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    },
+    {
+      "groupRecno": 201087,
+      "recno": 200145,
+      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
       "role": "Varamedlem i",
       "roleDesription": "Varamedlem i utvalg"
     }
@@ -2177,46 +2223,23 @@
   ],
   [
     {
-      "groupRecno": 200699,
-      "recno": 200123,
-      "name": "Høyre",
-      "role": "Parti",
-      "roleDesription": "Partimedlem"
-    },
-    {
-      "groupRecno": 201097,
-      "recno": 200145,
-      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    },
-    {
-      "groupRecno": 201042,
-      "recno": 200148,
-      "name": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
-      "role": "Medlem i",
-      "roleDesription": "Utvalgsmedlem"
-    }
-  ],
-  [
-    {
-      "groupRecno": 200689,
+      "groupRecno": 200678,
       "recno": 200120,
       "name": "Arbeiderpartiet",
       "role": "Parti",
       "roleDesription": "Partimedlem"
     },
     {
-      "groupRecno": 200790,
-      "recno": 200144,
-      "name": "Hovudutval for næringsutvikling (01.10.2011 - 30.09.2015)",
+      "groupRecno": 201077,
+      "recno": 200145,
+      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
       "role": "Varamedlem i",
       "roleDesription": "Varamedlem i utvalg"
     },
     {
-      "groupRecno": 201087,
-      "recno": 200145,
-      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "groupRecno": 200859,
+      "recno": 200149,
+      "name": "Hovudutval for samferdsel (01.10.2011 - 30.09.2015)",
       "role": "Varamedlem i",
       "roleDesription": "Varamedlem i utvalg"
     }
@@ -2306,29 +2329,6 @@
   ],
   [
     {
-      "groupRecno": 200678,
-      "recno": 200120,
-      "name": "Arbeiderpartiet",
-      "role": "Parti",
-      "roleDesription": "Partimedlem"
-    },
-    {
-      "groupRecno": 201077,
-      "recno": 200145,
-      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    },
-    {
-      "groupRecno": 200859,
-      "recno": 200149,
-      "name": "Hovudutval for samferdsel (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
       "groupRecno": 200761,
       "recno": 200119,
       "name": "Sosialistisk Venstreparti",
@@ -2387,6 +2387,22 @@
   ],
   [
     {
+      "groupRecno": 200825,
+      "recno": 200122,
+      "name": "Fremskrittspartiet",
+      "role": "Parti",
+      "roleDesription": "Partimedlem"
+    },
+    {
+      "groupRecno": 200826,
+      "recno": 200144,
+      "name": "Hovudutval for næringsutvikling (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    }
+  ],
+  [
+    {
       "groupRecno": 200713,
       "recno": 200124,
       "name": "Kristelig Folkeparti",
@@ -2411,22 +2427,6 @@
       "groupRecno": 201569,
       "recno": 200148,
       "name": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
-      "groupRecno": 200825,
-      "recno": 200122,
-      "name": "Fremskrittspartiet",
-      "role": "Parti",
-      "roleDesription": "Partimedlem"
-    },
-    {
-      "groupRecno": 200826,
-      "recno": 200144,
-      "name": "Hovudutval for næringsutvikling (01.10.2011 - 30.09.2015)",
       "role": "Varamedlem i",
       "roleDesription": "Varamedlem i utvalg"
     }
@@ -2466,6 +2466,22 @@
       "name": "Klagenemnda for skolesaker (01.10.2011 - 30.09.2015)",
       "role": "Leder i",
       "roleDesription": "Leder i utvalg"
+    }
+  ],
+  [
+    {
+      "groupRecno": 200817,
+      "recno": 200125,
+      "name": "Senterpartiet",
+      "role": "Parti",
+      "roleDesription": "Partimedlem"
+    },
+    {
+      "groupRecno": 200818,
+      "recno": 200144,
+      "name": "Hovudutval for næringsutvikling (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
     }
   ],
   [
@@ -2553,22 +2569,6 @@
   ],
   [
     {
-      "groupRecno": 200817,
-      "recno": 200125,
-      "name": "Senterpartiet",
-      "role": "Parti",
-      "roleDesription": "Partimedlem"
-    },
-    {
-      "groupRecno": 200818,
-      "recno": 200144,
-      "name": "Hovudutval for næringsutvikling (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
       "groupRecno": 200677,
       "recno": 200120,
       "name": "Arbeiderpartiet",
@@ -2645,29 +2645,6 @@
   ],
   [
     {
-      "groupRecno": 200712,
-      "recno": 200124,
-      "name": "Kristelig Folkeparti",
-      "role": "Parti",
-      "roleDesription": "Partimedlem"
-    },
-    {
-      "groupRecno": 201120,
-      "recno": 200145,
-      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    },
-    {
-      "groupRecno": 201149,
-      "recno": 200148,
-      "name": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
       "groupRecno": 200718,
       "recno": 200125,
       "name": "Senterpartiet",
@@ -2705,6 +2682,29 @@
   ],
   [
     {
+      "groupRecno": 200712,
+      "recno": 200124,
+      "name": "Kristelig Folkeparti",
+      "role": "Parti",
+      "roleDesription": "Partimedlem"
+    },
+    {
+      "groupRecno": 201120,
+      "recno": 200145,
+      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    },
+    {
+      "groupRecno": 201149,
+      "recno": 200148,
+      "name": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    }
+  ],
+  [
+    {
       "groupRecno": 200922,
       "recno": 200120,
       "name": "Arbeiderpartiet",
@@ -2735,6 +2735,22 @@
   ],
   [
     {
+      "groupRecno": 200701,
+      "recno": 200123,
+      "name": "Høyre",
+      "role": "Parti",
+      "roleDesription": "Partimedlem"
+    },
+    {
+      "groupRecno": 201099,
+      "recno": 200145,
+      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    }
+  ],
+  [
+    {
       "groupRecno": 201157,
       "recno": 200120,
       "name": "Arbeiderpartiet",
@@ -2747,6 +2763,22 @@
       "name": "Fylkeskommunalt råd for personer med nedsatt funksjonsevne (01.10.2011 - 30.09.2015)",
       "role": "Leder i",
       "roleDesription": "Leder i utvalg"
+    }
+  ],
+  [
+    {
+      "groupRecno": 200967,
+      "recno": 200120,
+      "name": "Arbeiderpartiet",
+      "role": "Parti",
+      "roleDesription": "Partimedlem"
+    },
+    {
+      "groupRecno": 200971,
+      "recno": 200175,
+      "name": "Telemark fylkeskommunale klagenemnd (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
     }
   ],
   [
@@ -2767,22 +2799,6 @@
   ],
   [
     {
-      "groupRecno": 200701,
-      "recno": 200123,
-      "name": "Høyre",
-      "role": "Parti",
-      "roleDesription": "Partimedlem"
-    },
-    {
-      "groupRecno": 201099,
-      "recno": 200145,
-      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
       "groupRecno": 201589,
       "recno": 200123,
       "name": "Høyre",
@@ -2793,22 +2809,6 @@
       "groupRecno": 201592,
       "recno": 208883,
       "name": "Telemark interkommunale næringsfond (01.01.2014 - 01.10.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
-      "groupRecno": 200967,
-      "recno": 200120,
-      "name": "Arbeiderpartiet",
-      "role": "Parti",
-      "roleDesription": "Partimedlem"
-    },
-    {
-      "groupRecno": 200971,
-      "recno": 200175,
-      "name": "Telemark fylkeskommunale klagenemnd (01.10.2011 - 30.09.2015)",
       "role": "Varamedlem i",
       "roleDesription": "Varamedlem i utvalg"
     }
@@ -2848,54 +2848,6 @@
       "groupRecno": 200930,
       "recno": 200146,
       "name": "Hovudutval for kompetanse (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
-      "groupRecno": 201194,
-      "recno": 200177,
-      "name": "Telemark fylkeskommunale eldreråd (01.10.2011 - 30.09.2015)",
-      "role": "Nestleder i",
-      "roleDesription": "Nestleder i utvalg"
-    }
-  ],
-  [
-    {
-      "groupRecno": 201150,
-      "recno": 200124,
-      "name": "Kristelig Folkeparti",
-      "role": "Parti",
-      "roleDesription": "Partimedlem"
-    },
-    {
-      "groupRecno": 201151,
-      "recno": 200148,
-      "name": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
-      "groupRecno": 200710,
-      "recno": 200123,
-      "name": "Høyre",
-      "role": "Parti",
-      "roleDesription": "Partimedlem"
-    },
-    {
-      "groupRecno": 200830,
-      "recno": 200144,
-      "name": "Hovudutval for næringsutvikling (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    },
-    {
-      "groupRecno": 201108,
-      "recno": 200145,
-      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
       "role": "Varamedlem i",
       "roleDesription": "Varamedlem i utvalg"
     }
@@ -2967,6 +2919,38 @@
   ],
   [
     {
+      "groupRecno": 200710,
+      "recno": 200123,
+      "name": "Høyre",
+      "role": "Parti",
+      "roleDesription": "Partimedlem"
+    },
+    {
+      "groupRecno": 200830,
+      "recno": 200144,
+      "name": "Hovudutval for næringsutvikling (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    },
+    {
+      "groupRecno": 201108,
+      "recno": 200145,
+      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    }
+  ],
+  [
+    {
+      "groupRecno": 201194,
+      "recno": 200177,
+      "name": "Telemark fylkeskommunale eldreråd (01.10.2011 - 30.09.2015)",
+      "role": "Nestleder i",
+      "roleDesription": "Nestleder i utvalg"
+    }
+  ],
+  [
+    {
       "groupRecno": 200765,
       "recno": 200024,
       "name": "Venstre",
@@ -2983,53 +2967,16 @@
   ],
   [
     {
-      "groupRecno": 200693,
-      "recno": 200120,
-      "name": "Arbeiderpartiet",
+      "groupRecno": 201150,
+      "recno": 200124,
+      "name": "Kristelig Folkeparti",
       "role": "Parti",
       "roleDesription": "Partimedlem"
     },
     {
-      "groupRecno": 201090,
-      "recno": 200145,
-      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    },
-    {
-      "groupRecno": 201113,
+      "groupRecno": 201151,
       "recno": 200148,
       "name": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
-      "groupRecno": 200167,
-      "recno": 200123,
-      "name": "Høyre",
-      "role": "Parti",
-      "roleDesription": "Partimedlem"
-    },
-    {
-      "groupRecno": 200829,
-      "recno": 200144,
-      "name": "Hovudutval for næringsutvikling (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    },
-    {
-      "groupRecno": 201058,
-      "recno": 200145,
-      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
-      "role": "Medlem i",
-      "roleDesription": "Utvalgsmedlem"
-    },
-    {
-      "groupRecno": 200179,
-      "recno": 200149,
-      "name": "Hovudutval for samferdsel (01.10.2011 - 30.09.2015)",
       "role": "Varamedlem i",
       "roleDesription": "Varamedlem i utvalg"
     }
@@ -3073,6 +3020,36 @@
   ],
   [
     {
+      "groupRecno": 200167,
+      "recno": 200123,
+      "name": "Høyre",
+      "role": "Parti",
+      "roleDesription": "Partimedlem"
+    },
+    {
+      "groupRecno": 200829,
+      "recno": 200144,
+      "name": "Hovudutval for næringsutvikling (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    },
+    {
+      "groupRecno": 201058,
+      "recno": 200145,
+      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "role": "Medlem i",
+      "roleDesription": "Utvalgsmedlem"
+    },
+    {
+      "groupRecno": 200179,
+      "recno": 200149,
+      "name": "Hovudutval for samferdsel (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    }
+  ],
+  [
+    {
       "groupRecno": 200695,
       "recno": 200122,
       "name": "Fremskrittspartiet",
@@ -3103,53 +3080,23 @@
   ],
   [
     {
-      "groupRecno": 200925,
-      "recno": 200122,
-      "name": "Fremskrittspartiet",
+      "groupRecno": 200693,
+      "recno": 200120,
+      "name": "Arbeiderpartiet",
       "role": "Parti",
       "roleDesription": "Partimedlem"
     },
     {
-      "groupRecno": 201154,
-      "recno": 200148,
-      "name": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    },
-    {
-      "groupRecno": 200926,
-      "recno": 200149,
-      "name": "Hovudutval for samferdsel (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
-      "groupRecno": 200768,
-      "recno": 200024,
-      "name": "Venstre",
-      "role": "Parti",
-      "roleDesription": "Partimedlem"
-    },
-    {
-      "groupRecno": 200835,
-      "recno": 200144,
-      "name": "Hovudutval for næringsutvikling (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    },
-    {
-      "groupRecno": 201139,
+      "groupRecno": 201090,
       "recno": 200145,
       "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
       "role": "Varamedlem i",
       "roleDesription": "Varamedlem i utvalg"
     },
     {
-      "groupRecno": 200951,
-      "recno": 200149,
-      "name": "Hovudutval for samferdsel (01.10.2011 - 30.09.2015)",
+      "groupRecno": 201113,
+      "recno": 200148,
+      "name": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
       "role": "Varamedlem i",
       "roleDesription": "Varamedlem i utvalg"
     }
@@ -3207,6 +3154,29 @@
   ],
   [
     {
+      "groupRecno": 200925,
+      "recno": 200122,
+      "name": "Fremskrittspartiet",
+      "role": "Parti",
+      "roleDesription": "Partimedlem"
+    },
+    {
+      "groupRecno": 201154,
+      "recno": 200148,
+      "name": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    },
+    {
+      "groupRecno": 200926,
+      "recno": 200149,
+      "name": "Hovudutval for samferdsel (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    }
+  ],
+  [
+    {
       "groupRecno": 200874,
       "recno": 200120,
       "name": "Arbeiderpartiet",
@@ -3230,23 +3200,30 @@
   ],
   [
     {
-      "groupRecno": 200683,
-      "recno": 200120,
-      "name": "Arbeiderpartiet",
+      "groupRecno": 200768,
+      "recno": 200024,
+      "name": "Venstre",
       "role": "Parti",
       "roleDesription": "Partimedlem"
     },
     {
-      "groupRecno": 200788,
+      "groupRecno": 200835,
       "recno": 200144,
       "name": "Hovudutval for næringsutvikling (01.10.2011 - 30.09.2015)",
       "role": "Varamedlem i",
       "roleDesription": "Varamedlem i utvalg"
     },
     {
-      "groupRecno": 201081,
+      "groupRecno": 201139,
       "recno": 200145,
       "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    },
+    {
+      "groupRecno": 200951,
+      "recno": 200149,
+      "name": "Hovudutval for samferdsel (01.10.2011 - 30.09.2015)",
       "role": "Varamedlem i",
       "roleDesription": "Varamedlem i utvalg"
     }
@@ -3283,18 +3260,25 @@
   ],
   [
     {
-      "groupRecno": 200160,
-      "recno": 200125,
-      "name": "Senterpartiet",
+      "groupRecno": 200683,
+      "recno": 200120,
+      "name": "Arbeiderpartiet",
       "role": "Parti",
       "roleDesription": "Partimedlem"
     },
     {
-      "groupRecno": 201725,
-      "recno": 209066,
-      "name": "Fylkesvalstyret (01.10.2011 - 30.09.2015)",
-      "role": "Leder i",
-      "roleDesription": "Leder i utvalg"
+      "groupRecno": 200788,
+      "recno": 200144,
+      "name": "Hovudutval for næringsutvikling (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    },
+    {
+      "groupRecno": 201081,
+      "recno": 200145,
+      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
     }
   ],
   [
@@ -3311,6 +3295,22 @@
       "name": "Hovudutval for kompetanse (01.10.2011 - 30.09.2015)",
       "role": "Varamedlem i",
       "roleDesription": "Varamedlem i utvalg"
+    }
+  ],
+  [
+    {
+      "groupRecno": 200160,
+      "recno": 200125,
+      "name": "Senterpartiet",
+      "role": "Parti",
+      "roleDesription": "Partimedlem"
+    },
+    {
+      "groupRecno": 201725,
+      "recno": 209066,
+      "name": "Fylkesvalstyret (01.10.2011 - 30.09.2015)",
+      "role": "Leder i",
+      "roleDesription": "Leder i utvalg"
     }
   ],
   [
@@ -3477,68 +3477,6 @@
   ],
   [
     {
-      "groupRecno": 200820,
-      "recno": 200119,
-      "name": "Sosialistisk Venstreparti",
-      "role": "Parti",
-      "roleDesription": "Partimedlem"
-    },
-    {
-      "groupRecno": 200821,
-      "recno": 200144,
-      "name": "Hovudutval for næringsutvikling (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
-      "groupRecno": 201216,
-      "recno": 200120,
-      "name": "Arbeiderpartiet",
-      "role": "Parti",
-      "roleDesription": "Partimedlem"
-    },
-    {
-      "groupRecno": 201217,
-      "recno": 200177,
-      "name": "Telemark fylkeskommunale eldreråd (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
-      "groupRecno": 200766,
-      "recno": 200024,
-      "name": "Venstre",
-      "role": "Parti",
-      "roleDesription": "Partimedlem"
-    },
-    {
-      "groupRecno": 200834,
-      "recno": 200144,
-      "name": "Hovudutval for næringsutvikling (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    },
-    {
-      "groupRecno": 201137,
-      "recno": 200145,
-      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    },
-    {
-      "groupRecno": 200846,
-      "recno": 200149,
-      "name": "Hovudutval for samferdsel (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
       "groupRecno": 200161,
       "recno": 200125,
       "name": "Senterpartiet",
@@ -3597,6 +3535,68 @@
   ],
   [
     {
+      "groupRecno": 201216,
+      "recno": 200120,
+      "name": "Arbeiderpartiet",
+      "role": "Parti",
+      "roleDesription": "Partimedlem"
+    },
+    {
+      "groupRecno": 201217,
+      "recno": 200177,
+      "name": "Telemark fylkeskommunale eldreråd (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    }
+  ],
+  [
+    {
+      "groupRecno": 200820,
+      "recno": 200119,
+      "name": "Sosialistisk Venstreparti",
+      "role": "Parti",
+      "roleDesription": "Partimedlem"
+    },
+    {
+      "groupRecno": 200821,
+      "recno": 200144,
+      "name": "Hovudutval for næringsutvikling (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    }
+  ],
+  [
+    {
+      "groupRecno": 200766,
+      "recno": 200024,
+      "name": "Venstre",
+      "role": "Parti",
+      "roleDesription": "Partimedlem"
+    },
+    {
+      "groupRecno": 200834,
+      "recno": 200144,
+      "name": "Hovudutval for næringsutvikling (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    },
+    {
+      "groupRecno": 201137,
+      "recno": 200145,
+      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    },
+    {
+      "groupRecno": 200846,
+      "recno": 200149,
+      "name": "Hovudutval for samferdsel (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    }
+  ],
+  [
+    {
       "groupRecno": 200072,
       "recno": 200021,
       "name": "SI testutvalg (19.08.2014 - 31.12.2014)",
@@ -3636,22 +3636,6 @@
   ],
   [
     {
-      "groupRecno": 200165,
-      "recno": 200125,
-      "name": "Senterpartiet",
-      "role": "Parti",
-      "roleDesription": "Partimedlem"
-    },
-    {
-      "groupRecno": 200935,
-      "recno": 200146,
-      "name": "Hovudutval for kompetanse (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
       "groupRecno": 200796,
       "recno": 200120,
       "name": "Arbeiderpartiet",
@@ -3668,33 +3652,16 @@
   ],
   [
     {
-      "groupRecno": 200714,
-      "recno": 200124,
-      "name": "Kristelig Folkeparti",
+      "groupRecno": 200165,
+      "recno": 200125,
+      "name": "Senterpartiet",
       "role": "Parti",
       "roleDesription": "Partimedlem"
     },
     {
-      "groupRecno": 201125,
-      "recno": 200145,
-      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    }
-  ],
-  [],
-  [
-    {
-      "groupRecno": 201587,
-      "recno": 200124,
-      "name": "Kristelig Folkeparti",
-      "role": "Parti",
-      "roleDesription": "Partimedlem"
-    },
-    {
-      "groupRecno": 201591,
-      "recno": 208883,
-      "name": "Telemark interkommunale næringsfond (01.01.2014 - 01.10.2015)",
+      "groupRecno": 200935,
+      "recno": 200146,
+      "name": "Hovudutval for kompetanse (01.10.2011 - 30.09.2015)",
       "role": "Varamedlem i",
       "roleDesription": "Varamedlem i utvalg"
     }
@@ -3725,6 +3692,55 @@
       "groupRecno": 201146,
       "recno": 200148,
       "name": "Hovudutval for kultur (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    }
+  ],
+  [],
+  [
+    {
+      "groupRecno": 201587,
+      "recno": 200124,
+      "name": "Kristelig Folkeparti",
+      "role": "Parti",
+      "roleDesription": "Partimedlem"
+    },
+    {
+      "groupRecno": 201591,
+      "recno": 208883,
+      "name": "Telemark interkommunale næringsfond (01.01.2014 - 01.10.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    }
+  ],
+  [
+    {
+      "groupRecno": 200714,
+      "recno": 200124,
+      "name": "Kristelig Folkeparti",
+      "role": "Parti",
+      "roleDesription": "Partimedlem"
+    },
+    {
+      "groupRecno": 201125,
+      "recno": 200145,
+      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
+      "role": "Varamedlem i",
+      "roleDesription": "Varamedlem i utvalg"
+    }
+  ],
+  [
+    {
+      "groupRecno": 200715,
+      "recno": 200124,
+      "name": "Kristelig Folkeparti",
+      "role": "Parti",
+      "roleDesription": "Partimedlem"
+    },
+    {
+      "groupRecno": 201126,
+      "recno": 200145,
+      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
       "role": "Varamedlem i",
       "roleDesription": "Varamedlem i utvalg"
     }
@@ -3769,22 +3785,6 @@
       "groupRecno": 201750,
       "recno": 209066,
       "name": "Fylkesvalstyret (01.10.2011 - 30.09.2015)",
-      "role": "Varamedlem i",
-      "roleDesription": "Varamedlem i utvalg"
-    }
-  ],
-  [
-    {
-      "groupRecno": 200715,
-      "recno": 200124,
-      "name": "Kristelig Folkeparti",
-      "role": "Parti",
-      "roleDesription": "Partimedlem"
-    },
-    {
-      "groupRecno": 201126,
-      "recno": 200145,
-      "name": "Fylkestinget (01.10.2011 - 30.09.2015)",
       "role": "Varamedlem i",
       "roleDesription": "Varamedlem i utvalg"
     }
