@@ -15,12 +15,12 @@ See [/data](data) directory for file examples.
 
 ## Import to mongo
 ```sh
-$ mongoimport -d tfk -c politicians data/politicians.json
-$ mongoimport -d tfk -c politiciansCommittees data/politiciansCommittees.json
+$ mongoimport -d tfk -c politicians data/politicians.json --jsonArray
+$ mongoimport -d tfk -c politiciansCommittees data/politiciansCommittees.json --jsonArray
 ```
 
 or use the merged file
 
 ```sh
-$ mongoimport-d tfk -c politicians data/mergedData.json
+$ mongoimport -d tfk -c politicians data/mergedData.json --jsonArray
 ```
