@@ -1,5 +1,6 @@
 'use strict'
 
+var options = require('./options.js')
 var preparePoliticians = require('./lib/preparePoliticians')
 var updateItems = require('./lib/updateItems')
 var unwrapPoliticians = require('./lib/unwrapPoliticians')
@@ -20,7 +21,14 @@ var unwrappedList = unwrapPoliticians(updatedObject)
 
 console.log(unwrappedList)
 
-writeToFile('mergedData', JSON.stringify(unwrappedList), function (err, data) {
+var file = [
+  {
+    fileName: 'mergedData.json',
+    data: unwrappedList
+  }
+]
+
+writeToFile(file, options, function (err, data) {
   if (err) {
     console.error(err)
   } else {
