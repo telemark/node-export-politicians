@@ -18,3 +18,9 @@ See [/data](data) directory for file examples.
 $ mongoimport -d tfk -c politicians data/politicians.json
 $ mongoimport -d tfk -c politiciansCommittees data/politiciansCommittees.json
 ```
+
+or use the merged file
+
+```sh
+$ mongoimport-d tfk -c politicians data/mergedData.json
+```
