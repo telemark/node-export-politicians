@@ -1,0 +1,26 @@
+[
+  {
+    "recno": 200417,
+    "name": "Buster Bart",
+    "phone": "+47 12 34 56 78",
+    "title": "Mister",
+    "privateMail": "buster@bart.no",
+    "mobilePhone": "+47 95 96 94 97 ",
+    "zip": "3912 PORSGRUNN",
+    "address": "Trivselsgaten 22",
+    "gender": "Mann",
+    "publicMail": "post@bart.no"
+  },
+  {
+    "recno": 200442,
+    "name": "Anna Ark",
+    "phone": "+47 87 65 43 21",
+    "title": "Miss",
+    "privateMail": "anna@ark.no",
+    "mobilePhone": "+47 99 98 00 97",
+    "zip": "3800 BØ I TELEMARK",
+    "address": "Kunstnerstredet 22",
+    "gender": "Kvinne",
+    "publicMail": "post@ark.no"
+  }
+]
