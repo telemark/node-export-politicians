@@ -25,6 +25,9 @@ function run (options, callback) {
           files.push(politiciansFile)
           files.push(committeeFile)
 
+          options.files = files
+          options.storagePath = options.storage.path
+
           writeToFile(files, options, function (err, result) {
             if (err) {
               return callback(err, null)
