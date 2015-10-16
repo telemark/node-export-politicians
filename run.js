@@ -28,7 +28,7 @@ function run (options, callback) {
           options.files = files
           options.storagePath = options.storage.path
 
-          writeToFile(files, options, function (err, result) {
+          writeToFile(options, function (err, result) {
             if (err) {
               return callback(err, null)
             } else {
