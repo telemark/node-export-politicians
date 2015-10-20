@@ -10,6 +10,36 @@ This module queries 360s mssql database to find politicians and writes them to j
 
 **NB!** Temporary solution until 360s webservice supports searching for politicians
 
+## Usage
+
+```javascript
+
+var nep = require('node-export-politicians')
+var options = {
+  storage: {
+    path: 'data'
+  },
+  p360: {
+    user: 'user', // Database username
+    password: 'pass', // Database passord
+    server: 'host', // You can use 'localhost\\instan$
+    database: 'TEST360', // Database name
+    options: {
+      encrypt: false // Use this if you're on Windows Azure
+    }
+  }
+}
+
+nep(options, function (error, result) {
+  if (error) {
+    console.error(error)
+  } else {
+    console.log(result)
+  }
+})
+
+```
+
 ## File Examples
 
 See [/data](data) directory for file examples.
