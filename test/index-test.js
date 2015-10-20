@@ -1,7 +1,7 @@
 'use strict'
 
 var tap = require('tap')
-var nep = require('./index')
+var nep = require('../index')
 
 tap.test('Options object must be supplied', function (test) {
   var options = false
