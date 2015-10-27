@@ -456,6 +456,18 @@
     "publicMail": null
   },
   {
+    "recno": 218336,
+    "name": "Astrid Schmidt",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": null,
+    "address": null,
+    "gender": "Kvinne",
+    "publicMail": "astrid.schmidt@gmail.com "
+  },
+  {
     "recno": 217168,
     "name": "Astrid Tordis Flor",
     "phone": null,
@@ -730,6 +742,18 @@
     "address": "Tinngate 128",
     "gender": "Mann",
     "publicMail": "bjorn_sverre.birkeland@tinn.kommune.no"
+  },
+  {
+    "recno": 218337,
+    "name": "Bjørnar Heldal",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": null,
+    "address": null,
+    "gender": "Mann",
+    "publicMail": "mister.heldal@gmail.com "
   },
   {
     "recno": 217225,
@@ -2016,6 +2040,18 @@
     "publicMail": null
   },
   {
+    "recno": 218339,
+    "name": "Ingebjørg Ribe Rudihagen",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": null,
+    "address": null,
+    "gender": "Kvinne",
+    "publicMail": "ingebjorg@vrikke.no "
+  },
+  {
     "recno": 217107,
     "name": "Inger B. Nilsen",
     "phone": null,
@@ -2026,6 +2062,18 @@
     "address": null,
     "gender": "Kvinne",
     "publicMail": "inger.nilsen@politiker.porsgrunn.no"
+  },
+  {
+    "recno": 218346,
+    "name": "Inger E.B. Slågedal",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": null,
+    "address": null,
+    "gender": "Kvinne",
+    "publicMail": "Inger.slagedal@nlr.no "
   },
   {
     "recno": 217224,
@@ -2122,6 +2170,18 @@
     "address": "Torvills veg 9",
     "gender": "Kvinne",
     "publicMail": null
+  },
+  {
+    "recno": 218345,
+    "name": "Iren Sommerseth",
+    "phone": null,
+    "title": null,
+    "privateMail": "iren.sommerset@skatteetaten.no",
+    "mobilePhone": null,
+    "zip": null,
+    "address": null,
+    "gender": "Kvinne",
+    "publicMail": "Iren.Sommerset@gmail.com "
   },
   {
     "recno": 217080,
@@ -2520,6 +2580,18 @@
     "publicMail": "karilis@hotmail.com"
   },
   {
+    "recno": 218350,
+    "name": "Kari Moen",
+    "phone": "+47 91888326",
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": "3850 KVITESEID",
+    "address": "Kviteseidvegen 445",
+    "gender": "Kvinne",
+    "publicMail": "torjusm@frisurf.no"
+  },
+  {
     "recno": 218103,
     "name": "Kari Rasmussen",
     "phone": null,
@@ -2808,6 +2880,18 @@
     "publicMail": "knut.duesund@t-fk.no"
   },
   {
+    "recno": 218344,
+    "name": "Knut Gunnar Solli",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": null,
+    "address": null,
+    "gender": "Mann",
+    "publicMail": "Knut.Solli@3B-Fibreglass.com "
+  },
+  {
     "recno": 217855,
     "name": "Knut Hagelia",
     "phone": null,
@@ -2986,6 +3070,18 @@
     "address": null,
     "gender": "Mann",
     "publicMail": "legangsei@telefiber.no"
+  },
+  {
+    "recno": 218338,
+    "name": "Lars Gunnar Nag",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": null,
+    "address": null,
+    "gender": "Mann",
+    "publicMail": "nag@advkjaer.no "
   },
   {
     "recno": 218144,
@@ -3828,6 +3924,18 @@
     "publicMail": null
   },
   {
+    "recno": 218353,
+    "name": "Ragnhild Lie",
+    "phone": "+47 91155223",
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": "3848 MORGEDAL",
+    "address": "Huvestadvegen 214",
+    "gender": "Kvinne",
+    "publicMail": "ragnhild1.lie@hotmail.com"
+  },
+  {
     "recno": 217084,
     "name": "Ragnhild Thomassen",
     "phone": null,
@@ -4428,6 +4536,18 @@
     "publicMail": "svein.tore.uldal@politiker.porgsrunn.no"
   },
   {
+    "recno": 218352,
+    "name": "Sveinung Råmunddal",
+    "phone": "+47 97037988",
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": "3850 KVITESEID",
+    "address": "Kviteseidvegen 711",
+    "gender": "Mann",
+    "publicMail": "post@kviteseidbok.no"
+  },
+  {
     "recno": 200376,
     "name": "Sven Tore Løkslid",
     "phone": null,
@@ -4486,6 +4606,18 @@
     "address": null,
     "gender": "Mann",
     "publicMail": "tg@vtk.no "
+  },
+  {
+    "recno": 218351,
+    "name": "Terje Nekstad",
+    "phone": "+47 90223642",
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": "3833 Vrådal",
+    "address": "Stallanvegen 3",
+    "gender": "Mann",
+    "publicMail": null
   },
   {
     "recno": 200404,
@@ -5182,6 +5314,18 @@
     "address": null,
     "gender": "Kvinne",
     "publicMail": "Wenche.Madshaven@sameyde.vgs.no"
+  },
+  {
+    "recno": 218343,
+    "name": "Wiggo Svendsen",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": null,
+    "address": null,
+    "gender": "Mann",
+    "publicMail": "wsvendsen@live.no "
   },
   {
     "recno": 200050,
