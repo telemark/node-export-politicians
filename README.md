@@ -44,6 +44,12 @@ nep(options, function (error, result) {
 
 See [/data](data) directory for file examples.
 
+## Create a merged and filtered file
+
+```sh
+$ npm run filter
+```
+
 ## Import to mongo
 ```sh
 $ mongoimport -d tfk -c politicians data/politicians.json --jsonArray

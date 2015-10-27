@@ -1,7 +1,8 @@
 {
   "name": "node-export-politicians",
   "description": "Exports politicians from p360 to json-file for Telemark fylkeskommune",
-  "version": "1.0.0",
+  "version": "2.0.0",
+  "license": "MIT",
   "private": true,
   "author": {
     "name": "Jonas Enge",
@@ -16,9 +17,9 @@
     }
   ],
   "scripts": {
-    "start": "node standalone.js",
     "test": "standard && tap --reporter=spec test/*.js",
-    "setup": "npm install && node setup.js"
+    "setup": "npm install && node setup.js",
+    "filter": "node filter.js"
   },
   "dependencies": {
     "mssql": "^2.2.0"
