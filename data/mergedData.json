@@ -119,19 +119,6 @@
         "mail": null,
         "tlf": null,
         "url": null
-      },
-      {
-        "recno": 200131,
-        "groupRecno": 217642,
-        "name": "Administrasjonsutvalet (01.10.2015 - 01.10.2019)",
-        "role": "Varamedlem i",
-        "roleDescription": "Varamedlem i utvalg",
-        "address": null,
-        "place": null,
-        "zip": null,
-        "mail": null,
-        "tlf": null,
-        "url": null
       }
     ],
     "committeeIds": [
@@ -142,8 +129,7 @@
       200148,
       200151,
       200173,
-      209066,
-      217642
+      209066
     ]
   },
   {
@@ -170,19 +156,6 @@
         "mail": null,
         "tlf": null,
         "url": null
-      },
-      {
-        "recno": 200132,
-        "groupRecno": 217642,
-        "name": "Administrasjonsutvalet (01.10.2015 - 01.10.2019)",
-        "role": "Varamedlem i",
-        "roleDescription": "Varamedlem i utvalg",
-        "address": null,
-        "place": null,
-        "zip": null,
-        "mail": null,
-        "tlf": null,
-        "url": null
       }
     ],
     "committeeIds": [
@@ -194,8 +167,7 @@
       200149,
       200151,
       200173,
-      209066,
-      217642
+      209066
     ]
   },
   {
@@ -235,19 +207,6 @@
         "mail": null,
         "tlf": null,
         "url": null
-      },
-      {
-        "recno": 200133,
-        "groupRecno": 217642,
-        "name": "Administrasjonsutvalet (01.10.2015 - 01.10.2019)",
-        "role": "Medlem i",
-        "roleDescription": "Utvalgsmedlem",
-        "address": null,
-        "place": null,
-        "zip": null,
-        "mail": null,
-        "tlf": null,
-        "url": null
       }
     ],
     "committeeIds": [
@@ -259,8 +218,7 @@
       200173,
       200176,
       209066,
-      217342,
-      217642
+      217342
     ]
   },
   {
@@ -313,19 +271,6 @@
         "mail": null,
         "tlf": null,
         "url": null
-      },
-      {
-        "recno": 200135,
-        "groupRecno": 217642,
-        "name": "Administrasjonsutvalet (01.10.2015 - 01.10.2019)",
-        "role": "Medlem i",
-        "roleDescription": "Utvalgsmedlem",
-        "address": null,
-        "place": null,
-        "zip": null,
-        "mail": null,
-        "tlf": null,
-        "url": null
       }
     ],
     "committeeIds": [
@@ -340,14 +285,13 @@
       209066,
       209335,
       217340,
-      217342,
-      217642
+      217342
     ]
   },
   {
     "recno": 200137,
     "name": "Terje Riis-Johansen",
-    "phone": "+47 35 91 72 32",
+    "phone": null,
     "title": null,
     "privateMail": null,
     "mobilePhone": "+47 97 56 30 00",
@@ -441,19 +385,6 @@
         "mail": null,
         "tlf": null,
         "url": null
-      },
-      {
-        "recno": 200138,
-        "groupRecno": 217642,
-        "name": "Administrasjonsutvalet (01.10.2015 - 01.10.2019)",
-        "role": "Medlem i",
-        "roleDescription": "Utvalgsmedlem",
-        "address": null,
-        "place": null,
-        "zip": null,
-        "mail": null,
-        "tlf": null,
-        "url": null
       }
     ],
     "committeeIds": [
@@ -464,8 +395,7 @@
       200151,
       200173,
       208883,
-      209066,
-      217642
+      209066
     ]
   },
   {
@@ -752,19 +682,6 @@
         "mail": null,
         "tlf": null,
         "url": null
-      },
-      {
-        "recno": 200154,
-        "groupRecno": 217642,
-        "name": "Administrasjonsutvalet (01.10.2015 - 01.10.2019)",
-        "role": "Varamedlem i",
-        "roleDescription": "Varamedlem i utvalg",
-        "address": null,
-        "place": null,
-        "zip": null,
-        "mail": null,
-        "tlf": null,
-        "url": null
       }
     ],
     "committeeIds": [
@@ -777,8 +694,7 @@
       200176,
       208883,
       209066,
-      217342,
-      217642
+      217342
     ]
   },
   {
@@ -786,7 +702,7 @@
     "name": "Hallgeir Ofte",
     "phone": null,
     "title": null,
-    "privateMail": "hallgeir.ofte@gmail.com",
+    "privateMail": "hallgeirofte@gmail.com",
     "mobilePhone": "+47 90 13 38 01 ",
     "zip": "3840 SELJORD",
     "address": "Bygleåsen 6",
@@ -985,7 +901,7 @@
       {
         "recno": 200171,
         "groupRecno": 217642,
-        "name": "Administrasjonsutvalet (01.10.2015 - 01.10.2019)",
+        "name": "Administrasjonsutvalet (01.10.2015 - 11.11.2015)",
         "role": "Varamedlem i",
         "roleDescription": "Varamedlem i utvalg",
         "address": null,
@@ -1006,7 +922,8 @@
       216162,
       216167,
       217337,
-      217642
+      217642,
+      218688
     ]
   },
   {
@@ -1033,19 +950,6 @@
         "mail": null,
         "tlf": null,
         "url": "http://telemark.arbeiderparti.no/"
-      },
-      {
-        "recno": 200172,
-        "groupRecno": 217642,
-        "name": "Administrasjonsutvalet (01.10.2015 - 01.10.2019)",
-        "role": "Leder i",
-        "roleDescription": "Leder i utvalg",
-        "address": null,
-        "place": null,
-        "zip": null,
-        "mail": null,
-        "tlf": null,
-        "url": null
       }
     ],
     "committeeIds": [
@@ -1056,7 +960,6 @@
       200151,
       200173,
       209066,
-      217642,
       218285
     ]
   },
@@ -1180,19 +1083,6 @@
         "mail": null,
         "tlf": null,
         "url": null
-      },
-      {
-        "recno": 200183,
-        "groupRecno": 217642,
-        "name": "Administrasjonsutvalet (01.10.2015 - 01.10.2019)",
-        "role": "Varamedlem i",
-        "roleDescription": "Varamedlem i utvalg",
-        "address": null,
-        "place": null,
-        "zip": null,
-        "mail": null,
-        "tlf": null,
-        "url": null
       }
     ],
     "committeeIds": [
@@ -1210,8 +1100,7 @@
       217297,
       217335,
       217340,
-      217342,
-      217642
+      217342
     ]
   },
   {
@@ -1280,7 +1169,7 @@
     "recno": 200367,
     "name": "Lise Wiik",
     "phone": "+47 35917283",
-    "title": "Fylkesvaraordfører",
+    "title": null,
     "privateMail": null,
     "mobilePhone": "+47 98118966",
     "zip": "3691 GRANSHERAD",
@@ -1330,9 +1219,9 @@
       {
         "recno": 200367,
         "groupRecno": 217642,
-        "name": "Administrasjonsutvalet (01.10.2015 - 01.10.2019)",
-        "role": "Varamedlem i",
-        "roleDescription": "Varamedlem i utvalg",
+        "name": "Administrasjonsutvalet (01.10.2015 - 11.11.2015)",
+        "role": "Nestleder i",
+        "roleDescription": "Nestleder i utvalg",
         "address": null,
         "place": null,
         "zip": null,
@@ -1348,7 +1237,8 @@
       209066,
       216162,
       216167,
-      217642
+      217642,
+      218688
     ]
   },
   {
@@ -1393,7 +1283,7 @@
     "privateMail": "birger.hovden@gmail.com",
     "mobilePhone": "+47 99 63 54 39",
     "zip": "3660 RJUKAN",
-    "address": "Skriugt. 7",
+    "address": "Skriugata 7",
     "gender": "Mann",
     "publicMail": "birger.hovden@t-fk.no",
     "committees": [
@@ -1714,7 +1604,7 @@
     "recno": 200376,
     "name": "Sven Tore Løkslid",
     "phone": null,
-    "title": null,
+    "title": "Fylkesordfører",
     "privateMail": "stl@hjartdal.kommune.no",
     "mobilePhone": "+47 97 69 86 19",
     "zip": "3690 HJARTDAL",
@@ -1957,35 +1847,21 @@
         "mail": null,
         "tlf": null,
         "url": null
-      },
-      {
-        "recno": 200381,
-        "groupRecno": 217642,
-        "name": "Administrasjonsutvalet (01.10.2015 - 01.10.2019)",
-        "role": "Varamedlem i",
-        "roleDescription": "Varamedlem i utvalg",
-        "address": null,
-        "place": null,
-        "zip": null,
-        "mail": null,
-        "tlf": null,
-        "url": null
       }
     ],
     "committeeIds": [
       200122,
       200145,
-      200149,
-      216162,
-      216167,
-      217337,
       200147,
+      200149,
       200151,
       200173,
       200178,
       209066,
-      217345,
-      217642
+      216162,
+      216167,
+      217337,
+      217345
     ]
   },
   {
@@ -2012,19 +1888,6 @@
         "mail": null,
         "tlf": null,
         "url": null
-      },
-      {
-        "recno": 200382,
-        "groupRecno": 217642,
-        "name": "Administrasjonsutvalet (01.10.2015 - 01.10.2019)",
-        "role": "Varamedlem i",
-        "roleDescription": "Varamedlem i utvalg",
-        "address": null,
-        "place": null,
-        "zip": null,
-        "mail": null,
-        "tlf": null,
-        "url": null
       }
     ],
     "committeeIds": [
@@ -2033,8 +1896,7 @@
       200145,
       200146,
       200151,
-      200173,
-      217642
+      200173
     ]
   },
   {
@@ -2117,7 +1979,7 @@
       {
         "recno": 200383,
         "groupRecno": 217642,
-        "name": "Administrasjonsutvalet (01.10.2015 - 01.10.2019)",
+        "name": "Administrasjonsutvalet (01.10.2015 - 11.11.2015)",
         "role": "Medlem i",
         "roleDescription": "Utvalgsmedlem",
         "address": null,
@@ -2135,13 +1997,14 @@
       200147,
       200151,
       200173,
+      209066,
       209335,
       216162,
       216167,
       217335,
       217340,
       217642,
-      209066
+      218688
     ]
   },
   {
@@ -2376,13 +2239,13 @@
   },
   {
     "recno": 200387,
-    "name": "Kari Fosso",
+    "name": "Kari K. Fosso",
     "phone": null,
     "title": null,
     "privateMail": "kari.fosso@kebas.no",
     "mobilePhone": "+47 40 09 18 07",
-    "zip": "3770 KRAGERØ",
-    "address": "Steinliveien 6",
+    "zip": "3791 KRAGERØ",
+    "address": "Postboks 226",
     "gender": "Kvinne",
     "publicMail": "Kari.Fosso@t-fk.no",
     "committees": [
@@ -2432,7 +2295,8 @@
       200148,
       200149,
       216162,
-      217337
+      217337,
+      217668
     ]
   },
   {
@@ -2459,19 +2323,6 @@
         "mail": null,
         "tlf": null,
         "url": null
-      },
-      {
-        "recno": 200388,
-        "groupRecno": 217642,
-        "name": "Administrasjonsutvalet (01.10.2015 - 01.10.2019)",
-        "role": "Varamedlem i",
-        "roleDescription": "Varamedlem i utvalg",
-        "address": null,
-        "place": null,
-        "zip": null,
-        "mail": null,
-        "tlf": null,
-        "url": null
       }
     ],
     "committeeIds": [
@@ -2481,8 +2332,7 @@
       200146,
       200148,
       200151,
-      200173,
-      217642
+      200173
     ]
   },
   {
@@ -2633,19 +2483,6 @@
         "mail": null,
         "tlf": null,
         "url": null
-      },
-      {
-        "recno": 200393,
-        "groupRecno": 217642,
-        "name": "Administrasjonsutvalet (01.10.2015 - 01.10.2019)",
-        "role": "Varamedlem i",
-        "roleDescription": "Varamedlem i utvalg",
-        "address": null,
-        "place": null,
-        "zip": null,
-        "mail": null,
-        "tlf": null,
-        "url": null
       }
     ],
     "committeeIds": [
@@ -2655,8 +2492,7 @@
       200149,
       200151,
       200173,
-      209066,
-      217642
+      209066
     ]
   },
   {
@@ -2733,7 +2569,7 @@
     "zip": "3770 KRAGERØ",
     "address": "Vafossveien 24 ",
     "gender": "Mann",
-    "publicMail": null,
+    "publicMail": "jone.blikra@t-fk.no",
     "committees": [
       {
         "recno": 200396,
@@ -2993,12 +2829,12 @@
     "name": "Terje Norschau",
     "phone": null,
     "title": null,
-    "privateMail": "terje.norschau@globalmaritime.no",
+    "privateMail": null,
     "mobilePhone": "+47 97 59 34 85",
     "zip": "3950 BREVIK",
     "address": "Sandøyavegen 38",
     "gender": "Mann",
-    "publicMail": null,
+    "publicMail": "terje.norschau@globalmaritime.no",
     "committees": [
       {
         "recno": 200404,
@@ -3181,12 +3017,12 @@
     "name": "Astri Klonteig",
     "phone": null,
     "title": null,
-    "privateMail": "astri.konteig@tinn.kommune.no",
+    "privateMail": "astri.klonteig@tinn.kommune.no",
     "mobilePhone": "+47 92 25 39 79",
     "zip": "3660 RJUKAN",
     "address": "Haugåkervegen 5",
     "gender": "Kvinne",
-    "publicMail": null,
+    "publicMail": "astri.klonteig@hotmail.com",
     "committees": [
       {
         "recno": 200410,
@@ -3219,7 +3055,8 @@
       200120,
       200145,
       200148,
-      216162
+      216162,
+      218688
     ]
   },
   {
@@ -4233,7 +4070,7 @@
     "zip": "3960 STATHELLE",
     "address": "Quinsgaardsgt. 29",
     "gender": "Mann",
-    "publicMail": null,
+    "publicMail": "jostein@gjarum.net",
     "committees": [
       {
         "recno": 200437,
@@ -4320,19 +4157,6 @@
         "mail": null,
         "tlf": null,
         "url": null
-      },
-      {
-        "recno": 200438,
-        "groupRecno": 217642,
-        "name": "Administrasjonsutvalet (01.10.2015 - 01.10.2019)",
-        "role": "Varamedlem i",
-        "roleDescription": "Varamedlem i utvalg",
-        "address": null,
-        "place": null,
-        "zip": null,
-        "mail": null,
-        "tlf": null,
-        "url": null
       }
     ],
     "committeeIds": [
@@ -4340,8 +4164,7 @@
       200144,
       200145,
       200151,
-      200173,
-      217642
+      200173
     ]
   },
   {
@@ -4411,7 +4234,7 @@
       {
         "recno": 200439,
         "groupRecno": 217642,
-        "name": "Administrasjonsutvalet (01.10.2015 - 01.10.2019)",
+        "name": "Administrasjonsutvalet (01.10.2015 - 11.11.2015)",
         "role": "Varamedlem i",
         "roleDescription": "Varamedlem i utvalg",
         "address": null,
@@ -4431,7 +4254,8 @@
       216162,
       216167,
       217337,
-      217642
+      217642,
+      218688
     ]
   },
   {
@@ -4497,6 +4321,19 @@
         "mail": null,
         "tlf": null,
         "url": null
+      },
+      {
+        "recno": 200440,
+        "groupRecno": 217642,
+        "name": "Administrasjonsutvalet (01.10.2015 - 11.11.2015)",
+        "role": "Varamedlem i",
+        "roleDescription": "Varamedlem i utvalg",
+        "address": null,
+        "place": null,
+        "zip": null,
+        "mail": null,
+        "tlf": null,
+        "url": null
       }
     ],
     "committeeIds": [
@@ -4506,7 +4343,9 @@
       200146,
       216162,
       217335,
-      217336
+      217336,
+      217642,
+      218688
     ]
   },
   {
@@ -4514,12 +4353,12 @@
     "name": "Jon Hustveit Mælandsmo",
     "phone": null,
     "title": null,
-    "privateMail": "jo-maela@online.no",
+    "privateMail": null,
     "mobilePhone": "+47 41 50 17 71",
     "zip": "3677 NOTODDEN",
     "address": "Nordre Vestsidaveg 104",
     "gender": "Mann",
-    "publicMail": null,
+    "publicMail": "jo-maela@online.no",
     "committees": [
       {
         "recno": 200441,
@@ -4681,19 +4520,6 @@
         "mail": null,
         "tlf": null,
         "url": null
-      },
-      {
-        "recno": 200469,
-        "groupRecno": 217642,
-        "name": "Administrasjonsutvalet (01.10.2015 - 01.10.2019)",
-        "role": "Varamedlem i",
-        "roleDescription": "Varamedlem i utvalg",
-        "address": null,
-        "place": null,
-        "zip": null,
-        "mail": null,
-        "tlf": null,
-        "url": null
       }
     ],
     "committeeIds": [
@@ -4706,8 +4532,7 @@
       200178,
       216162,
       217339,
-      217345,
-      217642
+      217345
     ]
   },
   {
@@ -4734,19 +4559,6 @@
         "mail": null,
         "tlf": null,
         "url": null
-      },
-      {
-        "recno": 200470,
-        "groupRecno": 217642,
-        "name": "Administrasjonsutvalet (01.10.2015 - 01.10.2019)",
-        "role": "Varamedlem i",
-        "roleDescription": "Varamedlem i utvalg",
-        "address": null,
-        "place": null,
-        "zip": null,
-        "mail": null,
-        "tlf": null,
-        "url": null
       }
     ],
     "committeeIds": [
@@ -4757,8 +4569,7 @@
       200149,
       200151,
       200173,
-      208883,
-      217642
+      208883
     ]
   },
   {
@@ -4864,12 +4675,12 @@
     "name": "Solfrid Rui Slettebakken",
     "phone": null,
     "title": null,
-    "privateMail": "Solfrid.Slettebakken@kragero.kommune.no",
+    "privateMail": null,
     "mobilePhone": "+47 99 42 18 14",
     "zip": "3770 KRAGERØ",
     "address": "Bekkedalsveien 53",
     "gender": "Kvinne",
-    "publicMail": null,
+    "publicMail": "Solfrid.Slettebakken@kragero.kommune.no",
     "committees": [
       {
         "recno": 200474,
@@ -4888,7 +4699,8 @@
     "committeeIds": [
       200024,
       200145,
-      217100
+      217100,
+      217668
     ]
   },
   {
@@ -4896,12 +4708,12 @@
     "name": "Torgeir Fossli",
     "phone": null,
     "title": null,
-    "privateMail": "torgeir@fossli.info",
+    "privateMail": null,
     "mobilePhone": "+47 90 68 85 15",
     "zip": "3679 NOTODDEN",
     "address": "Snøyrudvegen 67",
     "gender": "Mann",
-    "publicMail": null,
+    "publicMail": "torgeir@fossli.info",
     "committees": [
       {
         "recno": 200475,
@@ -5331,12 +5143,12 @@
     "name": "Kari-Anne Nordbø",
     "phone": null,
     "title": null,
-    "privateMail": "kariannenielsen@hotmail.com",
+    "privateMail": null,
     "mobilePhone": "+47 92427742",
     "zip": "3854 NISSEDAL",
     "address": "Nordbø",
     "gender": "Kvinne",
-    "publicMail": null,
+    "publicMail": "kariannenielsen@hotmail.com",
     "committees": [
       {
         "recno": 200505,
@@ -5470,7 +5282,7 @@
       {
         "recno": 200507,
         "groupRecno": 217642,
-        "name": "Administrasjonsutvalet (01.10.2015 - 01.10.2019)",
+        "name": "Administrasjonsutvalet (01.10.2015 - 11.11.2015)",
         "role": "Varamedlem i",
         "roleDescription": "Varamedlem i utvalg",
         "address": null,
@@ -5493,7 +5305,8 @@
       200151,
       200173,
       209066,
-      217642
+      217642,
+      218688
     ]
   },
   {
@@ -5764,8 +5577,7 @@
       200120,
       200175,
       217034,
-      217338,
-      217672
+      217338
     ]
   },
   {
@@ -6074,12 +5886,12 @@
     "name": "Kathrine Haatvedt",
     "phone": null,
     "title": null,
-    "privateMail": "kathrinehaatvedt@hotmail.com",
+    "privateMail": null,
     "mobilePhone": "+47 95045575",
     "zip": "3660 RJUKAN",
     "address": "Sam Eydes gate 146",
     "gender": "Kvinne",
-    "publicMail": null,
+    "publicMail": "kathrinehaatvedt@hotmail.com",
     "committees": [
       {
         "recno": 200541,
@@ -6136,7 +5948,7 @@
     "privateMail": "aslaug.sem@nrk.no",
     "mobilePhone": "+47 92923316",
     "zip": "3677 NOTODDEN",
-    "address": "Heddalsvn. 590",
+    "address": "Heddalsveien 590",
     "gender": "Kvinne",
     "publicMail": "Aslaug.Sem-Jacobsen@t-fk.no",
     "committees": [
@@ -6237,12 +6049,12 @@
     "name": "Ragnar Anundsen",
     "phone": null,
     "title": null,
-    "privateMail": "unanunds@online.no",
+    "privateMail": null,
     "mobilePhone": "+47 91719136",
     "zip": "3925 PORSGRUNN",
     "address": "Konvallvegen 39",
     "gender": "Mann",
-    "publicMail": null,
+    "publicMail": "unanunds@online.no",
     "committees": [
       {
         "recno": 200544,
@@ -6609,8 +6421,8 @@
     "title": null,
     "privateMail": "daniel_kh@live.no",
     "mobilePhone": "+47 98090120",
-    "zip": "3719 SKIEN",
-    "address": "Setervegen 17",
+    "zip": "7030 TRONDHEIM",
+    "address": "Klæbuveien 73",
     "gender": "Mann",
     "publicMail": "daniel.kittilsen.henriksen@t-fk.no",
     "committees": [
@@ -6680,11 +6492,11 @@
     "phone": "+47 35 95 70 10",
     "title": null,
     "privateMail": "hans.sundsvalen@sauherad.kommune.no",
-    "mobilePhone": "+47 91 12 01 79",
+    "mobilePhone": "+47 9 120 79",
     "zip": "3820 NORDAGUTU",
     "address": "Tveitenvegen 22",
     "gender": "Mann",
-    "publicMail": null,
+    "publicMail": "hans.sundsvalen@t-fk.no",
     "committees": [
       {
         "recno": 208915,
@@ -6752,12 +6564,12 @@
     "name": "Hilde Alice Vågslid",
     "phone": null,
     "title": null,
-    "privateMail": "hilde.alice.vagslid@tokke.kommune.no",
+    "privateMail": null,
     "mobilePhone": "+47 99 02 00 34",
     "zip": null,
     "address": null,
     "gender": "Kvinne",
-    "publicMail": null,
+    "publicMail": "hilde.alice.vagslid@tokke.kommune.no",
     "committees": [
       {
         "recno": 208917,
@@ -6917,7 +6729,7 @@
     "name": "Jan Thorsen",
     "phone": "+47 +47 97667590",
     "title": null,
-    "privateMail": null,
+    "privateMail": "nome.jan.thorsen@gmail.com",
     "mobilePhone": null,
     "zip": "3830 ULEFOSS",
     "address": "Sverdsteinvegen 26",
@@ -6953,7 +6765,8 @@
     ],
     "committeeIds": [
       200125,
-      216162
+      216162,
+      217672
     ]
   },
   {
@@ -6970,19 +6783,6 @@
     "committees": [
       {
         "recno": 214227,
-        "groupRecno": 200120,
-        "name": "Arbeiderpartiet",
-        "role": "Parti",
-        "roleDescription": "Partimedlem",
-        "address": "Birgittes gate 19",
-        "place": "SKIEN",
-        "zip": "3730",
-        "mail": null,
-        "tlf": null,
-        "url": "http://telemark.arbeiderparti.no/"
-      },
-      {
-        "recno": 214227,
         "groupRecno": 217337,
         "name": "Hovudutval for samferdsel (01.10.2015 - 30.09.2019)",
         "role": "Varamedlem i",
@@ -6997,7 +6797,7 @@
       {
         "recno": 214227,
         "groupRecno": 217642,
-        "name": "Administrasjonsutvalet (01.10.2015 - 01.10.2019)",
+        "name": "Administrasjonsutvalet (01.10.2015 - 11.11.2015)",
         "role": "Medlem i",
         "roleDescription": "Utvalgsmedlem",
         "address": null,
@@ -7009,10 +6809,10 @@
       }
     ],
     "committeeIds": [
-      200120,
       200151,
       217337,
-      217642
+      217642,
+      217668
     ]
   },
   {
@@ -7298,6 +7098,19 @@
         "mail": null,
         "tlf": null,
         "url": null
+      },
+      {
+        "recno": 218067,
+        "groupRecno": 217642,
+        "name": "Administrasjonsutvalet (01.10.2015 - 11.11.2015)",
+        "role": "Varamedlem i",
+        "roleDescription": "Varamedlem i utvalg",
+        "address": null,
+        "place": null,
+        "zip": null,
+        "mail": null,
+        "tlf": null,
+        "url": null
       }
     ],
     "committeeIds": [
@@ -7306,7 +7119,9 @@
       216167,
       217335,
       217336,
-      217337
+      217337,
+      217642,
+      218688
     ]
   },
   {
@@ -7314,7 +7129,7 @@
     "name": "Bård Hoksrud",
     "phone": null,
     "title": null,
-    "privateMail": null,
+    "privateMail": "bho@stortinget.no",
     "mobilePhone": "+47 90919838",
     "zip": "3960 STATHELLE",
     "address": "Spanskrøret 11",
@@ -7378,6 +7193,7 @@
       200122,
       216162,
       216167,
+      217264,
       217337
     ]
   },
@@ -7459,7 +7275,7 @@
     "phone": null,
     "title": null,
     "privateMail": null,
-    "mobilePhone": null,
+    "mobilePhone": "+47 97018444",
     "zip": "3750 DRANGEDAL",
     "address": "Lauvåsen 51",
     "gender": "Kvinne",
@@ -7587,6 +7403,19 @@
         "mail": null,
         "tlf": null,
         "url": null
+      },
+      {
+        "recno": 218073,
+        "groupRecno": 217642,
+        "name": "Administrasjonsutvalet (01.10.2015 - 11.11.2015)",
+        "role": "Varamedlem i",
+        "roleDescription": "Varamedlem i utvalg",
+        "address": null,
+        "place": null,
+        "zip": null,
+        "mail": null,
+        "tlf": null,
+        "url": null
       }
     ],
     "committeeIds": [
@@ -7594,7 +7423,9 @@
       216162,
       216167,
       217335,
-      217337
+      217337,
+      217642,
+      218688
     ]
   },
   {
@@ -7790,13 +7621,28 @@
         "mail": null,
         "tlf": null,
         "url": null
+      },
+      {
+        "recno": 218078,
+        "groupRecno": 217642,
+        "name": "Administrasjonsutvalet (01.10.2015 - 11.11.2015)",
+        "role": "Varamedlem i",
+        "roleDescription": "Varamedlem i utvalg",
+        "address": null,
+        "place": null,
+        "zip": null,
+        "mail": null,
+        "tlf": null,
+        "url": null
       }
     ],
     "committeeIds": [
       200123,
       216162,
       216167,
-      217335
+      217335,
+      217642,
+      218688
     ]
   },
   {
@@ -7805,7 +7651,7 @@
     "phone": null,
     "title": null,
     "privateMail": null,
-    "mobilePhone": null,
+    "mobilePhone": "+47 98672695",
     "zip": "3960 STATHELLE",
     "address": "Herreveirn 151",
     "gender": "Mann",
@@ -7867,7 +7713,7 @@
     "zip": "3850 KVITESEID",
     "address": "Kviteseidvegen 774 B",
     "gender": "Kvinne",
-    "publicMail": "ellen.oddrun.smenes@t-fk.no",
+    "publicMail": "ellen.smenes@gmail.com",
     "committees": [
       {
         "recno": 218082,
@@ -7921,7 +7767,7 @@
     "phone": null,
     "title": null,
     "privateMail": null,
-    "mobilePhone": null,
+    "mobilePhone": "+47 97033810",
     "zip": "3692 SAULAND",
     "address": "Kåsafeltet",
     "gender": "Mann",
@@ -7964,7 +7810,7 @@
     "name": "Ådne Tobias Salomonsen Naper",
     "phone": null,
     "title": null,
-    "privateMail": null,
+    "privateMail": "adne.naper@sv.no",
     "mobilePhone": "+47 99383783",
     "zip": "3714 SKIEN",
     "address": "Mikkel Blikks gate 7 E",
@@ -8037,11 +7883,11 @@
     "phone": null,
     "title": null,
     "privateMail": null,
-    "mobilePhone": null,
+    "mobilePhone": "+47 97142674",
     "zip": "3803 BØ I TELEMARK",
     "address": "Livegen 267",
     "gender": "Kvinne",
-    "publicMail": null,
+    "publicMail": "karinhagen_@hotmail.com",
     "committees": [
       {
         "recno": 218085,
@@ -8094,12 +7940,12 @@
     "name": "Hans Martin Gullhaug",
     "phone": null,
     "title": null,
-    "privateMail": "hans-mg@online.no",
+    "privateMail": null,
     "mobilePhone": "+47 90766670",
     "zip": "3930 PORSGRUNN",
     "address": "Heggelia 4",
     "gender": "Mann",
-    "publicMail": null,
+    "publicMail": "hans-mg@online.no",
     "committees": [
       {
         "recno": 218086,
@@ -8255,11 +8101,11 @@
     "phone": null,
     "title": null,
     "privateMail": null,
-    "mobilePhone": null,
+    "mobilePhone": "+47 97082376",
     "zip": "3841 FLATDAL",
     "address": "Åslandvegen 14",
     "gender": "Kvinne",
-    "publicMail": null,
+    "publicMail": "kjellaug.westbye@gmail.com",
     "committees": [
       {
         "recno": 218090,
@@ -8313,11 +8159,11 @@
     "phone": null,
     "title": null,
     "privateMail": null,
-    "mobilePhone": null,
+    "mobilePhone": "+47 94199271",
     "zip": "3970 LANGESUND",
     "address": "Storgata 26",
     "gender": "Kvinne",
-    "publicMail": null,
+    "publicMail": "ana.lopez.taylor@gmail.com",
     "committees": [
       {
         "recno": 218092,
@@ -8530,13 +8376,28 @@
         "mail": null,
         "tlf": null,
         "url": null
+      },
+      {
+        "recno": 218096,
+        "groupRecno": 217642,
+        "name": "Administrasjonsutvalet (01.10.2015 - 11.11.2015)",
+        "role": "Varamedlem i",
+        "roleDescription": "Varamedlem i utvalg",
+        "address": null,
+        "place": null,
+        "zip": null,
+        "mail": null,
+        "tlf": null,
+        "url": null
       }
     ],
     "committeeIds": [
       200123,
       216162,
       217335,
-      217336
+      217336,
+      217642,
+      218688
     ]
   },
   {
@@ -8546,10 +8407,10 @@
     "title": null,
     "privateMail": null,
     "mobilePhone": "+47 97645361",
-    "zip": "4864 ÅMLI",
-    "address": "Skulehuskleiva 76",
+    "zip": "4865 ÅMLI",
+    "address": "Skulehuskleiva 26",
     "gender": "Kvinne",
-    "publicMail": null,
+    "publicMail": "n-k-f@frisurf.no",
     "committees": [
       {
         "recno": 218097,
@@ -8709,7 +8570,7 @@
     "zip": "3870 ",
     "address": "Håsomgrenda 217",
     "gender": "Kvinne",
-    "publicMail": null,
+    "publicMail": "christin.lind@gmail.com",
     "committees": [
       {
         "recno": 218100,
@@ -8749,11 +8610,11 @@
     "phone": "+47 35 54 26 20",
     "title": null,
     "privateMail": null,
-    "mobilePhone": null,
+    "mobilePhone": "+47 92828287",
     "zip": "3729 SKIEN",
     "address": "Tveitanvegen 152",
     "gender": "Mann",
-    "publicMail": null,
+    "publicMail": "oleamlie@hotmail.com",
     "committees": [
       {
         "recno": 218102,
@@ -8911,7 +8772,7 @@
     "zip": "3790 HELLE",
     "address": "Fossingveien 57",
     "gender": "Kvinne",
-    "publicMail": null,
+    "publicMail": "sarahlille@hotmail.com",
     "committees": [
       {
         "recno": 218104,
@@ -8964,12 +8825,12 @@
     "name": "Gunn Nicolaysen Gundersen",
     "phone": "+47 35 98 30 71 ",
     "title": null,
-    "privateMail": null,
+    "privateMail": "gunn.n.gundersen@kebas.no",
     "mobilePhone": "+47 913 80 256 ",
     "zip": "3770 KRAGERØ",
     "address": "Bekkedalsveien 29 ",
     "gender": "Kvinne",
-    "publicMail": null,
+    "publicMail": "Gunn.Nicolaysen.Gundersen@kragero.kommune.no",
     "committees": [
       {
         "recno": 218105,
@@ -9027,7 +8888,7 @@
     "zip": "3760 NESLANDSVATN",
     "address": null,
     "gender": "Mann",
-    "publicMail": null,
+    "publicMail": "j.nesland@hotmail.com",
     "committees": [
       {
         "recno": 218106,
@@ -9080,7 +8941,7 @@
     "name": "Ellen Kløverød",
     "phone": null,
     "title": null,
-    "privateMail": null,
+    "privateMail": "ellen.klovero@icloud.com",
     "mobilePhone": "+47 906 82 638",
     "zip": "3748 SILJAN",
     "address": "Elgstien 10 ",
@@ -9173,7 +9034,7 @@
     "zip": "3770 KRAGERØ",
     "address": "Storkollveien 6",
     "gender": "Mann",
-    "publicMail": null,
+    "publicMail": "andrei.bs.honda@gmail.com",
     "committees": [
       {
         "recno": 218109,
@@ -9226,10 +9087,10 @@
     "name": "Merete Lia",
     "phone": null,
     "title": null,
-    "privateMail": null,
-    "mobilePhone": null,
-    "zip": "3937 PORSGRUNN",
-    "address": "Mauråsvegen 6 A",
+    "privateMail": "merete@fpu.no",
+    "mobilePhone": "+47 406 06 512",
+    "zip": "3944 PORSGRUNN",
+    "address": "Amund Tvetens veg 103",
     "gender": "Kvinne",
     "publicMail": null,
     "committees": [
@@ -9329,7 +9190,7 @@
     "phone": null,
     "title": null,
     "privateMail": null,
-    "mobilePhone": null,
+    "mobilePhone": "+47 908 41 793",
     "zip": "3960 STATHELLE",
     "address": "Frosteveien 299",
     "gender": "Kvinne",
@@ -9421,7 +9282,7 @@
     "zip": "3804 BØ I TELEMARK",
     "address": "Torvills veg 9",
     "gender": "Kvinne",
-    "publicMail": null,
+    "publicMail": "ingunnskalstad@hotmail.com",
     "committees": [
       {
         "recno": 218116,
@@ -9523,7 +9384,7 @@
     "zip": "3679 NOTODDEN",
     "address": "Søndre Skogenvei 4",
     "gender": "Kvinne",
-    "publicMail": null,
+    "publicMail": "kari.a.torsteinson@t-fk.no",
     "committees": [
       {
         "recno": 218119,
@@ -9683,7 +9544,7 @@
     "zip": "3802 BØ I TELEMARK",
     "address": "Sisjordvegen 81",
     "gender": "Mann",
-    "publicMail": null,
+    "publicMail": "torbjo-k@online.no",
     "committees": [
       {
         "recno": 218131,
@@ -9887,10 +9748,24 @@
         "mail": null,
         "tlf": null,
         "url": null
+      },
+      {
+        "recno": 218137,
+        "groupRecno": 217336,
+        "name": "Hovudutval for kompetanse 2015 - 2019 (01.10.2015 - 30.09.2019)",
+        "role": "Varamedlem i",
+        "roleDescription": "Varamedlem i utvalg",
+        "address": null,
+        "place": null,
+        "zip": null,
+        "mail": null,
+        "tlf": null,
+        "url": null
       }
     ],
     "committeeIds": [
-      200122
+      200122,
+      217336
     ]
   },
   {
@@ -9971,11 +9846,11 @@
     "phone": null,
     "title": null,
     "privateMail": null,
-    "mobilePhone": "+47 942 07 078",
+    "mobilePhone": "+47 412 86 869",
     "zip": "3944 PORSGRUNN",
     "address": "Asalund 37 ",
     "gender": "Mann",
-    "publicMail": null,
+    "publicMail": "aleksander.gjosaeter@gmail.com",
     "committees": [
       {
         "recno": 218139,
@@ -10029,7 +9904,7 @@
     "phone": null,
     "title": null,
     "privateMail": null,
-    "mobilePhone": "+47 984 27 976",
+    "mobilePhone": "+47 98427976",
     "zip": "3718 SKIEN",
     "address": "Strømdal Terrasse 73",
     "gender": "Kvinne",
@@ -10289,7 +10164,7 @@
     "phone": null,
     "title": null,
     "privateMail": "la-solba@online.no",
-    "mobilePhone": "+47 916 82 998",
+    "mobilePhone": "+47 91682998",
     "zip": "3744 SKIEN",
     "address": "Vestre Einaren 12",
     "gender": "Mann",
@@ -10345,7 +10220,7 @@
     "recno": 218145,
     "name": "Hans Edvard Askjer",
     "phone": null,
-    "title": "Askjer",
+    "title": "Fylkesvaraordfører",
     "privateMail": null,
     "mobilePhone": "+47 95041887",
     "zip": "3746 SKIEN",
@@ -10365,10 +10240,25 @@
         "mail": null,
         "tlf": null,
         "url": null
+      },
+      {
+        "recno": 218145,
+        "groupRecno": 217642,
+        "name": "Administrasjonsutvalet (01.10.2015 - 11.11.2015)",
+        "role": "Medlem i",
+        "roleDescription": "Utvalgsmedlem",
+        "address": null,
+        "place": null,
+        "zip": null,
+        "mail": null,
+        "tlf": null,
+        "url": null
       }
     ],
     "committeeIds": [
-      200124
+      200124,
+      217642,
+      218688
     ]
   },
   {
@@ -10479,12 +10369,27 @@
         "mail": null,
         "tlf": null,
         "url": null
+      },
+      {
+        "recno": 218148,
+        "groupRecno": 217642,
+        "name": "Administrasjonsutvalet (01.10.2015 - 11.11.2015)",
+        "role": "Leder i",
+        "roleDescription": "Leder i utvalg",
+        "address": null,
+        "place": null,
+        "zip": null,
+        "mail": null,
+        "tlf": null,
+        "url": null
       }
     ],
     "committeeIds": [
       200120,
       216162,
-      216167
+      216167,
+      217642,
+      218688
     ]
   },
   {
@@ -10497,7 +10402,7 @@
     "zip": "3840 SELJORD",
     "address": "Skipperbakken 47",
     "gender": "Kvinne",
-    "publicMail": null,
+    "publicMail": "lena.solli.sal@t-fk.no",
     "committees": [
       {
         "recno": 218149,
@@ -10599,7 +10504,7 @@
     "zip": "3890 VINJE",
     "address": "Skulevegen 3 ",
     "gender": "Mann",
-    "publicMail": null,
+    "publicMail": "borre.ronningen@vinje.kommune.no",
     "committees": [
       {
         "recno": 218151,
@@ -10657,7 +10562,7 @@
     "zip": "3675 NOTODDEN",
     "address": "Bergstuguvegen 49",
     "gender": "Mann",
-    "publicMail": null,
+    "publicMail": "roald.stykket@fellesforbundet.org",
     "committees": [
       {
         "recno": 218182,
@@ -10688,12 +10593,13 @@
     ],
     "committeeIds": [
       200120,
-      216162
+      216162,
+      218688
     ]
   },
   {
     "recno": 218184,
-    "name": "Synøve Lund",
+    "name": "Synnøve Lund",
     "phone": null,
     "title": null,
     "privateMail": null,
@@ -10701,7 +10607,7 @@
     "zip": "3729 SKIEN",
     "address": "Hollavegen 616",
     "gender": "Kvinne",
-    "publicMail": null,
+    "publicMail": "sel@td.no",
     "committees": [
       {
         "recno": 218184,
@@ -10741,11 +10647,11 @@
     "phone": null,
     "title": null,
     "privateMail": null,
-    "mobilePhone": null,
+    "mobilePhone": "+47 46944296",
     "zip": "3725 SKIEN",
     "address": "Landstadsgate sør 31",
     "gender": "Kvinne",
-    "publicMail": null,
+    "publicMail": "tina.wilcox@live.no",
     "committees": [
       {
         "recno": 218185,
@@ -10781,15 +10687,15 @@
   },
   {
     "recno": 218192,
-    "name": "Mats Erik Pettersen",
+    "name": "Mats Eirik Pettersen",
     "phone": null,
     "title": null,
-    "privateMail": null,
-    "mobilePhone": null,
+    "privateMail": "mars.eirik.p@gmail.com",
+    "mobilePhone": "+47 930 38 198",
     "zip": "3970 LANGESUND",
     "address": "Gjømleåsen 33",
     "gender": "Mann",
-    "publicMail": null,
+    "publicMail": "mats.eirik.pettersen@t-fk.no",
     "committees": [
       {
         "recno": 218192,
@@ -10816,11 +10722,26 @@
         "mail": null,
         "tlf": null,
         "url": null
+      },
+      {
+        "recno": 218192,
+        "groupRecno": 217642,
+        "name": "Administrasjonsutvalet (01.10.2015 - 11.11.2015)",
+        "role": "Medlem i",
+        "roleDescription": "Utvalgsmedlem",
+        "address": null,
+        "place": null,
+        "zip": null,
+        "mail": null,
+        "tlf": null,
+        "url": null
       }
     ],
     "committeeIds": [
       200122,
-      216162
+      216162,
+      217642,
+      218688
     ]
   },
   {
@@ -10833,7 +10754,7 @@
     "zip": "3840 SELJORD",
     "address": "Skipperbakken 64",
     "gender": "Mann",
-    "publicMail": null,
+    "publicMail": "mogensiversen@yahoo.no",
     "committees": [
       {
         "recno": 218193,
@@ -10886,12 +10807,12 @@
     "name": "Vibeke-Emilie Abrahamsen",
     "phone": null,
     "title": null,
-    "privateMail": null,
+    "privateMail": "vibeke-emilie.abrahamsen@bamble.kommune.no",
     "mobilePhone": "+47 930 30 347",
-    "zip": "3965 HERRE",
-    "address": "Skipperveien 11",
+    "zip": "3970 LANGESUND",
+    "address": "Hydalkroken 15 B",
     "gender": "Kvinne",
-    "publicMail": null,
+    "publicMail": "vibeke.emilie@gmail.com",
     "committees": [
       {
         "recno": 218201,
@@ -10959,11 +10880,11 @@
     "phone": null,
     "title": null,
     "privateMail": null,
-    "mobilePhone": null,
+    "mobilePhone": "+47 91365047",
     "zip": "3960 STATHELLE",
     "address": "Skauveien 3",
     "gender": "Mann",
-    "publicMail": null,
+    "publicMail": "jon.flolo@bamble.kommune.no",
     "committees": [
       {
         "recno": 218203,
@@ -11107,7 +11028,7 @@
     "privateMail": null,
     "mobilePhone": "+47 35 99 85 29 ",
     "zip": "3750 DRANGEDAL",
-    "address": null,
+    "address": "Ettestad Nordre",
     "gender": "Mann",
     "publicMail": null,
     "committees": [
@@ -11167,7 +11088,7 @@
     "zip": "3660 RJUKAN",
     "address": "Ekornveien 13 B",
     "gender": "Kvinne",
-    "publicMail": null,
+    "publicMail": "sandra.yeomans@t-fk.no",
     "committees": [
       {
         "recno": 218211,
@@ -11207,11 +11128,11 @@
     "phone": null,
     "title": null,
     "privateMail": null,
-    "mobilePhone": null,
+    "mobilePhone": "+47 996 47 076",
     "zip": "3848 MORGEDAL",
     "address": "Huvestadvegen 214 A",
     "gender": "Mann",
-    "publicMail": null,
+    "publicMail": "eli.gullsmed@gmail.com",
     "committees": [
       {
         "recno": 218212,
@@ -11255,7 +11176,7 @@
     "zip": "3853 VRÅDAL",
     "address": "Kviteseidvegen 1822",
     "gender": "Mann",
-    "publicMail": null,
+    "publicMail": "jon.ingebretsen@t-fk.no",
     "committees": [
       {
         "recno": 218214,
@@ -11299,7 +11220,7 @@
     "zip": "3803 BØ I TELEMARK",
     "address": "Livegen 219 B",
     "gender": "Kvinne",
-    "publicMail": null,
+    "publicMail": "marlies.besler@t-fk.no",
     "committees": [
       {
         "recno": 218215,
@@ -11470,7 +11391,7 @@
     "name": "May Rita Flamsgård",
     "phone": null,
     "title": null,
-    "privateMail": null,
+    "privateMail": "gurine_flam@hotmail.com",
     "mobilePhone": "+47  938 83 677",
     "zip": "3830 ULEFOSS",
     "address": "Pilerødvegen 7",
@@ -11558,8 +11479,8 @@
     "name": "Roger Heimdal",
     "phone": null,
     "title": null,
-    "privateMail": null,
-    "mobilePhone": null,
+    "privateMail": "rh@sras.no",
+    "mobilePhone": "+47 9005 7176",
     "zip": "3678 NOTODDEN",
     "address": "Kanalveien 15",
     "gender": "Mann",
@@ -11660,7 +11581,7 @@
     "name": "Synnøve Lund",
     "phone": "+47  35 53 79 81",
     "title": null,
-    "privateMail": null,
+    "privateMail": "sel@td.no",
     "mobilePhone": null,
     "zip": "3729 SKIEN",
     "address": "Hollavegen 616",
@@ -11748,7 +11669,7 @@
     "name": "Torunn Brukåsa Kleiva",
     "phone": null,
     "title": null,
-    "privateMail": null,
+    "privateMail": "inklei@online.no",
     "mobilePhone": null,
     "zip": "3825 LUNDE",
     "address": "Hantovegen 6",
@@ -11792,7 +11713,7 @@
     "name": "Torstein Tveito",
     "phone": null,
     "title": null,
-    "privateMail": null,
+    "privateMail": "toetveito@gmail.com",
     "mobilePhone": null,
     "zip": "3850 KVITESEID",
     "address": "Dalanvegen 1737",
@@ -11836,7 +11757,7 @@
     "name": "Halvor Dahle",
     "phone": null,
     "title": null,
-    "privateMail": null,
+    "privateMail": "Halvor.Dahle@hotmail.com",
     "mobilePhone": "+47 971 69 990",
     "zip": "3855 TREUNGEN",
     "address": null,
@@ -11878,12 +11799,12 @@
   {
     "recno": 218248,
     "name": "Frank Lien",
-    "phone": null,
+    "phone": "+47 35 04 58 03",
     "title": null,
-    "privateMail": null,
-    "mobilePhone": "+47 35 04 58 03",
+    "privateMail": "f.e.lien@online.no",
+    "mobilePhone": "+47 416 25 198",
     "zip": "3855 TREUNGEN",
-    "address": "Haugsjåsund",
+    "address": "Haugsjåsund 346",
     "gender": "Kvinne",
     "publicMail": null,
     "committees": [

@@ -12,16 +12,52 @@
     "publicMail": null
   },
   {
+    "recno": 218361,
+    "name": "Agnes Byberg Skårnes",
+    "phone": "+47 909 49 415",
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": "3841 FLATDAL",
+    "address": "Flatdalsvegen 907, ",
+    "gender": "Kvinne",
+    "publicMail": "agnes.byberg.skarnes@nav.no"
+  },
+  {
+    "recno": 218377,
+    "name": "Aina Milevasslien",
+    "phone": "+47 91741832",
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": "3825 LUNDE",
+    "address": "Åsenvegen 12, ",
+    "gender": "Kvinne",
+    "publicMail": "milevasslien_78@hotmail.com"
+  },
+  {
+    "recno": 218539,
+    "name": "Albert Nævestad",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 97952396",
+    "zip": "4993 SUNDEBRU",
+    "address": "Brokeland 109",
+    "gender": "Mann",
+    "publicMail": "al-na@online.no"
+  },
+  {
     "recno": 218139,
     "name": "Aleksander Martin Gjøsæter",
     "phone": null,
     "title": null,
     "privateMail": null,
-    "mobilePhone": "+47 942 07 078",
+    "mobilePhone": "+47 412 86 869",
     "zip": "3944 PORSGRUNN",
     "address": "Asalund 37 ",
     "gender": "Mann",
-    "publicMail": null
+    "publicMail": "aleksander.gjosaeter@gmail.com"
   },
   {
     "recno": 217200,
@@ -48,16 +84,28 @@
     "publicMail": "alf.jul.jakobsen@air.no"
   },
   {
+    "recno": 218363,
+    "name": "Alice Bratås",
+    "phone": "+47 91810781",
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": "3840 Seljord",
+    "address": "Nordbygdivegen 108",
+    "gender": "Kvinne",
+    "publicMail": "alicebrataas@gmail.com"
+  },
+  {
     "recno": 218092,
     "name": "Ana Taylor Lopez",
     "phone": null,
     "title": null,
     "privateMail": null,
-    "mobilePhone": null,
+    "mobilePhone": "+47 94199271",
     "zip": "3970 LANGESUND",
     "address": "Storgata 26",
     "gender": "Kvinne",
-    "publicMail": null
+    "publicMail": "ana.lopez.taylor@gmail.com"
   },
   {
     "recno": 217028,
@@ -105,7 +153,7 @@
     "zip": "3770 KRAGERØ",
     "address": "Storkollveien 6",
     "gender": "Mann",
-    "publicMail": null
+    "publicMail": "andrei.bs.honda@gmail.com"
   },
   {
     "recno": 216742,
@@ -161,11 +209,35 @@
     "phone": null,
     "title": null,
     "privateMail": null,
-    "mobilePhone": null,
-    "zip": null,
-    "address": null,
+    "mobilePhone": "+47 97961562",
+    "zip": "4950 RISØR",
+    "address": "Kvernsmyrveien 210",
     "gender": "Kvinne",
     "publicMail": "r-guld@online.no"
+  },
+  {
+    "recno": 218526,
+    "name": "Ann Helen Storø",
+    "phone": null,
+    "title": null,
+    "privateMail": "annhelen.storo@bamble.kommune.no",
+    "mobilePhone": "+47 40280226",
+    "zip": "3960 STATHELLE",
+    "address": "Haukedalsveien 94",
+    "gender": "Kvinne",
+    "publicMail": "annhelen.storo@gmail.com"
+  },
+  {
+    "recno": 218379,
+    "name": "Ann Kristin Teksle",
+    "phone": "+47 90204413",
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": "3830 ULEFOSS",
+    "address": "Slåttekåsvegen 102",
+    "gender": "Kvinne",
+    "publicMail": "sauesalongen@gmail.com"
   },
   {
     "recno": 218043,
@@ -204,6 +276,18 @@
     "publicMail": "Anne.Haugen.Wagn@t-fk.no"
   },
   {
+    "recno": 218506,
+    "name": "Anne Kari Mentzoni",
+    "phone": "+47 37 09 11 66",
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 916 93 618",
+    "zip": "4877 GRIMSTAD",
+    "address": "Grømheia 7",
+    "gender": "Kvinne",
+    "publicMail": "Anne.kari.mentzoni@relacom.com"
+  },
+  {
     "recno": 218205,
     "name": "Anne Kristine Grøtting",
     "phone": null,
@@ -225,6 +309,18 @@
     "zip": "3890 VINJE",
     "address": null,
     "gender": null,
+    "publicMail": null
+  },
+  {
+    "recno": 218505,
+    "name": "Anne Mo Grimdalen",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": "4878 GRIMSTAD",
+    "address": "Arendalsveien 60",
+    "gender": "Kvinne",
     "publicMail": null
   },
   {
@@ -331,9 +427,33 @@
     "privateMail": null,
     "mobilePhone": "+47 35 99 85 29 ",
     "zip": "3750 DRANGEDAL",
-    "address": null,
+    "address": "Ettestad Nordre",
     "gender": "Mann",
     "publicMail": null
+  },
+  {
+    "recno": 218492,
+    "name": "Arne Guddal",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 404 06 720",
+    "zip": "4900 TVEDESTRAND",
+    "address": "Vestre Solbergvei 14",
+    "gender": "Mann",
+    "publicMail": "aguddal@gmail.com"
+  },
+  {
+    "recno": 218733,
+    "name": "Arne Guldbrandsen",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 97082611",
+    "zip": "4790 LILLESAND",
+    "address": "Vestre Vallesverd",
+    "gender": "Mann",
+    "publicMail": "arnegul@hotmail.com"
   },
   {
     "recno": 217130,
@@ -341,11 +461,23 @@
     "phone": null,
     "title": null,
     "privateMail": null,
+    "mobilePhone": "+47 93008215",
+    "zip": "3770 KRAGERØ",
+    "address": "Storgata 1",
+    "gender": "Mann",
+    "publicMail": "arne.kristiansen@kragero.kommune.no"
+  },
+  {
+    "recno": 218516,
+    "name": "Arne Palerud",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
     "mobilePhone": null,
     "zip": null,
     "address": null,
     "gender": "Mann",
-    "publicMail": "arne.kristiansen@kragero.kommune.no"
+    "publicMail": null
   },
   {
     "recno": 218040,
@@ -372,6 +504,18 @@
     "publicMail": null
   },
   {
+    "recno": 218456,
+    "name": "Arnhild S. Grov Mortensson",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 99708411",
+    "zip": null,
+    "address": null,
+    "gender": "Kvinne",
+    "publicMail": "sydfosso@online.no"
+  },
+  {
     "recno": 200126,
     "name": "Arnt Olav Brødsjø",
     "phone": "+47 35 99 70 77",
@@ -394,6 +538,18 @@
     "address": "Rukarvegen 66",
     "gender": "Mann",
     "publicMail": "arnt.solhaug@t-fk.no"
+  },
+  {
+    "recno": 218357,
+    "name": "Arve Lia",
+    "phone": "+47 913 01 571",
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": "3840 Seljord",
+    "address": "Flatingrendi 23",
+    "gender": "Mann",
+    "publicMail": "arve@gundersentransport.no "
   },
   {
     "recno": 200484,
@@ -448,12 +604,12 @@
     "name": "Astri Klonteig",
     "phone": null,
     "title": null,
-    "privateMail": "astri.konteig@tinn.kommune.no",
+    "privateMail": "astri.klonteig@tinn.kommune.no",
     "mobilePhone": "+47 92 25 39 79",
     "zip": "3660 RJUKAN",
     "address": "Haugåkervegen 5",
     "gender": "Kvinne",
-    "publicMail": null
+    "publicMail": "astri.klonteig@hotmail.com"
   },
   {
     "recno": 218336,
@@ -521,7 +677,7 @@
     "phone": null,
     "title": null,
     "privateMail": null,
-    "mobilePhone": null,
+    "mobilePhone": "+47 97033810",
     "zip": "3692 SAULAND",
     "address": "Kåsafeltet",
     "gender": "Mann",
@@ -576,6 +732,30 @@
     "publicMail": null
   },
   {
+    "recno": 218459,
+    "name": "Bent Frode Bystrøm",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 95461122",
+    "zip": null,
+    "address": null,
+    "gender": "Mann",
+    "publicMail": "bentf@vekstra.no"
+  },
+  {
+    "recno": 218471,
+    "name": "Bente Synøve Laland",
+    "phone": "+47 38154381",
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 91621456",
+    "zip": "4700 VENNESLA",
+    "address": "Jeppestøl",
+    "gender": "Kvinne",
+    "publicMail": "besla@mattilsynet.no"
+  },
+  {
     "recno": 218290,
     "name": "Bente Tangen",
     "phone": null,
@@ -600,6 +780,18 @@
     "publicMail": "bakken@ejohnsen.no"
   },
   {
+    "recno": 218490,
+    "name": "Birger Eggen",
+    "phone": null,
+    "title": null,
+    "privateMail": "birgereg@online.no",
+    "mobilePhone": "+47 959 37 110",
+    "zip": "4934 NES VERK",
+    "address": "Nes Verkveien 125",
+    "gender": "Mann",
+    "publicMail": "birger.eggen@nav.no"
+  },
+  {
     "recno": 200369,
     "name": "Birger Hovden",
     "phone": null,
@@ -607,7 +799,7 @@
     "privateMail": "birger.hovden@gmail.com",
     "mobilePhone": "+47 99 63 54 39",
     "zip": "3660 RJUKAN",
-    "address": "Skriugt. 7",
+    "address": "Skriugata 7",
     "gender": "Mann",
     "publicMail": "birger.hovden@t-fk.no"
   },
@@ -696,6 +888,18 @@
     "publicMail": null
   },
   {
+    "recno": 218653,
+    "name": "Bjørn Arne Lindskog",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 95073711",
+    "zip": null,
+    "address": null,
+    "gender": "Mann",
+    "publicMail": "bjorn.arne.lindskog@vinje.kommune.no"
+  },
+  {
     "recno": 200480,
     "name": "Bjørn Harald Rudborg",
     "phone": null,
@@ -720,14 +924,26 @@
     "publicMail": "bjmelbye@hotmail.com"
   },
   {
+    "recno": 218376,
+    "name": "Bjørn Ove Nordskog",
+    "phone": "+47 91314435",
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": "3825 Lunde",
+    "address": "Åsenvegen 19",
+    "gender": "Mann",
+    "publicMail": "bjorn.nordskog@online.no"
+  },
+  {
     "recno": 217083,
     "name": "Bjørn Saga",
     "phone": null,
     "title": null,
     "privateMail": null,
-    "mobilePhone": null,
-    "zip": null,
-    "address": null,
+    "mobilePhone": "+47 98491927",
+    "zip": "4985 VEGÅRSHEI",
+    "address": "Ettestølveien 33",
     "gender": "Mann",
     "publicMail": "bj-saga@online.no"
   },
@@ -742,6 +958,18 @@
     "address": "Tinngate 128",
     "gender": "Mann",
     "publicMail": "bjorn_sverre.birkeland@tinn.kommune.no"
+  },
+  {
+    "recno": 218546,
+    "name": "Bjørn Vidar Bråthen",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 95181113",
+    "zip": "3790 HELLE",
+    "address": "Gaupelia 18",
+    "gender": "Mann",
+    "publicMail": "bjorn.v.brathen@kragero.kommune.no"
   },
   {
     "recno": 218337,
@@ -789,7 +1017,31 @@
     "zip": "3802 BØ I TELEMARK",
     "address": "Sisjordvegen 81",
     "gender": "Mann",
-    "publicMail": null
+    "publicMail": "torbjo-k@online.no"
+  },
+  {
+    "recno": 218381,
+    "name": "Borghild Hardang Hanto",
+    "phone": "+47 47865635",
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": "3825 Lunde",
+    "address": "Hantovegen 76, ",
+    "gender": "Kvinne",
+    "publicMail": "bhhanto@gmail.com"
+  },
+  {
+    "recno": 218382,
+    "name": "Britt Gursli Tobro",
+    "phone": "+47 90535815",
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": "3825 LUNDE",
+    "address": "Åskollen 7",
+    "gender": "Kvinne",
+    "publicMail": "britt-g.tobro@t-fk.no"
   },
   {
     "recno": 217165,
@@ -813,7 +1065,7 @@
     "zip": "3890 VINJE",
     "address": "Skulevegen 3 ",
     "gender": "Mann",
-    "publicMail": null
+    "publicMail": "borre.ronningen@vinje.kommune.no"
   },
   {
     "recno": 217069,
@@ -832,7 +1084,7 @@
     "name": "Bård Hoksrud",
     "phone": null,
     "title": null,
-    "privateMail": null,
+    "privateMail": "bho@stortinget.no",
     "mobilePhone": "+47 90919838",
     "zip": "3960 STATHELLE",
     "address": "Spanskrøret 11",
@@ -845,11 +1097,23 @@
     "phone": null,
     "title": null,
     "privateMail": null,
-    "mobilePhone": null,
-    "zip": null,
-    "address": null,
+    "mobilePhone": "+47 47031655",
+    "zip": "4985 VEGÅRSHEI",
+    "address": "Sagaveien 30",
     "gender": "Kvinne",
-    "publicMail": "camilla@notre.no"
+    "publicMail": "camillaosaga@gmail.com"
+  },
+  {
+    "recno": 218524,
+    "name": "Carl-Otto Thommesen",
+    "phone": "+47 91186007",
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": "3960 STATHELLE",
+    "address": "Skauveien 2",
+    "gender": "Mann",
+    "publicMail": "carl-otto.thommesen@bamble.kommune.no"
   },
   {
     "recno": 218147,
@@ -897,7 +1161,31 @@
     "zip": "3870 ",
     "address": "Håsomgrenda 217",
     "gender": "Kvinne",
-    "publicMail": null
+    "publicMail": "christin.lind@gmail.com"
+  },
+  {
+    "recno": 218455,
+    "name": "Christine Løkke Jensen",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 99605295",
+    "zip": null,
+    "address": null,
+    "gender": "Kvinne",
+    "publicMail": "christineloekkejensen@hotmail.com"
+  },
+  {
+    "recno": 218514,
+    "name": "Dag Arild Brødsjømoen",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 908 75 861",
+    "zip": "3750 DRANGEDAL",
+    "address": null,
+    "gender": "Mann",
+    "publicMail": "dag-arild.brodsjomoen@drangedal.kommune.no"
   },
   {
     "recno": 217047,
@@ -910,6 +1198,18 @@
     "address": null,
     "gender": "Mann",
     "publicMail": "dag.eide@durapart.no"
+  },
+  {
+    "recno": 218571,
+    "name": "Dag Jørgen Hveem",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 46410424",
+    "zip": "4950 RISØR",
+    "address": "Leideren 46",
+    "gender": "Mann",
+    "publicMail": "dag.j.hveem@bi.no"
   },
   {
     "recno": 217209,
@@ -930,8 +1230,8 @@
     "title": null,
     "privateMail": "daniel_kh@live.no",
     "mobilePhone": "+47 98090120",
-    "zip": "3719 SKIEN",
-    "address": "Setervegen 17",
+    "zip": "7030 TRONDHEIM",
+    "address": "Klæbuveien 73",
     "gender": "Mann",
     "publicMail": "daniel.kittilsen.henriksen@t-fk.no"
   },
@@ -1008,16 +1308,28 @@
     "publicMail": "e-baas@frisurf.no"
   },
   {
+    "recno": 218496,
+    "name": "Eli Skaiaa",
+    "phone": "+47 37 04 11 52",
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": "4885 GRIMSTAD",
+    "address": "Myravn. 18",
+    "gender": "Kvinne",
+    "publicMail": "eli@skaiaa.net"
+  },
+  {
     "recno": 218212,
     "name": "Eli Taugbøl",
     "phone": null,
     "title": null,
     "privateMail": null,
-    "mobilePhone": null,
+    "mobilePhone": "+47 996 47 076",
     "zip": "3848 MORGEDAL",
     "address": "Huvestadvegen 214 A",
     "gender": "Mann",
-    "publicMail": null
+    "publicMail": "eli.gullsmed@gmail.com"
   },
   {
     "recno": 217117,
@@ -1144,7 +1456,7 @@
     "name": "Ellen Kløverød",
     "phone": null,
     "title": null,
-    "privateMail": null,
+    "privateMail": "ellen.klovero@icloud.com",
     "mobilePhone": "+47 906 82 638",
     "zip": "3748 SILJAN",
     "address": "Elgstien 10 ",
@@ -1173,7 +1485,7 @@
     "zip": "3850 KVITESEID",
     "address": "Kviteseidvegen 774 B",
     "gender": "Kvinne",
-    "publicMail": "ellen.oddrun.smenes@t-fk.no"
+    "publicMail": "ellen.smenes@gmail.com"
   },
   {
     "recno": 217190,
@@ -1260,6 +1572,18 @@
     "publicMail": "erling.laland@t-fk.no"
   },
   {
+    "recno": 218465,
+    "name": "Espen Alf Halvorsen",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 93005737",
+    "zip": "4645 NODELAND",
+    "address": "Prestebakken 16",
+    "gender": "Mann",
+    "publicMail": "espen.alf.halvorsen@kristiansand.kommune.no"
+  },
+  {
     "recno": 200429,
     "name": "Eva Ebersten Ulvin",
     "phone": null,
@@ -1268,6 +1592,30 @@
     "mobilePhone": "+47 99 61 44 01",
     "zip": "3715 SKIEN",
     "address": "Lammersgt. 15",
+    "gender": "Kvinne",
+    "publicMail": null
+  },
+  {
+    "recno": 218650,
+    "name": "Eva Gulbrandsen Flatland",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 90968209",
+    "zip": null,
+    "address": null,
+    "gender": "Kvinne",
+    "publicMail": "evaflat18@hotmail.com"
+  },
+  {
+    "recno": 218549,
+    "name": "Eva Hansen",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 46500757",
+    "zip": "3770 KRAGERØ",
+    "address": "Kragerøveien 218",
     "gender": "Kvinne",
     "publicMail": null
   },
@@ -1322,12 +1670,12 @@
   {
     "recno": 218248,
     "name": "Frank Lien",
-    "phone": null,
+    "phone": "+47 35 04 58 03",
     "title": null,
-    "privateMail": null,
-    "mobilePhone": "+47 35 04 58 03",
+    "privateMail": "f.e.lien@online.no",
+    "mobilePhone": "+47 416 25 198",
     "zip": "3855 TREUNGEN",
-    "address": "Haugsjåsund",
+    "address": "Haugsjåsund 346",
     "gender": "Kvinne",
     "publicMail": null
   },
@@ -1404,6 +1752,18 @@
     "publicMail": "grheller@online.no"
   },
   {
+    "recno": 218458,
+    "name": "Grethe Vrålstad Hansen",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 99472010",
+    "zip": null,
+    "address": null,
+    "gender": "Kvinne",
+    "publicMail": "grethe.vralstad.hansen@tinn.kommune.no"
+  },
+  {
     "recno": 200381,
     "name": "Gry Anette Rekanes Amundsen",
     "phone": null,
@@ -1442,12 +1802,12 @@
   {
     "recno": 217072,
     "name": "Gunleif Oland",
-    "phone": null,
+    "phone": "+47 48009090",
     "title": null,
     "privateMail": null,
     "mobilePhone": null,
-    "zip": null,
-    "address": null,
+    "zip": "3840 SELJORD",
+    "address": "Jakob Naadlandsveg 64 a",
     "gender": "Mann",
     "publicMail": "guola@mattilsynet.no"
   },
@@ -1492,12 +1852,12 @@
     "name": "Gunn Nicolaysen Gundersen",
     "phone": "+47 35 98 30 71 ",
     "title": null,
-    "privateMail": null,
+    "privateMail": "gunn.n.gundersen@kebas.no",
     "mobilePhone": "+47 913 80 256 ",
     "zip": "3770 KRAGERØ",
     "address": "Bekkedalsveien 29 ",
     "gender": "Kvinne",
-    "publicMail": null
+    "publicMail": "Gunn.Nicolaysen.Gundersen@kragero.kommune.no"
   },
   {
     "recno": 217111,
@@ -1620,11 +1980,23 @@
     "publicMail": "gunvor.strand@nenett.no"
   },
   {
+    "recno": 218380,
+    "name": "Guro Haatveit Pettersen",
+    "phone": "+47 91718185",
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": "3830 Ulefoss",
+    "address": "Grønsteinvegen 63",
+    "gender": "Kvinne",
+    "publicMail": "g-petter@online.no"
+  },
+  {
     "recno": 200168,
     "name": "Hallgeir Ofte",
     "phone": null,
     "title": null,
-    "privateMail": "hallgeir.ofte@gmail.com",
+    "privateMail": "hallgeirofte@gmail.com",
     "mobilePhone": "+47 90 13 38 01 ",
     "zip": "3840 SELJORD",
     "address": "Bygleåsen 6",
@@ -1648,7 +2020,7 @@
     "name": "Halvor Dahle",
     "phone": null,
     "title": null,
-    "privateMail": null,
+    "privateMail": "Halvor.Dahle@hotmail.com",
     "mobilePhone": "+47 971 69 990",
     "zip": "3855 TREUNGEN",
     "address": null,
@@ -1680,6 +2052,18 @@
     "publicMail": null
   },
   {
+    "recno": 218366,
+    "name": "Hanne Lise Kåsen",
+    "phone": "+47 97756408",
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": "3841 Flatdal",
+    "address": "Åslandsvegen 10",
+    "gender": "Kvinne",
+    "publicMail": "hakaasen@online.no"
+  },
+  {
     "recno": 217074,
     "name": "Hanne Nordgaard",
     "phone": null,
@@ -1704,6 +2088,18 @@
     "publicMail": null
   },
   {
+    "recno": 218577,
+    "name": "Hannelore Karlsen",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 92462619",
+    "zip": "4985 VEGÅRSHEI",
+    "address": "Gamle Skeimovei 55",
+    "gender": "Kvinne",
+    "publicMail": "hanne.lore@hotmail.no"
+  },
+  {
     "recno": 218136,
     "name": "Hans Christian Kåsa",
     "phone": null,
@@ -1719,7 +2115,7 @@
     "recno": 218145,
     "name": "Hans Edvard Askjer",
     "phone": null,
-    "title": "Askjer",
+    "title": "Fylkesvaraordfører",
     "privateMail": null,
     "mobilePhone": "+47 95041887",
     "zip": "3746 SKIEN",
@@ -1744,12 +2140,12 @@
     "name": "Hans Martin Gullhaug",
     "phone": null,
     "title": null,
-    "privateMail": "hans-mg@online.no",
+    "privateMail": null,
     "mobilePhone": "+47 90766670",
     "zip": "3930 PORSGRUNN",
     "address": "Heggelia 4",
     "gender": "Mann",
-    "publicMail": null
+    "publicMail": "hans-mg@online.no"
   },
   {
     "recno": 217192,
@@ -1757,11 +2153,23 @@
     "phone": null,
     "title": null,
     "privateMail": null,
-    "mobilePhone": null,
+    "mobilePhone": "+47 90545710",
     "zip": null,
     "address": null,
     "gender": "Mann",
-    "publicMail": "hansmartin@gjerstad.org"
+    "publicMail": "h.ulltveit@m3n.no"
+  },
+  {
+    "recno": 218484,
+    "name": "Hans Olav Blakstad",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 932 30 061",
+    "zip": null,
+    "address": null,
+    "gender": "Mann",
+    "publicMail": "hans.olav.blakstad@froland.kommune.no"
   },
   {
     "recno": 208915,
@@ -1769,11 +2177,11 @@
     "phone": "+47 35 95 70 10",
     "title": null,
     "privateMail": "hans.sundsvalen@sauherad.kommune.no",
-    "mobilePhone": "+47 91 12 01 79",
+    "mobilePhone": "+47 9 120 79",
     "zip": "3820 NORDAGUTU",
     "address": "Tveitenvegen 22",
     "gender": "Mann",
-    "publicMail": null
+    "publicMail": "hans.sundsvalen@t-fk.no"
   },
   {
     "recno": 200152,
@@ -1798,6 +2206,18 @@
     "address": null,
     "gender": "Mann",
     "publicMail": "hs@bmbjarnason.no"
+  },
+  {
+    "recno": 218495,
+    "name": "Hege Bjerke Erlandsen",
+    "phone": "+47 37 04 43 02",
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 922 38 598",
+    "zip": "4885 GRIMSTAD",
+    "address": "Moi Moner 88",
+    "gender": "Kvinne",
+    "publicMail": null
   },
   {
     "recno": 217031,
@@ -1884,14 +2304,38 @@
     "publicMail": null
   },
   {
+    "recno": 218551,
+    "name": "Helen Bøe",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 48366608",
+    "zip": null,
+    "address": null,
+    "gender": "Kvinne",
+    "publicMail": "helen.boe@kragero.kommune.no"
+  },
+  {
+    "recno": 218576,
+    "name": "Helga Raudsandmoen",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 91823317",
+    "zip": "4985 VEGÅRSHEI",
+    "address": "Fjordbygdveien 1673",
+    "gender": "Kvinne",
+    "publicMail": "helgaraudsandmoen@hotmail.com"
+  },
+  {
     "recno": 217085,
     "name": "Helge Haugenes",
     "phone": null,
     "title": null,
-    "privateMail": null,
-    "mobilePhone": null,
-    "zip": null,
-    "address": null,
+    "privateMail": "helhaug4@online.no",
+    "mobilePhone": "+47 91105022",
+    "zip": "4985 VEGÅRSHEI",
+    "address": "Presteveien 1600",
     "gender": "Mann",
     "publicMail": "helge.haugenes@konsmohus.no"
   },
@@ -1996,12 +2440,12 @@
     "name": "Hilde Alice Vågslid",
     "phone": null,
     "title": null,
-    "privateMail": "hilde.alice.vagslid@tokke.kommune.no",
+    "privateMail": null,
     "mobilePhone": "+47 99 02 00 34",
     "zip": null,
     "address": null,
     "gender": "Kvinne",
-    "publicMail": null
+    "publicMail": "hilde.alice.vagslid@tokke.kommune.no"
   },
   {
     "recno": 200471,
@@ -2028,6 +2472,30 @@
     "publicMail": "inga.grythe@t-fk.no"
   },
   {
+    "recno": 218578,
+    "name": "Inge Lines",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 90155010",
+    "zip": "4985 VEGÅRSHEI",
+    "address": "Øytjennbakkane 36",
+    "gender": "Mann",
+    "publicMail": "inge.lines@gmail.com"
+  },
+  {
+    "recno": 218449,
+    "name": "Inge Magnus Evja",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 91712680",
+    "zip": null,
+    "address": null,
+    "gender": "Mann",
+    "publicMail": "inge.magnus.evja@hotmail.no"
+  },
+  {
     "recno": 218150,
     "name": "Inge Margit Støa",
     "phone": null,
@@ -2038,6 +2506,18 @@
     "address": "Kleppenvegen 31",
     "gender": "Kvinne",
     "publicMail": null
+  },
+  {
+    "recno": 218529,
+    "name": "Ingebjørg Jakola Lillemoen",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 90577232",
+    "zip": "3960 STATHELLE",
+    "address": "Baldersvei 2",
+    "gender": "Kvinne",
+    "publicMail": "ingebjorg.lillemoen@bamble.kommune.no"
   },
   {
     "recno": 218339,
@@ -2124,6 +2604,18 @@
     "publicMail": null
   },
   {
+    "recno": 218530,
+    "name": "Ingjerd Abrahamsen Michaelis",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 90647869",
+    "zip": "3970 LANGESUND",
+    "address": "Nustadringen 1",
+    "gender": "Kvinne",
+    "publicMail": null
+  },
+  {
     "recno": 217109,
     "name": "Ingrid Brubakken",
     "phone": null,
@@ -2142,10 +2634,10 @@
     "title": null,
     "privateMail": null,
     "mobilePhone": "+47 97645361",
-    "zip": "4864 ÅMLI",
-    "address": "Skulehuskleiva 76",
+    "zip": "4865 ÅMLI",
+    "address": "Skulehuskleiva 26",
     "gender": "Kvinne",
-    "publicMail": null
+    "publicMail": "n-k-f@frisurf.no"
   },
   {
     "recno": 216908,
@@ -2169,7 +2661,19 @@
     "zip": "3804 BØ I TELEMARK",
     "address": "Torvills veg 9",
     "gender": "Kvinne",
-    "publicMail": null
+    "publicMail": "ingunnskalstad@hotmail.com"
+  },
+  {
+    "recno": 218485,
+    "name": "Iren Pernille Stahl Strand",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 905 00 493",
+    "zip": null,
+    "address": null,
+    "gender": "Kvinne",
+    "publicMail": "pernille.strand@froland.kommune.no"
   },
   {
     "recno": 218345,
@@ -2220,6 +2724,18 @@
     "publicMail": "ivar.moen@politiker.porsgrunn.no"
   },
   {
+    "recno": 218544,
+    "name": "Iver Juel",
+    "phone": null,
+    "title": null,
+    "privateMail": "iver.juel@kragero.kommune.no",
+    "mobilePhone": "+47 91881989",
+    "zip": "3770 KRAGERØ",
+    "address": "Galeioddvn. 2 E",
+    "gender": "Mann",
+    "publicMail": "iver.juel@hotmail.no"
+  },
+  {
     "recno": 200170,
     "name": "Jacob Andreas Søreide",
     "phone": null,
@@ -2230,6 +2746,18 @@
     "address": "Bolkesjø ",
     "gender": "Mann",
     "publicMail": "jacob.andreas.soreide@t-fk.no"
+  },
+  {
+    "recno": 218734,
+    "name": "Jacob Handegard",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 41528698",
+    "zip": "4848 ARENDAL",
+    "address": "Botteråsveien 22",
+    "gender": "Mann",
+    "publicMail": "jocob.handegard@venstre.no"
   },
   {
     "recno": 217171,
@@ -2244,6 +2772,42 @@
     "publicMail": "jaaskela@online.no"
   },
   {
+    "recno": 218470,
+    "name": "Jan Cato Larsen",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 46422429",
+    "zip": "4645 NODELAND",
+    "address": "Gamle Kuliaveg 16",
+    "gender": "Mann",
+    "publicMail": null
+  },
+  {
+    "recno": 218469,
+    "name": "Jan Kåre Haugland",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 41100990",
+    "zip": "4645 NODELAND",
+    "address": "Fagermoen 9a",
+    "gender": null,
+    "publicMail": null
+  },
+  {
+    "recno": 218550,
+    "name": "Jan Petter Abrahamsen",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 91740788",
+    "zip": "3770 KRAGERØ",
+    "address": "Vestre Gumøy",
+    "gender": "Mann",
+    "publicMail": "jan-petter.abrahamsen@no.abb.com"
+  },
+  {
     "recno": 217832,
     "name": "Jan Schiøtz",
     "phone": null,
@@ -2256,16 +2820,40 @@
     "publicMail": null
   },
   {
+    "recno": 218414,
+    "name": "Jan Stubstad",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": null,
+    "address": null,
+    "gender": "Mann",
+    "publicMail": "stubstad@norwaycom.no"
+  },
+  {
     "recno": 209869,
     "name": "Jan Thorsen",
     "phone": "+47 +47 97667590",
     "title": null,
-    "privateMail": null,
+    "privateMail": "nome.jan.thorsen@gmail.com",
     "mobilePhone": null,
     "zip": "3830 ULEFOSS",
     "address": "Sverdsteinvegen 26",
     "gender": "Mann",
     "publicMail": "jan.thorsen@bondelaget.no"
+  },
+  {
+    "recno": 218511,
+    "name": "Jan Willy Jensen",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 90880888",
+    "zip": "4884 GRIMSTAD",
+    "address": "Hauene 10",
+    "gender": "Mann",
+    "publicMail": "j.willy@online.no"
   },
   {
     "recno": 200555,
@@ -2328,14 +2916,26 @@
     "publicMail": "Johan.Tonnes.Lochstoer@t-fk.no"
   },
   {
+    "recno": 218356,
+    "name": "John Olav Haugetuft",
+    "phone": "+47 90156113",
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": "3844 Åmotsdal",
+    "address": "Sudbøvegen 26",
+    "gender": "Mann",
+    "publicMail": "jol-haug@online.no"
+  },
+  {
     "recno": 217091,
     "name": "John Peder Madsen",
     "phone": null,
     "title": null,
     "privateMail": null,
-    "mobilePhone": null,
-    "zip": null,
-    "address": null,
+    "mobilePhone": "+47 90854135",
+    "zip": "4985 VEGÅRSHEI",
+    "address": "Heiveien 867",
     "gender": "Mann",
     "publicMail": "jp@magnemadsen.no"
   },
@@ -2385,7 +2985,7 @@
     "zip": "3760 NESLANDSVATN",
     "address": null,
     "gender": "Mann",
-    "publicMail": null
+    "publicMail": "j.nesland@hotmail.com"
   },
   {
     "recno": 200371,
@@ -2404,12 +3004,12 @@
     "name": "Jon Hustveit Mælandsmo",
     "phone": null,
     "title": null,
-    "privateMail": "jo-maela@online.no",
+    "privateMail": null,
     "mobilePhone": "+47 41 50 17 71",
     "zip": "3677 NOTODDEN",
     "address": "Nordre Vestsidaveg 104",
     "gender": "Mann",
-    "publicMail": null
+    "publicMail": "jo-maela@online.no"
   },
   {
     "recno": 218214,
@@ -2421,7 +3021,7 @@
     "zip": "3853 VRÅDAL",
     "address": "Kviteseidvegen 1822",
     "gender": "Mann",
-    "publicMail": null
+    "publicMail": "jon.ingebretsen@t-fk.no"
   },
   {
     "recno": 218203,
@@ -2429,11 +3029,11 @@
     "phone": null,
     "title": null,
     "privateMail": null,
-    "mobilePhone": null,
+    "mobilePhone": "+47 91365047",
     "zip": "3960 STATHELLE",
     "address": "Skauveien 3",
     "gender": "Mann",
-    "publicMail": null
+    "publicMail": "jon.flolo@bamble.kommune.no"
   },
   {
     "recno": 217164,
@@ -2457,7 +3057,7 @@
     "zip": "3770 KRAGERØ",
     "address": "Vafossveien 24 ",
     "gender": "Mann",
-    "publicMail": null
+    "publicMail": "jone.blikra@t-fk.no"
   },
   {
     "recno": 200419,
@@ -2484,6 +3084,18 @@
     "publicMail": "jorunn.tisjo@t-fk.no"
   },
   {
+    "recno": 218771,
+    "name": "Jorunn Tisjø",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 952 24 520",
+    "zip": "3766 SANNIDAL",
+    "address": "Nordre Holtesletta 20",
+    "gender": "Kvinne",
+    "publicMail": "jorunn.tisjo@t-fk.no"
+  },
+  {
     "recno": 200437,
     "name": "Jostein Gjærum",
     "phone": null,
@@ -2493,7 +3105,7 @@
     "zip": "3960 STATHELLE",
     "address": "Quinsgaardsgt. 29",
     "gender": "Mann",
-    "publicMail": null
+    "publicMail": "jostein@gjarum.net"
   },
   {
     "recno": 217179,
@@ -2520,6 +3132,18 @@
     "publicMail": "jlia@telefiber.no"
   },
   {
+    "recno": 218457,
+    "name": "Jørn Anderson",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 97690443",
+    "zip": null,
+    "address": null,
+    "gender": "Mann",
+    "publicMail": "Jorn.andersson@tinn.kommune.no"
+  },
+  {
     "recno": 200183,
     "name": "Jørund A. Ruud",
     "phone": "+47 35 91 73 98",
@@ -2530,6 +3154,18 @@
     "address": "Barnålveien 4",
     "gender": "Mann",
     "publicMail": "jorund.ruud@t-fk.no"
+  },
+  {
+    "recno": 218474,
+    "name": "Jørund Sagedal",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 901 10 574",
+    "zip": "4700 VENNESLA",
+    "address": "Høylandsvegen 77",
+    "gender": "Mann",
+    "publicMail": "jsage91@online.no"
   },
   {
     "recno": 217088,
@@ -2553,17 +3189,17 @@
     "zip": "3679 NOTODDEN",
     "address": "Søndre Skogenvei 4",
     "gender": "Kvinne",
-    "publicMail": null
+    "publicMail": "kari.a.torsteinson@t-fk.no"
   },
   {
     "recno": 200387,
-    "name": "Kari Fosso",
+    "name": "Kari K. Fosso",
     "phone": null,
     "title": null,
     "privateMail": "kari.fosso@kebas.no",
     "mobilePhone": "+47 40 09 18 07",
-    "zip": "3770 KRAGERØ",
-    "address": "Steinliveien 6",
+    "zip": "3791 KRAGERØ",
+    "address": "Postboks 226",
     "gender": "Kvinne",
     "publicMail": "Kari.Fosso@t-fk.no"
   },
@@ -2656,12 +3292,12 @@
     "name": "Kari-Anne Nordbø",
     "phone": null,
     "title": null,
-    "privateMail": "kariannenielsen@hotmail.com",
+    "privateMail": null,
     "mobilePhone": "+47 92427742",
     "zip": "3854 NISSEDAL",
     "address": "Nordbø",
     "gender": "Kvinne",
-    "publicMail": null
+    "publicMail": "kariannenielsen@hotmail.com"
   },
   {
     "recno": 218072,
@@ -2669,7 +3305,7 @@
     "phone": null,
     "title": null,
     "privateMail": null,
-    "mobilePhone": null,
+    "mobilePhone": "+47 97018444",
     "zip": "3750 DRANGEDAL",
     "address": "Lauvåsen 51",
     "gender": "Kvinne",
@@ -2729,7 +3365,7 @@
     "phone": null,
     "title": null,
     "privateMail": null,
-    "mobilePhone": null,
+    "mobilePhone": "+47 908 41 793",
     "zip": "3960 STATHELLE",
     "address": "Frosteveien 299",
     "gender": "Kvinne",
@@ -2741,11 +3377,23 @@
     "phone": null,
     "title": null,
     "privateMail": null,
-    "mobilePhone": null,
+    "mobilePhone": "+47 97142674",
     "zip": "3803 BØ I TELEMARK",
     "address": "Livegen 267",
     "gender": "Kvinne",
-    "publicMail": null
+    "publicMail": "karinhagen_@hotmail.com"
+  },
+  {
+    "recno": 218462,
+    "name": "Karin Nørstebø Meland",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 95991234",
+    "zip": null,
+    "address": null,
+    "gender": "Kvinne",
+    "publicMail": "karimela@online.no"
   },
   {
     "recno": 200519,
@@ -2776,12 +3424,12 @@
     "name": "Kathrine Haatvedt",
     "phone": null,
     "title": null,
-    "privateMail": "kathrinehaatvedt@hotmail.com",
+    "privateMail": null,
     "mobilePhone": "+47 95045575",
     "zip": "3660 RJUKAN",
     "address": "Sam Eydes gate 146",
     "gender": "Kvinne",
-    "publicMail": null
+    "publicMail": "kathrinehaatvedt@hotmail.com"
   },
   {
     "recno": 218078,
@@ -2820,6 +3468,18 @@
     "publicMail": null
   },
   {
+    "recno": 218566,
+    "name": "Kittel Røysland jr.",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 95760419",
+    "zip": "4950 RISØR",
+    "address": "Hødnebøveien 476",
+    "gender": "Mann",
+    "publicMail": "kitti-r@online.no"
+  },
+  {
     "recno": 209866,
     "name": "Kjell Abraham Sølverød",
     "phone": null,
@@ -2830,6 +3490,42 @@
     "address": "Rustadvegen 270",
     "gender": "Mann",
     "publicMail": "abrsoelv@online.no"
+  },
+  {
+    "recno": 218364,
+    "name": "Kjell Arne Roheim",
+    "phone": "+47 91118291",
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": "3835 SELJORD",
+    "address": "postboks 200",
+    "gender": "Mann",
+    "publicMail": "kjell.arne@dyrskun.no"
+  },
+  {
+    "recno": 218548,
+    "name": "Kjell Nygaard",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 92085189",
+    "zip": "3770 KRAGERØ",
+    "address": "Barnepikeveien 15",
+    "gender": "Mann",
+    "publicMail": "kjellny22@hotmail.no"
+  },
+  {
+    "recno": 218563,
+    "name": "Kjell Skarheim",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 90075320",
+    "zip": "4950 RISØR",
+    "address": "Leideren 28",
+    "gender": "Mann",
+    "publicMail": "k-skarhe@online.no"
   },
   {
     "recno": 217023,
@@ -2849,11 +3545,11 @@
     "phone": null,
     "title": null,
     "privateMail": null,
-    "mobilePhone": null,
+    "mobilePhone": "+47 97082376",
     "zip": "3841 FLATDAL",
     "address": "Åslandvegen 14",
     "gender": "Kvinne",
-    "publicMail": null
+    "publicMail": "kjellaug.westbye@gmail.com"
   },
   {
     "recno": 216907,
@@ -2976,6 +3672,18 @@
     "publicMail": "kristian.hanto@gmail.com"
   },
   {
+    "recno": 218569,
+    "name": "Kristian Willy Thorsen",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 45001990",
+    "zip": "4950 RISØR",
+    "address": "Almeveien 13 A",
+    "gender": "Mann",
+    "publicMail": "thorsen@live.no"
+  },
+  {
     "recno": 218313,
     "name": "Kristin Wåle",
     "phone": "+47 91512585",
@@ -3022,6 +3730,18 @@
     "address": null,
     "gender": "Mann",
     "publicMail": "kaatjoe@online.no"
+  },
+  {
+    "recno": 218500,
+    "name": "Laci Hege Laszlo",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": "4885 GRIMSTAD",
+    "address": "Klomreheia 15 B",
+    "gender": "Kvinne",
+    "publicMail": null
   },
   {
     "recno": 200411,
@@ -3084,12 +3804,48 @@
     "publicMail": "nag@advkjaer.no "
   },
   {
+    "recno": 218532,
+    "name": "Lars Kristian Rugtvedt",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 92620114",
+    "zip": "3960 STATHELLE",
+    "address": "Rugtvedtveien 87",
+    "gender": "Mann",
+    "publicMail": null
+  },
+  {
+    "recno": 218531,
+    "name": "Lars Kristian Rugvedt",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 92620114",
+    "zip": "3960 STATHELLE",
+    "address": "Rugtvedtveien 87",
+    "gender": "Mann",
+    "publicMail": null
+  },
+  {
+    "recno": 218508,
+    "name": "Lars Magne Tønnesøl",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": null,
+    "address": null,
+    "gender": "Mann",
+    "publicMail": null
+  },
+  {
     "recno": 218144,
     "name": "Lars Solbakken",
     "phone": null,
     "title": null,
     "privateMail": "la-solba@online.no",
-    "mobilePhone": "+47 916 82 998",
+    "mobilePhone": "+47 91682998",
     "zip": "3744 SKIEN",
     "address": "Vestre Einaren 12",
     "gender": "Mann",
@@ -3120,6 +3876,18 @@
     "publicMail": null
   },
   {
+    "recno": 218409,
+    "name": "Leif Oskar Hopland",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": null,
+    "address": null,
+    "gender": "Mann",
+    "publicMail": "leif.hopland@getmail.no "
+  },
+  {
     "recno": 218149,
     "name": "Lena Solli Sal",
     "phone": null,
@@ -3129,7 +3897,7 @@
     "zip": "3840 SELJORD",
     "address": "Skipperbakken 47",
     "gender": "Kvinne",
-    "publicMail": null
+    "publicMail": "lena.solli.sal@t-fk.no"
   },
   {
     "recno": 200374,
@@ -3147,13 +3915,25 @@
     "recno": 200367,
     "name": "Lise Wiik",
     "phone": "+47 35917283",
-    "title": "Fylkesvaraordfører",
+    "title": null,
     "privateMail": null,
     "mobilePhone": "+47 98118966",
     "zip": "3691 GRANSHERAD",
     "address": "Venåsvegen 203",
     "gender": "Kvinne",
     "publicMail": "lise.wiik@t-fk.no"
+  },
+  {
+    "recno": 218510,
+    "name": "Liv Andersen",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": "4815 SALTRØD",
+    "address": "Nedre Skibvig 3",
+    "gender": "Kvinne",
+    "publicMail": "land3@online.no"
   },
   {
     "recno": 217118,
@@ -3204,6 +3984,18 @@
     "publicMail": "mahmoud.farahmand@t-fk.no"
   },
   {
+    "recno": 218730,
+    "name": "Maiken Messel",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 99773063",
+    "zip": "4847 ARENDAL",
+    "address": "Vibeveien 5",
+    "gender": "Kvinne",
+    "publicMail": "maiken.messel@aust-agderfk.no"
+  },
+  {
     "recno": 218071,
     "name": "Maja Foss Five",
     "phone": null,
@@ -3216,6 +4008,18 @@
     "publicMail": "maja.foss.five@t-fk.no"
   },
   {
+    "recno": 218408,
+    "name": "Makvan Kasheikal",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": null,
+    "address": null,
+    "gender": "Mann",
+    "publicMail": "makvan.kasheikal@demokratene.no "
+  },
+  {
     "recno": 218142,
     "name": "Malin Aarhus Olsen",
     "phone": null,
@@ -3226,6 +4030,18 @@
     "address": "Skararudvegen 22",
     "gender": "Kvinne",
     "publicMail": "Malin.Aarhus.olsen@t-fk.no"
+  },
+  {
+    "recno": 218731,
+    "name": "Maren Smith Gahrsen",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 47909200",
+    "zip": "4810 EYDEHAVN",
+    "address": "Ringveien 4",
+    "gender": "Kvinne",
+    "publicMail": "maren-sm@online.no"
   },
   {
     "recno": 200470,
@@ -3250,6 +4066,18 @@
     "address": null,
     "gender": "Kvinne",
     "publicMail": "maria.andvik@getmail.no"
+  },
+  {
+    "recno": 218515,
+    "name": "Mariann Aabø",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 920 55 784",
+    "zip": "3750 DRANGEDAL",
+    "address": "Tørdalsveien 20",
+    "gender": "Kvinne",
+    "publicMail": "omnes4@online.no"
   },
   {
     "recno": 217167,
@@ -3300,6 +4128,18 @@
     "publicMail": null
   },
   {
+    "recno": 218486,
+    "name": "Marit Fosse Olsen",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 908 98 483",
+    "zip": null,
+    "address": null,
+    "gender": "Kvinne",
+    "publicMail": "marit.fosse.olsen@froland.kommune.no"
+  },
+  {
     "recno": 218215,
     "name": "Marlies Besler",
     "phone": null,
@@ -3309,26 +4149,26 @@
     "zip": "3803 BØ I TELEMARK",
     "address": "Livegen 219 B",
     "gender": "Kvinne",
-    "publicMail": null
+    "publicMail": "marlies.besler@t-fk.no"
   },
   {
     "recno": 218192,
-    "name": "Mats Erik Pettersen",
+    "name": "Mats Eirik Pettersen",
     "phone": null,
     "title": null,
-    "privateMail": null,
-    "mobilePhone": null,
+    "privateMail": "mars.eirik.p@gmail.com",
+    "mobilePhone": "+47 930 38 198",
     "zip": "3970 LANGESUND",
     "address": "Gjømleåsen 33",
     "gender": "Mann",
-    "publicMail": null
+    "publicMail": "mats.eirik.pettersen@t-fk.no"
   },
   {
     "recno": 218232,
     "name": "May Rita Flamsgård",
     "phone": null,
     "title": null,
-    "privateMail": null,
+    "privateMail": "gurine_flam@hotmail.com",
     "mobilePhone": "+47  938 83 677",
     "zip": "3830 ULEFOSS",
     "address": "Pilerødvegen 7",
@@ -3336,16 +4176,52 @@
     "publicMail": null
   },
   {
+    "recno": 218386,
+    "name": "May-Rita Flamsgård",
+    "phone": "+47 93883677",
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": "3830 Ulefoss",
+    "address": "Pilerødvegen7",
+    "gender": "Kvinne",
+    "publicMail": "gurine_flam@hotmail.com"
+  },
+  {
+    "recno": 218476,
+    "name": "Melissa Tveit",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 417 54 370",
+    "zip": "4700 VENNESLA",
+    "address": "Rakkestad 30",
+    "gender": "Kvinne",
+    "publicMail": "melissa.tveit@venstre.no"
+  },
+  {
     "recno": 218110,
     "name": "Merete Lia",
     "phone": null,
     "title": null,
-    "privateMail": null,
-    "mobilePhone": null,
-    "zip": "3937 PORSGRUNN",
-    "address": "Mauråsvegen 6 A",
+    "privateMail": "merete@fpu.no",
+    "mobilePhone": "+47 406 06 512",
+    "zip": "3944 PORSGRUNN",
+    "address": "Amund Tvetens veg 103",
     "gender": "Kvinne",
     "publicMail": null
+  },
+  {
+    "recno": 218389,
+    "name": "Merete Moe",
+    "phone": "+47 92062113",
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": "3830 ULEFOSS",
+    "address": "Kastevegen 29 ",
+    "gender": "Kvinne",
+    "publicMail": "meretem2@online.no"
   },
   {
     "recno": 200487,
@@ -3396,6 +4272,18 @@
     "publicMail": "mp@telemark.museum.no"
   },
   {
+    "recno": 218355,
+    "name": "Mette Aanderaa",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": "3841 FLATDAL",
+    "address": "Natadalvegen 174",
+    "gender": "Kvinne",
+    "publicMail": "mette@natadal.no"
+  },
+  {
     "recno": 218193,
     "name": "Mogens Iversen",
     "phone": null,
@@ -3405,7 +4293,19 @@
     "zip": "3840 SELJORD",
     "address": "Skipperbakken 64",
     "gender": "Mann",
-    "publicMail": null
+    "publicMail": "mogensiversen@yahoo.no"
+  },
+  {
+    "recno": 218538,
+    "name": "Mona Hoel",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 90543336",
+    "zip": "4980 GJERSTAD",
+    "address": "Lindberga 44",
+    "gender": "Kvinne",
+    "publicMail": "mona@gjerstad.org"
   },
   {
     "recno": 218094,
@@ -3418,6 +4318,18 @@
     "address": "Søndre Skogenvei 4",
     "gender": "Mann",
     "publicMail": null
+  },
+  {
+    "recno": 218564,
+    "name": "Morten Sivertsen",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 91336351",
+    "zip": "4950 RISØR",
+    "address": "Åkvågveien 510",
+    "gender": "Mann",
+    "publicMail": "mor-siv@online.no"
   },
   {
     "recno": 200179,
@@ -3442,6 +4354,18 @@
     "address": "Sauheradvegen 1926",
     "gender": "Mann",
     "publicMail": null
+  },
+  {
+    "recno": 218537,
+    "name": "Nils Audun Gryting",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 41415940",
+    "zip": "4993 SUNDEBRU",
+    "address": "Brokelandsheia terrasse 24",
+    "gender": "Mann",
+    "publicMail": "nilsaudungryting@gmail.com"
   },
   {
     "recno": 200415,
@@ -3480,6 +4404,18 @@
     "publicMail": null
   },
   {
+    "recno": 218547,
+    "name": "Nina Haugland",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 91379248",
+    "zip": "3780 SKÅTØY",
+    "address": "Skåtøyveien 27",
+    "gender": "Kvinne",
+    "publicMail": "nina.helene.haugland@kragero.kommune.no"
+  },
+  {
     "recno": 217217,
     "name": "Nina Høst",
     "phone": null,
@@ -3490,6 +4426,42 @@
     "address": null,
     "gender": "Kvinne",
     "publicMail": "nina-hoe@online.no"
+  },
+  {
+    "recno": 218512,
+    "name": "Nina Roland",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": null,
+    "address": null,
+    "gender": "Kvinne",
+    "publicMail": "nina@niro.as"
+  },
+  {
+    "recno": 218473,
+    "name": "Nina Schei Ledang",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 911 82 840",
+    "zip": "4700 VENNESLA",
+    "address": "Erlevegen 62",
+    "gender": "Kvinne",
+    "publicMail": "nina.ledang@kiv.no"
+  },
+  {
+    "recno": 218568,
+    "name": "Nina Th. Christensen",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 97606760",
+    "zip": "4950 RISØR",
+    "address": "Rådyrstien 5",
+    "gender": "Kvinne",
+    "publicMail": "nina@eksaktregnskap.no"
   },
   {
     "recno": 200171,
@@ -3516,6 +4488,18 @@
     "publicMail": null
   },
   {
+    "recno": 218475,
+    "name": "Odd Reidar Loland",
+    "phone": "+47 38 13 95 16",
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 971 59 517",
+    "zip": "4715 ØVREBØ",
+    "address": "Vormbrokka 16",
+    "gender": "Mann",
+    "publicMail": "odd.r.loland@hotmail.com"
+  },
+  {
     "recno": 217093,
     "name": "Odd Viktor Jørgensen",
     "phone": null,
@@ -3538,6 +4522,30 @@
     "address": null,
     "gender": "Mann",
     "publicMail": "Oddbjorn.Hagen@vennesla-kommunestyre.no"
+  },
+  {
+    "recno": 218391,
+    "name": "Ola Vea Gustavsen",
+    "phone": "+47 91178315",
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": "3830 ULEFOSS",
+    "address": "ola.vea.gustavsen@sauherad.kommune.no",
+    "gender": "Mann",
+    "publicMail": "ola.vea.gustavsen@sauherad.kommune.no"
+  },
+  {
+    "recno": 218477,
+    "name": "Olav Eivindson",
+    "phone": "+47 38 15 55 57",
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 476 63 356",
+    "zip": "4700 VENNESLA",
+    "address": "Drivenesvegen 2",
+    "gender": "Mann",
+    "publicMail": "olaveivi@gmail.com"
   },
   {
     "recno": 218321,
@@ -3653,11 +4661,23 @@
     "phone": "+47 35 54 26 20",
     "title": null,
     "privateMail": null,
-    "mobilePhone": null,
+    "mobilePhone": "+47 92828287",
     "zip": "3729 SKIEN",
     "address": "Tveitanvegen 152",
     "gender": "Mann",
-    "publicMail": null
+    "publicMail": "oleamlie@hotmail.com"
+  },
+  {
+    "recno": 218552,
+    "name": "Ole Johan Moen",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 93255886",
+    "zip": "3770 KRAGERØ",
+    "address": "Hestehagen 22 A",
+    "gender": "Mann",
+    "publicMail": "ole.johan.moen@kragero.kommune.no"
   },
   {
     "recno": 216912,
@@ -3725,7 +4745,7 @@
     "phone": null,
     "title": null,
     "privateMail": null,
-    "mobilePhone": null,
+    "mobilePhone": "+47 98672695",
     "zip": "3960 STATHELLE",
     "address": "Herreveirn 151",
     "gender": "Mann",
@@ -3754,6 +4774,18 @@
     "address": null,
     "gender": "Kvinne",
     "publicMail": "olly.k@online.no"
+  },
+  {
+    "recno": 218649,
+    "name": "Oscar Johan Garnes",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 90188544",
+    "zip": null,
+    "address": null,
+    "gender": "Mann",
+    "publicMail": "oscar.garnes@vinje.kommune.no"
   },
   {
     "recno": 218099,
@@ -3804,6 +4836,18 @@
     "publicMail": "peratell@getmail.no"
   },
   {
+    "recno": 218559,
+    "name": "Per Anders Østerholt",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 90530565",
+    "zip": "4950 RISØR",
+    "address": "Lille Trappegata 12",
+    "gender": "Mann",
+    "publicMail": "oesterho@frisurf.no"
+  },
+  {
     "recno": 216922,
     "name": "Per Edvin Ruud",
     "phone": null,
@@ -3840,6 +4884,18 @@
     "publicMail": "per.lykke@t-fk.no"
   },
   {
+    "recno": 218503,
+    "name": "Per Martin Strand",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": null,
+    "address": null,
+    "gender": "Mann",
+    "publicMail": null
+  },
+  {
     "recno": 217017,
     "name": "Per Oddvar Marheim Isaksen",
     "phone": null,
@@ -3862,6 +4918,54 @@
     "address": null,
     "gender": "Mann",
     "publicMail": "pesoll2@online.no"
+  },
+  {
+    "recno": 218562,
+    "name": "Per Søderlind",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 91641190",
+    "zip": "4950 RISØR",
+    "address": "Frikirkegata 6",
+    "gender": "Mann",
+    "publicMail": "per@soderlind.no"
+  },
+  {
+    "recno": 218504,
+    "name": "Per Øyvind Erlandsen",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": null,
+    "address": null,
+    "gender": "Mann",
+    "publicMail": null
+  },
+  {
+    "recno": 218732,
+    "name": "Per Åge Nilsen",
+    "phone": "+47 37038616",
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 99276442",
+    "zip": "4820 FROLAND",
+    "address": "Stemmen 11",
+    "gender": "Mann",
+    "publicMail": "per.aage.nilsen@arbeiderpartiet.no"
+  },
+  {
+    "recno": 218509,
+    "name": "Per-Jakob Haakstad",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": null,
+    "address": null,
+    "gender": "Mann",
+    "publicMail": "pjh@h-co.no"
   },
   {
     "recno": 217216,
@@ -3892,12 +4996,12 @@
     "name": "Ragnar Anundsen",
     "phone": null,
     "title": null,
-    "privateMail": "unanunds@online.no",
+    "privateMail": null,
     "mobilePhone": "+47 91719136",
     "zip": "3925 PORSGRUNN",
     "address": "Konvallvegen 39",
     "gender": "Mann",
-    "publicMail": null
+    "publicMail": "unanunds@online.no"
   },
   {
     "recno": 216909,
@@ -3972,6 +5076,18 @@
     "publicMail": null
   },
   {
+    "recno": 218412,
+    "name": "Randi Bruvik Dahl",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": null,
+    "address": null,
+    "gender": "Kvinne",
+    "publicMail": "randibruvik@gmail.com "
+  },
+  {
     "recno": 217049,
     "name": "Randi Enger Bråthen",
     "phone": null,
@@ -3982,6 +5098,18 @@
     "address": null,
     "gender": "Kvinne",
     "publicMail": "per1939@gmail.com"
+  },
+  {
+    "recno": 218561,
+    "name": "Randi Gunsteinsen",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 92862283",
+    "zip": "4950 RISØR",
+    "address": "Åkvågveien 372",
+    "gender": "Kvinne",
+    "publicMail": "randi.gunsteinsen@austagderfk.no"
   },
   {
     "recno": 217029,
@@ -4008,6 +5136,30 @@
     "publicMail": null
   },
   {
+    "recno": 218460,
+    "name": "Reidun Marie Martinsen",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 91359520",
+    "zip": null,
+    "address": null,
+    "gender": "Kvinne",
+    "publicMail": "myanmar@online.no"
+  },
+  {
+    "recno": 218415,
+    "name": "Reidun Westergren",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": null,
+    "address": null,
+    "gender": "Kvinne",
+    "publicMail": "reiwes@hotmail.com "
+  },
+  {
     "recno": 218111,
     "name": "Rine Negård",
     "phone": null,
@@ -4029,7 +5181,7 @@
     "zip": "3675 NOTODDEN",
     "address": "Bergstuguvegen 49",
     "gender": "Mann",
-    "publicMail": null
+    "publicMail": "roald.stykket@fellesforbundet.org"
   },
   {
     "recno": 217219,
@@ -4044,12 +5196,36 @@
     "publicMail": "Roar.Bakke@risor.vgs.no"
   },
   {
-    "recno": 218238,
-    "name": "Roger Heimdal",
+    "recno": 218416,
+    "name": "Roar Tufteland",
     "phone": null,
     "title": null,
     "privateMail": null,
     "mobilePhone": null,
+    "zip": null,
+    "address": null,
+    "gender": "Mann",
+    "publicMail": "roar.tufteland@gmail.com "
+  },
+  {
+    "recno": 218519,
+    "name": "Robert Cornels Nordli",
+    "phone": null,
+    "title": "Ordfører",
+    "privateMail": null,
+    "mobilePhone": "+47 95759990",
+    "zip": null,
+    "address": null,
+    "gender": "Mann",
+    "publicMail": "robert.cornels.nordli@arendal.kommune.no"
+  },
+  {
+    "recno": 218238,
+    "name": "Roger Heimdal",
+    "phone": null,
+    "title": null,
+    "privateMail": "rh@sras.no",
+    "mobilePhone": "+47 9005 7176",
     "zip": "3678 NOTODDEN",
     "address": "Kanalveien 15",
     "gender": "Mann",
@@ -4116,6 +5292,30 @@
     "publicMail": "Ronny.sabo@no.abb.com"
   },
   {
+    "recno": 218560,
+    "name": "Rune Hansen",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 98210596",
+    "zip": "4950 RISØR",
+    "address": "Kranveien 6",
+    "gender": "Mann",
+    "publicMail": "rune.hansen@skanska.no"
+  },
+  {
+    "recno": 218378,
+    "name": "Ruth Halvorsen",
+    "phone": "+47 48285475",
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": "3825 LUNDE",
+    "address": "Hovedgata 44",
+    "gender": "Kvinne",
+    "publicMail": "ruth.halvorsen@gmail.com"
+  },
+  {
     "recno": 218295,
     "name": "Ruth Ryste",
     "phone": null,
@@ -4149,7 +5349,7 @@
     "zip": "3660 RJUKAN",
     "address": "Ekornveien 13 B",
     "gender": "Kvinne",
-    "publicMail": null
+    "publicMail": "sandra.yeomans@t-fk.no"
   },
   {
     "recno": 218104,
@@ -4161,7 +5361,7 @@
     "zip": "3790 HELLE",
     "address": "Fossingveien 57",
     "gender": "Kvinne",
-    "publicMail": null
+    "publicMail": "sarahlille@hotmail.com"
   },
   {
     "recno": 200413,
@@ -4174,6 +5374,18 @@
     "address": "Nedre Maihaugen 3",
     "gender": "Kvinne",
     "publicMail": null
+  },
+  {
+    "recno": 218488,
+    "name": "Sigbjørn Boye",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 480 03 264",
+    "zip": null,
+    "address": null,
+    "gender": "Mann",
+    "publicMail": "sigbjorn.boye@froland.kommune.no"
   },
   {
     "recno": 200132,
@@ -4234,6 +5446,30 @@
     "address": null,
     "gender": "Kvinne",
     "publicMail": "signe.lonar@me.com"
+  },
+  {
+    "recno": 218651,
+    "name": "Sigrid Nykos",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 91306472",
+    "zip": null,
+    "address": null,
+    "gender": "Kvinne",
+    "publicMail": null
+  },
+  {
+    "recno": 218354,
+    "name": "Sigrund Dyrland Eidal",
+    "phone": "+47 416 92 892",
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": "3844 ÅMOTSDAL",
+    "address": "Åmotsdalsvegen 1295",
+    "gender": "Kvinne",
+    "publicMail": "sigrunde@telefiber.no"
   },
   {
     "recno": 218077,
@@ -4312,12 +5548,12 @@
     "name": "Solfrid Rui Slettebakken",
     "phone": null,
     "title": null,
-    "privateMail": "Solfrid.Slettebakken@kragero.kommune.no",
+    "privateMail": null,
     "mobilePhone": "+47 99 42 18 14",
     "zip": "3770 KRAGERØ",
     "address": "Bekkedalsveien 53",
     "gender": "Kvinne",
-    "publicMail": null
+    "publicMail": "Solfrid.Slettebakken@kragero.kommune.no"
   },
   {
     "recno": 217096,
@@ -4344,6 +5580,18 @@
     "publicMail": "dr26jo@online.no"
   },
   {
+    "recno": 218487,
+    "name": "Solfrid Aas",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 916 41 860",
+    "zip": null,
+    "address": null,
+    "gender": "Kvinne",
+    "publicMail": "solfrid.aas@hotmail.com"
+  },
+  {
     "recno": 200370,
     "name": "Solveig Nekstad Grave",
     "phone": null,
@@ -4356,6 +5604,18 @@
     "publicMail": "Solveig.Nekstad.Grave@t-fk.no"
   },
   {
+    "recno": 218468,
+    "name": "Solveig Nordkvist",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 90736187",
+    "zip": "4645 NODELAND",
+    "address": "Gjervoldstad 28",
+    "gender": "Kvinne",
+    "publicMail": "Solveig@sonotjenester.no"
+  },
+  {
     "recno": 200141,
     "name": "Solveig Sundbø Abrahamsen",
     "phone": null,
@@ -4366,6 +5626,30 @@
     "address": "Flatdalsvegen 867",
     "gender": "Kvinne",
     "publicMail": "Solveig.Sundbo.Abrahamsen@t-fk.no"
+  },
+  {
+    "recno": 218517,
+    "name": "Solveig Sætre",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": null,
+    "address": null,
+    "gender": "Kvinne",
+    "publicMail": null
+  },
+  {
+    "recno": 218572,
+    "name": "Solveig Vereide",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 92295626",
+    "zip": "4950 RISØR",
+    "address": "Barmsveien 430",
+    "gender": "Kvinne",
+    "publicMail": "solveig.vereide@risor.kommune.no"
   },
   {
     "recno": 200414,
@@ -4404,6 +5688,18 @@
     "publicMail": "stein@haugsjaa.no"
   },
   {
+    "recno": 218467,
+    "name": "Stein Vidar Eikholm",
+    "phone": "+47 38181863",
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 90724174",
+    "zip": "4647 BRENNÅSEN",
+    "address": "Vollevegen 59",
+    "gender": "Mann",
+    "publicMail": "Stein@anleggsvirksomhet.no "
+  },
+  {
     "recno": 200469,
     "name": "Steinar A. Miland",
     "phone": null,
@@ -4426,6 +5722,18 @@
     "address": "Storgata 21",
     "gender": "Mann",
     "publicMail": null
+  },
+  {
+    "recno": 218527,
+    "name": "Steinar Johnsen",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 97535526",
+    "zip": "3970 LANGESUND",
+    "address": "Parkveien 12",
+    "gender": "Mann",
+    "publicMail": "sjohns@broadpark.no"
   },
   {
     "recno": 216915,
@@ -4476,6 +5784,18 @@
     "publicMail": null
   },
   {
+    "recno": 218362,
+    "name": "Svein Forberg Liane",
+    "phone": "+47 907 31844",
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": "3840 Seljord",
+    "address": "Hønervegen 12",
+    "gender": "Mann",
+    "publicMail": "svein.liane@sweco.no"
+  },
+  {
     "recno": 218206,
     "name": "Svein H. Bakka",
     "phone": null,
@@ -4498,6 +5818,18 @@
     "address": null,
     "gender": "Mann",
     "publicMail": "sve-ha@online.no"
+  },
+  {
+    "recno": 218528,
+    "name": "Svein Inge Nyhus",
+    "phone": null,
+    "title": null,
+    "privateMail": "sveininge.nyhus@bamble.kommune.no",
+    "mobilePhone": "+47 91133961",
+    "zip": "3960 STATHELLE",
+    "address": "Gamle Rognsvei 101",
+    "gender": "Mann",
+    "publicMail": "sveisenny@gmail.com"
   },
   {
     "recno": 200502,
@@ -4524,6 +5856,30 @@
     "publicMail": "svein.martin.bergene@gmail.com"
   },
   {
+    "recno": 218461,
+    "name": "Svein Ole Antonsen",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 90649254",
+    "zip": null,
+    "address": null,
+    "gender": "Mann",
+    "publicMail": "soantons@online.no"
+  },
+  {
+    "recno": 218652,
+    "name": "Svein Rorgemoen",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 90611822",
+    "zip": null,
+    "address": null,
+    "gender": "Mann",
+    "publicMail": "sro@telefiber.no"
+  },
+  {
     "recno": 217103,
     "name": "Svein Tore Uldal",
     "phone": null,
@@ -4534,6 +5890,18 @@
     "address": null,
     "gender": "Mann",
     "publicMail": "svein.tore.uldal@politiker.porgsrunn.no"
+  },
+  {
+    "recno": 218375,
+    "name": "Sveinung Kjellemo",
+    "phone": "+47 48959801",
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": "3825 Lunde",
+    "address": "Strengenvegen 319",
+    "gender": "Mann",
+    "publicMail": "nome.sveinung.kjellemo@gmail.com"
   },
   {
     "recno": 218352,
@@ -4551,7 +5919,7 @@
     "recno": 200376,
     "name": "Sven Tore Løkslid",
     "phone": null,
-    "title": null,
+    "title": "Fylkesordfører",
     "privateMail": "stl@hjartdal.kommune.no",
     "mobilePhone": "+47 97 69 86 19",
     "zip": "3690 HJARTDAL",
@@ -4560,23 +5928,23 @@
     "publicMail": "Sven.Tore.Lokslid2@t-fk.no"
   },
   {
-    "recno": 218243,
+    "recno": 218184,
     "name": "Synnøve Lund",
-    "phone": "+47  35 53 79 81",
+    "phone": null,
     "title": null,
     "privateMail": null,
     "mobilePhone": null,
     "zip": "3729 SKIEN",
     "address": "Hollavegen 616",
     "gender": "Kvinne",
-    "publicMail": null
+    "publicMail": "sel@td.no"
   },
   {
-    "recno": 218184,
-    "name": "Synøve Lund",
-    "phone": null,
+    "recno": 218243,
+    "name": "Synnøve Lund",
+    "phone": "+47  35 53 79 81",
     "title": null,
-    "privateMail": null,
+    "privateMail": "sel@td.no",
     "mobilePhone": null,
     "zip": "3729 SKIEN",
     "address": "Hollavegen 616",
@@ -4608,6 +5976,18 @@
     "publicMail": "tg@vtk.no "
   },
   {
+    "recno": 218507,
+    "name": "Teodor Teistedal",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": null,
+    "address": null,
+    "gender": "Mann",
+    "publicMail": null
+  },
+  {
     "recno": 218351,
     "name": "Terje Nekstad",
     "phone": "+47 90223642",
@@ -4617,24 +5997,36 @@
     "zip": "3833 Vrådal",
     "address": "Stallanvegen 3",
     "gender": "Mann",
-    "publicMail": null
+    "publicMail": "bnekstad@gmail.com"
   },
   {
     "recno": 200404,
     "name": "Terje Norschau",
     "phone": null,
     "title": null,
-    "privateMail": "terje.norschau@globalmaritime.no",
+    "privateMail": null,
     "mobilePhone": "+47 97 59 34 85",
     "zip": "3950 BREVIK",
     "address": "Sandøyavegen 38",
     "gender": "Mann",
-    "publicMail": null
+    "publicMail": "terje.norschau@globalmaritime.no"
+  },
+  {
+    "recno": 218410,
+    "name": "Terje Pettersen",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": null,
+    "address": null,
+    "gender": null,
+    "publicMail": "tepett@online.no "
   },
   {
     "recno": 200137,
     "name": "Terje Riis-Johansen",
-    "phone": "+47 35 91 72 32",
+    "phone": null,
     "title": null,
     "privateMail": null,
     "mobilePhone": "+47 97 56 30 00",
@@ -4692,6 +6084,18 @@
     "publicMail": "thor.arne@heggtveit.no"
   },
   {
+    "recno": 218388,
+    "name": "Thor Johnsen Ullensvang",
+    "phone": "+47 90211515",
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": "3830 ULEFOSS",
+    "address": "Kanada 25 ",
+    "gender": "Mann",
+    "publicMail": "thoulle@online.no"
+  },
+  {
     "recno": 200133,
     "name": "Thorleif Fluer Vikre",
     "phone": null,
@@ -4721,11 +6125,11 @@
     "phone": null,
     "title": null,
     "privateMail": null,
-    "mobilePhone": null,
+    "mobilePhone": "+47 46944296",
     "zip": "3725 SKIEN",
     "address": "Landstadsgate sør 31",
     "gender": "Kvinne",
-    "publicMail": null
+    "publicMail": "tina.wilcox@live.no"
   },
   {
     "recno": 218121,
@@ -4764,6 +6168,30 @@
     "publicMail": "tom-egil.flata@t-fk.no"
   },
   {
+    "recno": 218385,
+    "name": "Tom Lennart Bjervamoen",
+    "phone": "+47 40048825",
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": "3825 Lunde",
+    "address": "Ajervegen 55 ",
+    "gender": "Mann",
+    "publicMail": "nome.tom.lennart.bjervamoen@gmail.com"
+  },
+  {
+    "recno": 218525,
+    "name": "Tom Rune Olsen",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 47964766",
+    "zip": "3960 STATHELLE",
+    "address": "Elvikveien 11",
+    "gender": "Mann",
+    "publicMail": "tom.rune.olsen@bamble.kommune.no"
+  },
+  {
     "recno": 200506,
     "name": "Tom Vidar Slåtta",
     "phone": null,
@@ -4788,6 +6216,18 @@
     "publicMail": "tommy@vekstra.no"
   },
   {
+    "recno": 218365,
+    "name": "Tone Astrid Hjartsjø",
+    "phone": "+47 95851879",
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": "3841 Flatdal",
+    "address": "Flatdalsvegen 643",
+    "gender": "Kvinne",
+    "publicMail": "to-kitte@online.no"
+  },
+  {
     "recno": 218138,
     "name": "Tone Berge Hansen",
     "phone": null,
@@ -4798,6 +6238,30 @@
     "address": "Trosvikvegen 54",
     "gender": "Kvinne",
     "publicMail": "Tone.Elisabeth.Berge.Hansen@t-fk.no"
+  },
+  {
+    "recno": 218540,
+    "name": "Tone Helene Strat",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 91809755",
+    "zip": "4980 GJERSTAD",
+    "address": "Auslandsveien 39",
+    "gender": "Kvinne",
+    "publicMail": "to-strat@online.no"
+  },
+  {
+    "recno": 218360,
+    "name": "Tone Reiten",
+    "phone": "+47 991 51 871",
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": "3840 Seljord",
+    "address": null,
+    "gender": "Kvinne",
+    "publicMail": "tone.reiten@hit.no"
   },
   {
     "recno": 218089,
@@ -4848,6 +6312,30 @@
     "publicMail": "torgranerud@gmail.com"
   },
   {
+    "recno": 218451,
+    "name": "Tor Jakob Nordbø",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 90075815",
+    "zip": null,
+    "address": null,
+    "gender": "Mann",
+    "publicMail": "torjn@nordboe.no"
+  },
+  {
+    "recno": 218518,
+    "name": "Tor Jakobsen",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": "4812 KONGSHAVN",
+    "address": "Østre Tromøyvei 603",
+    "gender": "Mann",
+    "publicMail": "jakobsentor@hotmail.com"
+  },
+  {
     "recno": 217067,
     "name": "Tor Langmyr",
     "phone": null,
@@ -4884,6 +6372,18 @@
     "publicMail": null
   },
   {
+    "recno": 218472,
+    "name": "Tor Robert Robstad",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 47292559",
+    "zip": "4700 VENNESLA",
+    "address": "Veråsvegen 16B",
+    "gender": "Mann",
+    "publicMail": "tor.robstad@vennesla-kommunestyre.no"
+  },
+  {
     "recno": 200564,
     "name": "Tor Strømme",
     "phone": "+47 35071195",
@@ -4906,6 +6406,18 @@
     "address": "Skrukkerødvegen 35",
     "gender": "Mann",
     "publicMail": "tord.samdal@t-fk.no"
+  },
+  {
+    "recno": 218494,
+    "name": "Tore Fredvig Erichsen",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 958 85 846",
+    "zip": "4878 GRIMSTAD",
+    "address": "Biestøa 34",
+    "gender": "Mann",
+    "publicMail": null
   },
   {
     "recno": 200486,
@@ -4956,6 +6468,18 @@
     "publicMail": "tomidtsund@gmail.no"
   },
   {
+    "recno": 218450,
+    "name": "Tore Skåli",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 41402244",
+    "zip": null,
+    "address": null,
+    "gender": "Mann",
+    "publicMail": "ts@telemark-panorama.no"
+  },
+  {
     "recno": 217042,
     "name": "Tore Åsland",
     "phone": null,
@@ -4984,12 +6508,12 @@
     "name": "Torgeir Fossli",
     "phone": null,
     "title": null,
-    "privateMail": "torgeir@fossli.info",
+    "privateMail": null,
     "mobilePhone": "+47 90 68 85 15",
     "zip": "3679 NOTODDEN",
     "address": "Snøyrudvegen 67",
     "gender": "Mann",
-    "publicMail": null
+    "publicMail": "torgeir@fossli.info"
   },
   {
     "recno": 200426,
@@ -5021,7 +6545,7 @@
     "phone": null,
     "title": null,
     "privateMail": null,
-    "mobilePhone": "+47 984 27 976",
+    "mobilePhone": "+47 98427976",
     "zip": "3718 SKIEN",
     "address": "Strømdal Terrasse 73",
     "gender": "Kvinne",
@@ -5038,6 +6562,18 @@
     "address": null,
     "gender": "Kvinne",
     "publicMail": "torhild.wahlstrom@politiker.porsgrunn.no"
+  },
+  {
+    "recno": 218501,
+    "name": "Torkel Stana",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": null,
+    "address": null,
+    "gender": "Mann",
+    "publicMail": null
   },
   {
     "recno": 200020,
@@ -5068,7 +6604,7 @@
     "name": "Torstein Tveito",
     "phone": null,
     "title": null,
-    "privateMail": null,
+    "privateMail": "toetveito@gmail.com",
     "mobilePhone": null,
     "zip": "3850 KVITESEID",
     "address": "Dalanvegen 1737",
@@ -5080,10 +6616,22 @@
     "name": "Torunn Brukåsa Kleiva",
     "phone": null,
     "title": null,
-    "privateMail": null,
+    "privateMail": "inklei@online.no",
     "mobilePhone": null,
     "zip": "3825 LUNDE",
     "address": "Hantovegen 6",
+    "gender": "Kvinne",
+    "publicMail": null
+  },
+  {
+    "recno": 218478,
+    "name": "Torunn Fredwall",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 954 13 748",
+    "zip": "4700 VENNESLA",
+    "address": "Venneslavegen 143",
     "gender": "Kvinne",
     "publicMail": null
   },
@@ -5136,6 +6684,18 @@
     "publicMail": "tba@fmte.no"
   },
   {
+    "recno": 218384,
+    "name": "Trond Gunnar Skippervold Hansen",
+    "phone": "+47 92840020",
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": "3830 ULEFOSS",
+    "address": "Hollavegen 47, ",
+    "gender": "Mann",
+    "publicMail": "nome.trond.g.s.hansen@gmail.com"
+  },
+  {
     "recno": 200481,
     "name": "Trude Tvedt Sandvik",
     "phone": null,
@@ -5184,6 +6744,18 @@
     "publicMail": "tvarsi@online.no"
   },
   {
+    "recno": 218502,
+    "name": "Tårån Haugstøl",
+    "phone": "+47 37 04 64 48",
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 990 21 155",
+    "zip": "4878 GRIMSTAD",
+    "address": "Langhaveheia 26",
+    "gender": null,
+    "publicMail": null
+  },
+  {
     "recno": 218143,
     "name": "Una Pasovic",
     "phone": null,
@@ -5206,6 +6778,18 @@
     "address": "Oppdalsveien 321",
     "gender": "Kvinne",
     "publicMail": "unn@kr-as.no"
+  },
+  {
+    "recno": 218545,
+    "name": "Unn Kristin Nygaard",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 95739000",
+    "zip": "3770 KRAGERØ",
+    "address": "Rørvikveien 2 B",
+    "gender": "Kvinne",
+    "publicMail": "unn.kristin.nygaard@kragero.kommune.no"
   },
   {
     "recno": 217298,
@@ -5244,6 +6828,18 @@
     "publicMail": "unni.w@kebas.no"
   },
   {
+    "recno": 218567,
+    "name": "Vanja Egeland",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 41565317",
+    "zip": "4950 RISØR",
+    "address": "Skiveien 20",
+    "gender": "Kvinne",
+    "publicMail": "vanjaegeland@hotmail.com"
+  },
+  {
     "recno": 200389,
     "name": "Veslemøy Wåle",
     "phone": null,
@@ -5256,16 +6852,52 @@
     "publicMail": "Veslemoy.Wale@t-fk.no"
   },
   {
+    "recno": 218491,
+    "name": "Vibeke Salvesen",
+    "phone": "+47 473 04 802",
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": "4900 TVEDESTRAND",
+    "address": "Sjøbodvollen 6",
+    "gender": "Kvinne",
+    "publicMail": "vibsalvesen@hotmail.com"
+  },
+  {
     "recno": 218201,
     "name": "Vibeke-Emilie Abrahamsen",
     "phone": null,
     "title": null,
-    "privateMail": null,
+    "privateMail": "vibeke-emilie.abrahamsen@bamble.kommune.no",
     "mobilePhone": "+47 930 30 347",
-    "zip": "3965 HERRE",
-    "address": "Skipperveien 11",
+    "zip": "3970 LANGESUND",
+    "address": "Hydalkroken 15 B",
     "gender": "Kvinne",
-    "publicMail": null
+    "publicMail": "vibeke.emilie@gmail.com"
+  },
+  {
+    "recno": 218452,
+    "name": "Victor Bjørnli Hansen",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 48995059",
+    "zip": null,
+    "address": null,
+    "gender": "Mann",
+    "publicMail": "Victor.bjornli.hansen@atskog.no"
+  },
+  {
+    "recno": 218411,
+    "name": "Vidar Karlsen",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": null,
+    "address": null,
+    "gender": "Mann",
+    "publicMail": "vidarogingrid@gmail.com "
   },
   {
     "recno": 217076,
@@ -5316,6 +6948,18 @@
     "publicMail": "Wenche.Madshaven@sameyde.vgs.no"
   },
   {
+    "recno": 218570,
+    "name": "Wenche Monrad",
+    "phone": null,
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": "+47 45467234",
+    "zip": "4950 RISØR",
+    "address": "Grønningveien 8 C",
+    "gender": "Kvinne",
+    "publicMail": "wenche.monrad@lhl.no"
+  },
+  {
     "recno": 218343,
     "name": "Wiggo Svendsen",
     "phone": null,
@@ -5326,18 +6970,6 @@
     "address": null,
     "gender": "Mann",
     "publicMail": "wsvendsen@live.no "
-  },
-  {
-    "recno": 200050,
-    "name": "øystein beyer",
-    "phone": null,
-    "title": null,
-    "privateMail": null,
-    "mobilePhone": null,
-    "zip": null,
-    "address": null,
-    "gender": null,
-    "publicMail": null
   },
   {
     "recno": 217210,
@@ -5404,12 +7036,24 @@
     "name": "Ådne Tobias Salomonsen Naper",
     "phone": null,
     "title": null,
-    "privateMail": null,
+    "privateMail": "adne.naper@sv.no",
     "mobilePhone": "+47 99383783",
     "zip": "3714 SKIEN",
     "address": "Mikkel Blikks gate 7 E",
     "gender": "Mann",
     "publicMail": "adne.tobias.salomonsen.naper@t-fk.no"
+  },
+  {
+    "recno": 218523,
+    "name": "Aase Kristine Salen Hagen",
+    "phone": "+47 95362559",
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": "3970 LANGESUND",
+    "address": "Måltrostveien 13",
+    "gender": "Kvinne",
+    "publicMail": "norbunkring@norbunkring.no"
   },
   {
     "recno": 200436,
@@ -5455,8 +7099,20 @@
     "privateMail": "aslaug.sem@nrk.no",
     "mobilePhone": "+47 92923316",
     "zip": "3677 NOTODDEN",
-    "address": "Heddalsvn. 590",
+    "address": "Heddalsveien 590",
     "gender": "Kvinne",
     "publicMail": "Aslaug.Sem-Jacobsen@t-fk.no"
+  },
+  {
+    "recno": 218359,
+    "name": "Aasmund Rinde",
+    "phone": "+47 940 59 936",
+    "title": null,
+    "privateMail": null,
+    "mobilePhone": null,
+    "zip": "3844 ÅMOTSDAL",
+    "address": "Rønjomsgrendi 6",
+    "gender": "Mann",
+    "publicMail": "aasmund@fjellbryggeriet.no"
   }
 ]
