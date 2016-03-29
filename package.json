@@ -1,7 +1,7 @@
 {
   "name": "node-export-politicians",
   "description": "Exports politicians from p360 to json-file for Telemark fylkeskommune",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "license": "MIT",
   "private": true,
   "author": {
