@@ -22,10 +22,10 @@
     "filter": "node filter.js"
   },
   "dependencies": {
-    "mssql": "^2.2.0"
+    "mssql": "^3.3.0"
   },
   "devDependencies": {
-    "standard": "6.0.8",
-    "tap": "5.7.0"
+    "standard": "8.6.0",
+    "tap": "10.0.2"
   }
 }
