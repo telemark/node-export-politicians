@@ -2,6 +2,8 @@
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 # node-export-politicians
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/telemark/node-export-politicians.svg)](https://greenkeeper.io/)
+
 Node module for exporting politicians, political parties and committees from Public360
 
 ## About
