@@ -26,6 +26,6 @@
   },
   "devDependencies": {
     "standard": "6.0.8",
-    "tap": "5.7.0"
+    "tap": "5.8.0"
   }
 }
