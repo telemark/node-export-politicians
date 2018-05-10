@@ -22,7 +22,7 @@
     "filter": "node filter.js"
   },
   "dependencies": {
-    "mssql": "^2.2.0"
+    "mssql": "2.5.0"
   },
   "devDependencies": {
     "standard": "6.0.8",
